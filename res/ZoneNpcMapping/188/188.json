@@ -1,0 +1,2026 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Golem",
+    "Idx": 1,
+    "Id": 17547265,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 2,
+    "Id": 17547266,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 3,
+    "Id": 17547267,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 4,
+    "Id": 17547268,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 5,
+    "Id": 17547269,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 6,
+    "Id": 17547270,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 7,
+    "Id": 17547271,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 8,
+    "Id": 17547272,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 9,
+    "Id": 17547273,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 10,
+    "Id": 17547274,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 11,
+    "Id": 17547275,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 12,
+    "Id": 17547276,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gabblox Magpietongue",
+    "Idx": 13,
+    "Id": 17547277,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 14,
+    "Id": 17547278,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 15,
+    "Id": 17547279,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 16,
+    "Id": 17547280,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 17,
+    "Id": 17547281,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dragontamer",
+    "Idx": 18,
+    "Id": 17547282,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 19,
+    "Id": 17547283,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 20,
+    "Id": 17547284,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 21,
+    "Id": 17547285,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 22,
+    "Id": 17547286,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 23,
+    "Id": 17547287,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 24,
+    "Id": 17547288,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 25,
+    "Id": 17547289,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 26,
+    "Id": 17547290,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tufflix Loglimbs",
+    "Idx": 27,
+    "Id": 17547291,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 28,
+    "Id": 17547292,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 29,
+    "Id": 17547293,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cloktix Longnail",
+    "Idx": 30,
+    "Id": 17547294,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 31,
+    "Id": 17547295,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 32,
+    "Id": 17547296,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 33,
+    "Id": 17547297,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Smeltix Thickhide",
+    "Idx": 34,
+    "Id": 17547298,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jabkix Pigeonpecs",
+    "Idx": 35,
+    "Id": 17547299,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wasabix Callusdigit",
+    "Idx": 36,
+    "Id": 17547300,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 37,
+    "Id": 17547301,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 38,
+    "Id": 17547302,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 39,
+    "Id": 17547303,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 40,
+    "Id": 17547304,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 41,
+    "Id": 17547305,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 42,
+    "Id": 17547306,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 43,
+    "Id": 17547307,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 44,
+    "Id": 17547308,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 45,
+    "Id": 17547309,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 46,
+    "Id": 17547310,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hermitrix Toothrot",
+    "Idx": 47,
+    "Id": 17547311,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wyrmwix Snakespecs",
+    "Idx": 48,
+    "Id": 17547312,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 49,
+    "Id": 17547313,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 50,
+    "Id": 17547314,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 51,
+    "Id": 17547315,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 52,
+    "Id": 17547316,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 53,
+    "Id": 17547317,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 54,
+    "Id": 17547318,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 55,
+    "Id": 17547319,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 56,
+    "Id": 17547320,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 57,
+    "Id": 17547321,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Morgmox Moldnoggin",
+    "Idx": 58,
+    "Id": 17547322,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 59,
+    "Id": 17547323,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sparkspox Sweatbrow",
+    "Idx": 60,
+    "Id": 17547324,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 61,
+    "Id": 17547325,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 62,
+    "Id": 17547326,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 63,
+    "Id": 17547327,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 64,
+    "Id": 17547328,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sparkspox Sweatbrow",
+    "Idx": 65,
+    "Id": 17547329,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 66,
+    "Id": 17547330,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 67,
+    "Id": 17547331,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dragontamer",
+    "Idx": 68,
+    "Id": 17547332,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 69,
+    "Id": 17547333,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 70,
+    "Id": 17547334,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 71,
+    "Id": 17547335,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 72,
+    "Id": 17547336,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Morgmox Moldnoggin",
+    "Idx": 73,
+    "Id": 17547337,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 74,
+    "Id": 17547338,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 75,
+    "Id": 17547339,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 76,
+    "Id": 17547340,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 77,
+    "Id": 17547341,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 78,
+    "Id": 17547342,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 79,
+    "Id": 17547343,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 80,
+    "Id": 17547344,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 81,
+    "Id": 17547345,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 82,
+    "Id": 17547346,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 83,
+    "Id": 17547347,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dragontamer",
+    "Idx": 84,
+    "Id": 17547348,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 85,
+    "Id": 17547349,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 86,
+    "Id": 17547350,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 87,
+    "Id": 17547351,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 88,
+    "Id": 17547352,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 89,
+    "Id": 17547353,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 90,
+    "Id": 17547354,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Elixmix Hooknose",
+    "Idx": 91,
+    "Id": 17547355,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bandrix Rockjaw",
+    "Idx": 92,
+    "Id": 17547356,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 93,
+    "Id": 17547357,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 94,
+    "Id": 17547358,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 95,
+    "Id": 17547359,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 96,
+    "Id": 17547360,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 97,
+    "Id": 17547361,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 98,
+    "Id": 17547362,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 99,
+    "Id": 17547363,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 100,
+    "Id": 17547364,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 101,
+    "Id": 17547365,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 102,
+    "Id": 17547366,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 103,
+    "Id": 17547367,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 104,
+    "Id": 17547368,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 105,
+    "Id": 17547369,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 106,
+    "Id": 17547370,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 107,
+    "Id": 17547371,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 108,
+    "Id": 17547372,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 109,
+    "Id": 17547373,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 110,
+    "Id": 17547374,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 111,
+    "Id": 17547375,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 112,
+    "Id": 17547376,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buffrix Eargone",
+    "Idx": 113,
+    "Id": 17547377,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Humnox Drumbelly",
+    "Idx": 114,
+    "Id": 17547378,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 115,
+    "Id": 17547379,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 116,
+    "Id": 17547380,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buffrix Eargone",
+    "Idx": 117,
+    "Id": 17547381,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Humnox Drumbelly",
+    "Idx": 118,
+    "Id": 17547382,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 119,
+    "Id": 17547383,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 120,
+    "Id": 17547384,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 121,
+    "Id": 17547385,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 122,
+    "Id": 17547386,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buffrix Eargone",
+    "Idx": 123,
+    "Id": 17547387,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Humnox Drumbelly",
+    "Idx": 124,
+    "Id": 17547388,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 125,
+    "Id": 17547389,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 126,
+    "Id": 17547390,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 127,
+    "Id": 17547391,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 128,
+    "Id": 17547392,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 129,
+    "Id": 17547393,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ticktox Beadyeyes",
+    "Idx": 130,
+    "Id": 17547394,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lurklox Dhalmelneck",
+    "Idx": 131,
+    "Id": 17547395,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Trailblix Goatmug",
+    "Idx": 132,
+    "Id": 17547396,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 133,
+    "Id": 17547397,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 134,
+    "Id": 17547398,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 135,
+    "Id": 17547399,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 136,
+    "Id": 17547400,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 137,
+    "Id": 17547401,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kikklix Longlegs",
+    "Idx": 138,
+    "Id": 17547402,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 139,
+    "Id": 17547403,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 140,
+    "Id": 17547404,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 141,
+    "Id": 17547405,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 142,
+    "Id": 17547406,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kikklix Longlegs",
+    "Idx": 143,
+    "Id": 17547407,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 144,
+    "Id": 17547408,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 145,
+    "Id": 17547409,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 146,
+    "Id": 17547410,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 147,
+    "Id": 17547411,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 148,
+    "Id": 17547412,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 149,
+    "Id": 17547413,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 150,
+    "Id": 17547414,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 151,
+    "Id": 17547415,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 152,
+    "Id": 17547416,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 153,
+    "Id": 17547417,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 154,
+    "Id": 17547418,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 155,
+    "Id": 17547419,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 156,
+    "Id": 17547420,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 157,
+    "Id": 17547421,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 158,
+    "Id": 17547422,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 159,
+    "Id": 17547423,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Karashix Swollenskull",
+    "Idx": 160,
+    "Id": 17547424,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 161,
+    "Id": 17547425,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dragontamer",
+    "Idx": 162,
+    "Id": 17547426,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 163,
+    "Id": 17547427,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 164,
+    "Id": 17547428,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 165,
+    "Id": 17547429,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 166,
+    "Id": 17547430,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 167,
+    "Id": 17547431,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 168,
+    "Id": 17547432,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 169,
+    "Id": 17547433,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 170,
+    "Id": 17547434,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 171,
+    "Id": 17547435,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 172,
+    "Id": 17547436,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 173,
+    "Id": 17547437,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mortilox Wartpaws",
+    "Idx": 174,
+    "Id": 17547438,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 175,
+    "Id": 17547439,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Karashix Swollenskull",
+    "Idx": 176,
+    "Id": 17547440,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 177,
+    "Id": 17547441,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 178,
+    "Id": 17547442,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 179,
+    "Id": 17547443,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 180,
+    "Id": 17547444,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 181,
+    "Id": 17547445,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 182,
+    "Id": 17547446,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 183,
+    "Id": 17547447,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 184,
+    "Id": 17547448,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 185,
+    "Id": 17547449,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 186,
+    "Id": 17547450,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 187,
+    "Id": 17547451,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dragontamer",
+    "Idx": 188,
+    "Id": 17547452,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 189,
+    "Id": 17547453,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rutrix Hamgams",
+    "Idx": 190,
+    "Id": 17547454,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 191,
+    "Id": 17547455,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 192,
+    "Id": 17547456,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 193,
+    "Id": 17547457,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 194,
+    "Id": 17547458,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 195,
+    "Id": 17547459,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 196,
+    "Id": 17547460,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 197,
+    "Id": 17547461,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 198,
+    "Id": 17547462,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 199,
+    "Id": 17547463,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 200,
+    "Id": 17547464,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 201,
+    "Id": 17547465,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 202,
+    "Id": 17547466,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 203,
+    "Id": 17547467,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Snypestix Eaglebeak",
+    "Idx": 204,
+    "Id": 17547468,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 205,
+    "Id": 17547469,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 206,
+    "Id": 17547470,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 207,
+    "Id": 17547471,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Anvilix Sootwrists",
+    "Idx": 208,
+    "Id": 17547472,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bootrix Jaggedelbow",
+    "Idx": 209,
+    "Id": 17547473,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mobpix Mucousmouth",
+    "Idx": 210,
+    "Id": 17547474,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 211,
+    "Id": 17547475,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 212,
+    "Id": 17547476,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 213,
+    "Id": 17547477,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Distilix Stickytoes",
+    "Idx": 214,
+    "Id": 17547478,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eremix Snottynostril",
+    "Idx": 215,
+    "Id": 17547479,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jabbrox Grannyguise",
+    "Idx": 216,
+    "Id": 17547480,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 217,
+    "Id": 17547481,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 218,
+    "Id": 17547482,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 219,
+    "Id": 17547483,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 220,
+    "Id": 17547484,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scruffix Shaggychest",
+    "Idx": 221,
+    "Id": 17547485,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tymexox Ninefingers",
+    "Idx": 222,
+    "Id": 17547486,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blazox Boneybod",
+    "Idx": 223,
+    "Id": 17547487,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 224,
+    "Id": 17547488,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 225,
+    "Id": 17547489,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Prowlox Barrelbelly",
+    "Idx": 226,
+    "Id": 17547490,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 227,
+    "Id": 17547491,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Slystix Megapeepers",
+    "Idx": 228,
+    "Id": 17547492,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quicktrix Hexhands",
+    "Idx": 229,
+    "Id": 17547493,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Feralox Honeylips",
+    "Idx": 230,
+    "Id": 17547494,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Feralox's Slime",
+    "Idx": 231,
+    "Id": 17547495,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scourquix Scaleskin",
+    "Idx": 232,
+    "Id": 17547496,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scourquix's Wyvern",
+    "Idx": 233,
+    "Id": 17547497,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wilywox Tenderpalm",
+    "Idx": 234,
+    "Id": 17547498,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arch Goblin Golem",
+    "Idx": 235,
+    "Id": 17547499,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 237,
+    "Id": 17547501,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 238,
+    "Id": 17547502,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 243,
+    "Id": 17547507,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Somnial Threshold",
+    "Idx": 244,
+    "Id": 17547508,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 245,
+    "Id": 17547509,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 246,
+    "Id": 17547510,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 247,
+    "Id": 17547511,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 248,
+    "Id": 17547512,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 249,
+    "Id": 17547513,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 251,
+    "Id": 17547515,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 252,
+    "Id": 17547516,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 253,
+    "Id": 17547517,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 254,
+    "Id": 17547518,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 255,
+    "Id": 17547519,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 256,
+    "Id": 17547520,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 257,
+    "Id": 17547521,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 258,
+    "Id": 17547522,
+    "ZoneId": 188,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

@@ -1,0 +1,2042 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Overlord's Tombstone",
+    "Idx": 1,
+    "Id": 17534977,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Battlechoir Gitchfotch",
+    "Idx": 2,
+    "Id": 17534978,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soulsender Fugbrag",
+    "Idx": 3,
+    "Id": 17534979,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 4,
+    "Id": 17534980,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 5,
+    "Id": 17534981,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 6,
+    "Id": 17534982,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 7,
+    "Id": 17534983,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 8,
+    "Id": 17534984,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 9,
+    "Id": 17534985,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 10,
+    "Id": 17534986,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 11,
+    "Id": 17534987,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 12,
+    "Id": 17534988,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 13,
+    "Id": 17534989,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 14,
+    "Id": 17534990,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 15,
+    "Id": 17534991,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 16,
+    "Id": 17534992,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 17,
+    "Id": 17534993,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 18,
+    "Id": 17534994,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 19,
+    "Id": 17534995,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 20,
+    "Id": 17534996,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 21,
+    "Id": 17534997,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 22,
+    "Id": 17534998,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 23,
+    "Id": 17534999,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 24,
+    "Id": 17535000,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 25,
+    "Id": 17535001,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 26,
+    "Id": 17535002,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 27,
+    "Id": 17535003,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 28,
+    "Id": 17535004,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 29,
+    "Id": 17535005,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Reapertongue Gadgquok",
+    "Idx": 30,
+    "Id": 17535006,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 31,
+    "Id": 17535007,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 32,
+    "Id": 17535008,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 33,
+    "Id": 17535009,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 34,
+    "Id": 17535010,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 35,
+    "Id": 17535011,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 36,
+    "Id": 17535012,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 37,
+    "Id": 17535013,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 38,
+    "Id": 17535014,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 39,
+    "Id": 17535015,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 40,
+    "Id": 17535016,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 41,
+    "Id": 17535017,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 42,
+    "Id": 17535018,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 43,
+    "Id": 17535019,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 44,
+    "Id": 17535020,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 45,
+    "Id": 17535021,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 46,
+    "Id": 17535022,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 47,
+    "Id": 17535023,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 48,
+    "Id": 17535024,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 49,
+    "Id": 17535025,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 50,
+    "Id": 17535026,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 51,
+    "Id": 17535027,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 52,
+    "Id": 17535028,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 53,
+    "Id": 17535029,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 54,
+    "Id": 17535030,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 55,
+    "Id": 17535031,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wyrmgnasher Bjakdek",
+    "Idx": 56,
+    "Id": 17535032,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 57,
+    "Id": 17535033,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 58,
+    "Id": 17535034,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 59,
+    "Id": 17535035,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 60,
+    "Id": 17535036,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 61,
+    "Id": 17535037,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 62,
+    "Id": 17535038,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 63,
+    "Id": 17535039,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 64,
+    "Id": 17535040,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 65,
+    "Id": 17535041,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 66,
+    "Id": 17535042,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 67,
+    "Id": 17535043,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Voidstreaker Butchnotch",
+    "Idx": 68,
+    "Id": 17535044,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 69,
+    "Id": 17535045,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 70,
+    "Id": 17535046,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 71,
+    "Id": 17535047,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 72,
+    "Id": 17535048,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 73,
+    "Id": 17535049,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 74,
+    "Id": 17535050,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 75,
+    "Id": 17535051,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 76,
+    "Id": 17535052,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 77,
+    "Id": 17535053,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 78,
+    "Id": 17535054,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 79,
+    "Id": 17535055,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 80,
+    "Id": 17535056,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 81,
+    "Id": 17535057,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 82,
+    "Id": 17535058,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 83,
+    "Id": 17535059,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 84,
+    "Id": 17535060,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 85,
+    "Id": 17535061,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 86,
+    "Id": 17535062,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 87,
+    "Id": 17535063,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 88,
+    "Id": 17535064,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 89,
+    "Id": 17535065,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 90,
+    "Id": 17535066,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 91,
+    "Id": 17535067,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 92,
+    "Id": 17535068,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 93,
+    "Id": 17535069,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 94,
+    "Id": 17535070,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 95,
+    "Id": 17535071,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 96,
+    "Id": 17535072,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 97,
+    "Id": 17535073,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 98,
+    "Id": 17535074,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 99,
+    "Id": 17535075,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 100,
+    "Id": 17535076,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 101,
+    "Id": 17535077,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 102,
+    "Id": 17535078,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 103,
+    "Id": 17535079,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 104,
+    "Id": 17535080,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 105,
+    "Id": 17535081,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 106,
+    "Id": 17535082,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 107,
+    "Id": 17535083,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 108,
+    "Id": 17535084,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 109,
+    "Id": 17535085,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 110,
+    "Id": 17535086,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 111,
+    "Id": 17535087,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 112,
+    "Id": 17535088,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 113,
+    "Id": 17535089,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 114,
+    "Id": 17535090,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 115,
+    "Id": 17535091,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 116,
+    "Id": 17535092,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 117,
+    "Id": 17535093,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 118,
+    "Id": 17535094,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 119,
+    "Id": 17535095,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 120,
+    "Id": 17535096,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 121,
+    "Id": 17535097,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 122,
+    "Id": 17535098,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 123,
+    "Id": 17535099,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 124,
+    "Id": 17535100,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 125,
+    "Id": 17535101,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 126,
+    "Id": 17535102,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 127,
+    "Id": 17535103,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 128,
+    "Id": 17535104,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 129,
+    "Id": 17535105,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 130,
+    "Id": 17535106,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 131,
+    "Id": 17535107,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 132,
+    "Id": 17535108,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 133,
+    "Id": 17535109,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 134,
+    "Id": 17535110,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 135,
+    "Id": 17535111,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 136,
+    "Id": 17535112,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 137,
+    "Id": 17535113,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 138,
+    "Id": 17535114,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 139,
+    "Id": 17535115,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 140,
+    "Id": 17535116,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 141,
+    "Id": 17535117,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 142,
+    "Id": 17535118,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 143,
+    "Id": 17535119,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 144,
+    "Id": 17535120,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 145,
+    "Id": 17535121,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 146,
+    "Id": 17535122,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 147,
+    "Id": 17535123,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 148,
+    "Id": 17535124,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 149,
+    "Id": 17535125,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 150,
+    "Id": 17535126,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 151,
+    "Id": 17535127,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 152,
+    "Id": 17535128,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 153,
+    "Id": 17535129,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 154,
+    "Id": 17535130,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 155,
+    "Id": 17535131,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 156,
+    "Id": 17535132,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 157,
+    "Id": 17535133,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 158,
+    "Id": 17535134,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 159,
+    "Id": 17535135,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 160,
+    "Id": 17535136,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 161,
+    "Id": 17535137,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 162,
+    "Id": 17535138,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 163,
+    "Id": 17535139,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 164,
+    "Id": 17535140,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 165,
+    "Id": 17535141,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 166,
+    "Id": 17535142,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 167,
+    "Id": 17535143,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 168,
+    "Id": 17535144,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 169,
+    "Id": 17535145,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 170,
+    "Id": 17535146,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 171,
+    "Id": 17535147,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 172,
+    "Id": 17535148,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 173,
+    "Id": 17535149,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 174,
+    "Id": 17535150,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 175,
+    "Id": 17535151,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 176,
+    "Id": 17535152,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 177,
+    "Id": 17535153,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 178,
+    "Id": 17535154,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 179,
+    "Id": 17535155,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 180,
+    "Id": 17535156,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 181,
+    "Id": 17535157,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 182,
+    "Id": 17535158,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 183,
+    "Id": 17535159,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 184,
+    "Id": 17535160,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 185,
+    "Id": 17535161,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 186,
+    "Id": 17535162,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 187,
+    "Id": 17535163,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 188,
+    "Id": 17535164,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 189,
+    "Id": 17535165,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 190,
+    "Id": 17535166,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 191,
+    "Id": 17535167,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 192,
+    "Id": 17535168,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 193,
+    "Id": 17535169,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 194,
+    "Id": 17535170,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 195,
+    "Id": 17535171,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 196,
+    "Id": 17535172,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 197,
+    "Id": 17535173,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 198,
+    "Id": 17535174,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 199,
+    "Id": 17535175,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 200,
+    "Id": 17535176,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 201,
+    "Id": 17535177,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 202,
+    "Id": 17535178,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 203,
+    "Id": 17535179,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 204,
+    "Id": 17535180,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 205,
+    "Id": 17535181,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 206,
+    "Id": 17535182,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 207,
+    "Id": 17535183,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 208,
+    "Id": 17535184,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 209,
+    "Id": 17535185,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 210,
+    "Id": 17535186,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 211,
+    "Id": 17535187,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 212,
+    "Id": 17535188,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 213,
+    "Id": 17535189,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 214,
+    "Id": 17535190,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 215,
+    "Id": 17535191,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 216,
+    "Id": 17535192,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 217,
+    "Id": 17535193,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 218,
+    "Id": 17535194,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 219,
+    "Id": 17535195,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 220,
+    "Id": 17535196,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 221,
+    "Id": 17535197,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 222,
+    "Id": 17535198,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 223,
+    "Id": 17535199,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 224,
+    "Id": 17535200,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 225,
+    "Id": 17535201,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 226,
+    "Id": 17535202,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 227,
+    "Id": 17535203,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 228,
+    "Id": 17535204,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 229,
+    "Id": 17535205,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 230,
+    "Id": 17535206,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bladeburner Rokgevok",
+    "Idx": 231,
+    "Id": 17535207,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Steelshank Kratzvatz",
+    "Idx": 232,
+    "Id": 17535208,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kratzvatz's Hecteyes",
+    "Idx": 233,
+    "Id": 17535209,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bloodfist Voshgrosh",
+    "Idx": 234,
+    "Id": 17535210,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Spellspear Djokvukk",
+    "Idx": 235,
+    "Id": 17535211,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Djokvukk's Wyvern",
+    "Idx": 236,
+    "Id": 17535212,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arch Overlord Tombstone",
+    "Idx": 237,
+    "Id": 17535213,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 239,
+    "Id": 17535215,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 240,
+    "Id": 17535216,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 245,
+    "Id": 17535221,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Somnial Threshold",
+    "Idx": 246,
+    "Id": 17535222,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 247,
+    "Id": 17535223,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 248,
+    "Id": 17535224,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 249,
+    "Id": 17535225,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 250,
+    "Id": 17535226,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 251,
+    "Id": 17535227,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 253,
+    "Id": 17535229,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 254,
+    "Id": 17535230,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 255,
+    "Id": 17535231,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 256,
+    "Id": 17535232,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 257,
+    "Id": 17535233,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 258,
+    "Id": 17535234,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 259,
+    "Id": 17535235,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 260,
+    "Id": 17535236,
+    "ZoneId": 185,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

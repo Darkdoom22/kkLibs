@@ -1,0 +1,990 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gumdrop",
+    "Idx": 1,
+    "Id": 20905985,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Egungun",
+    "Idx": 2,
+    "Id": 20905986,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Babalu Aye",
+    "Idx": 3,
+    "Id": 20905987,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Hippalectryon",
+    "Idx": 4,
+    "Id": 20905988,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Chuhaister",
+    "Idx": 5,
+    "Id": 20905989,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Kuperan",
+    "Idx": 6,
+    "Id": 20905990,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Tupilaq",
+    "Idx": 7,
+    "Id": 20905991,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Scultone",
+    "Idx": 8,
+    "Id": 20905992,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Skoll",
+    "Idx": 9,
+    "Id": 20905993,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Shadhavar",
+    "Idx": 10,
+    "Id": 20905994,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Shadhavar's Avatar",
+    "Idx": 11,
+    "Id": 20905995,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Hoardbox",
+    "Idx": 12,
+    "Id": 20905996,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Hoardbox",
+    "Idx": 13,
+    "Id": 20905997,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Lockbox",
+    "Idx": 14,
+    "Id": 20905998,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 15,
+    "Id": 20905999,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "DOOR_MASTER",
+    "Idx": 21,
+    "Id": 20906005,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l0",
+    "Idx": 22,
+    "Id": 20906006,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l1",
+    "Idx": 23,
+    "Id": 20906007,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l2",
+    "Idx": 24,
+    "Id": 20906008,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l3",
+    "Idx": 25,
+    "Id": 20906009,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l4",
+    "Idx": 26,
+    "Id": 20906010,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l5",
+    "Idx": 27,
+    "Id": 20906011,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l6",
+    "Idx": 28,
+    "Id": 20906012,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l7",
+    "Idx": 29,
+    "Id": 20906013,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l8",
+    "Idx": 30,
+    "Id": 20906014,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3l9",
+    "Idx": 31,
+    "Id": 20906015,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3la",
+    "Idx": 32,
+    "Id": 20906016,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lb",
+    "Idx": 33,
+    "Id": 20906017,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lc",
+    "Idx": 34,
+    "Id": 20906018,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3ld",
+    "Idx": 35,
+    "Id": 20906019,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3le",
+    "Idx": 36,
+    "Id": 20906020,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lf",
+    "Idx": 37,
+    "Id": 20906021,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lg",
+    "Idx": 38,
+    "Id": 20906022,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lh",
+    "Idx": 39,
+    "Id": 20906023,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3li",
+    "Idx": 40,
+    "Id": 20906024,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lj",
+    "Idx": 41,
+    "Id": 20906025,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lk",
+    "Idx": 42,
+    "Id": 20906026,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3ll",
+    "Idx": 43,
+    "Id": 20906027,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lm",
+    "Idx": 44,
+    "Id": 20906028,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3ln",
+    "Idx": 45,
+    "Id": 20906029,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lo",
+    "Idx": 46,
+    "Id": 20906030,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lp",
+    "Idx": 47,
+    "Id": 20906031,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lq",
+    "Idx": 48,
+    "Id": 20906032,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lr",
+    "Idx": 49,
+    "Id": 20906033,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3ls",
+    "Idx": 50,
+    "Id": 20906034,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lt",
+    "Idx": 51,
+    "Id": 20906035,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lu",
+    "Idx": 52,
+    "Id": 20906036,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lv",
+    "Idx": 53,
+    "Id": 20906037,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lw",
+    "Idx": 54,
+    "Id": 20906038,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lx",
+    "Idx": 55,
+    "Id": 20906039,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3ly",
+    "Idx": 56,
+    "Id": 20906040,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_3lz",
+    "Idx": 57,
+    "Id": 20906041,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll0",
+    "Idx": 58,
+    "Id": 20906042,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll1",
+    "Idx": 59,
+    "Id": 20906043,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll2",
+    "Idx": 60,
+    "Id": 20906044,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll3",
+    "Idx": 61,
+    "Id": 20906045,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll4",
+    "Idx": 62,
+    "Id": 20906046,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll5",
+    "Idx": 63,
+    "Id": 20906047,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll6",
+    "Idx": 64,
+    "Id": 20906048,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll7",
+    "Idx": 65,
+    "Id": 20906049,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll8",
+    "Idx": 66,
+    "Id": 20906050,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_ll9",
+    "Idx": 67,
+    "Id": 20906051,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_lla",
+    "Idx": 68,
+    "Id": 20906052,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llb",
+    "Idx": 69,
+    "Id": 20906053,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llc",
+    "Idx": 70,
+    "Id": 20906054,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_lld",
+    "Idx": 71,
+    "Id": 20906055,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_lle",
+    "Idx": 72,
+    "Id": 20906056,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llf",
+    "Idx": 73,
+    "Id": 20906057,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llg",
+    "Idx": 74,
+    "Id": 20906058,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llh",
+    "Idx": 75,
+    "Id": 20906059,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_lli",
+    "Idx": 76,
+    "Id": 20906060,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llj",
+    "Idx": 77,
+    "Id": 20906061,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llk",
+    "Idx": 78,
+    "Id": 20906062,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_lll",
+    "Idx": 79,
+    "Id": 20906063,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llm",
+    "Idx": 80,
+    "Id": 20906064,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_lln",
+    "Idx": 81,
+    "Id": 20906065,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llo",
+    "Idx": 82,
+    "Id": 20906066,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llp",
+    "Idx": 83,
+    "Id": 20906067,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llq",
+    "Idx": 84,
+    "Id": 20906068,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_llr",
+    "Idx": 85,
+    "Id": 20906069,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "_lls",
+    "Idx": 86,
+    "Id": 20906070,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "SystemMaster",
+    "Idx": 87,
+    "Id": 20906071,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 88,
+    "Id": 20906072,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Packapic",
+    "Idx": 89,
+    "Id": 20906073,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 90,
+    "Id": 20906074,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "test",
+    "Idx": 91,
+    "Id": 20906075,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 92,
+    "Id": 20906076,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 93,
+    "Id": 20906077,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 94,
+    "Id": 20906078,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 95,
+    "Id": 20906079,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 96,
+    "Id": 20906080,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Rediroq",
+    "Idx": 97,
+    "Id": 20906081,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 98,
+    "Id": 20906082,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "",
+    "Idx": 99,
+    "Id": 20906083,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Flaraflic",
+    "Idx": 100,
+    "Id": 20906084,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Game Master",
+    "Idx": 101,
+    "Id": 20906085,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Sadistiq",
+    "Idx": 102,
+    "Id": 20906086,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  },
+  {
+    "Name": "Survival Chest",
+    "Idx": 103,
+    "Id": 20906087,
+    "ZoneId": 1008,
+    "ConvertedZoneNames": [
+      "Ghoyu's Reverie"
+    ],
+    "ConvertedZoneType": "Moblin Maze Mongers"
+  }
+]

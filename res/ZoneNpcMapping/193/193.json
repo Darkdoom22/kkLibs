@@ -1,0 +1,3698 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stag Crab",
+    "Idx": 1,
+    "Id": 17567745,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stag Crab",
+    "Idx": 2,
+    "Id": 17567746,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 3,
+    "Id": 17567747,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poison Leech",
+    "Idx": 4,
+    "Id": 17567748,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rancid Ooze",
+    "Idx": 5,
+    "Id": 17567749,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 6,
+    "Id": 17567750,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 7,
+    "Id": 17567751,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 8,
+    "Id": 17567752,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 9,
+    "Id": 17567753,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Snipper",
+    "Idx": 10,
+    "Id": 17567754,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Snipper",
+    "Idx": 11,
+    "Id": 17567755,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 12,
+    "Id": 17567756,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 13,
+    "Id": 17567757,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 14,
+    "Id": 17567758,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 15,
+    "Id": 17567759,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 16,
+    "Id": 17567760,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 17,
+    "Id": 17567761,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 18,
+    "Id": 17567762,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 19,
+    "Id": 17567763,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 20,
+    "Id": 17567764,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Tinkerer",
+    "Idx": 21,
+    "Id": 17567765,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Butcher",
+    "Idx": 22,
+    "Id": 17567766,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Ambusher",
+    "Idx": 23,
+    "Id": 17567767,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Tinkerer",
+    "Idx": 24,
+    "Id": 17567768,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Butcher",
+    "Idx": 25,
+    "Id": 17567769,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Ambusher",
+    "Idx": 26,
+    "Id": 17567770,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Tinkerer",
+    "Idx": 27,
+    "Id": 17567771,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Butcher",
+    "Idx": 28,
+    "Id": 17567772,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 29,
+    "Id": 17567773,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 30,
+    "Id": 17567774,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Ambusher",
+    "Idx": 31,
+    "Id": 17567775,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 32,
+    "Id": 17567776,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 33,
+    "Id": 17567777,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 34,
+    "Id": 17567778,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 35,
+    "Id": 17567779,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 36,
+    "Id": 17567780,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 37,
+    "Id": 17567781,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 38,
+    "Id": 17567782,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 39,
+    "Id": 17567783,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 40,
+    "Id": 17567784,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 41,
+    "Id": 17567785,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 42,
+    "Id": 17567786,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 43,
+    "Id": 17567787,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 44,
+    "Id": 17567788,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 45,
+    "Id": 17567789,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 46,
+    "Id": 17567790,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 47,
+    "Id": 17567791,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 48,
+    "Id": 17567792,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 49,
+    "Id": 17567793,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 50,
+    "Id": 17567794,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 51,
+    "Id": 17567795,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 52,
+    "Id": 17567796,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 53,
+    "Id": 17567797,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 54,
+    "Id": 17567798,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 55,
+    "Id": 17567799,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 56,
+    "Id": 17567800,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Donggu",
+    "Idx": 57,
+    "Id": 17567801,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 58,
+    "Id": 17567802,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 59,
+    "Id": 17567803,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 60,
+    "Id": 17567804,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mugger",
+    "Idx": 61,
+    "Id": 17567805,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Leecher",
+    "Idx": 62,
+    "Id": 17567806,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Gambler",
+    "Idx": 63,
+    "Id": 17567807,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mugger",
+    "Idx": 64,
+    "Id": 17567808,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Leecher",
+    "Idx": 65,
+    "Id": 17567809,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Gambler",
+    "Idx": 66,
+    "Id": 17567810,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 67,
+    "Id": 17567811,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 68,
+    "Id": 17567812,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 69,
+    "Id": 17567813,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 70,
+    "Id": 17567814,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 71,
+    "Id": 17567815,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 72,
+    "Id": 17567816,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 73,
+    "Id": 17567817,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mugger",
+    "Idx": 74,
+    "Id": 17567818,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Leecher",
+    "Idx": 75,
+    "Id": 17567819,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Gambler",
+    "Idx": 76,
+    "Id": 17567820,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mugger",
+    "Idx": 77,
+    "Id": 17567821,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Leecher",
+    "Idx": 78,
+    "Id": 17567822,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Gambler",
+    "Idx": 79,
+    "Id": 17567823,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 80,
+    "Id": 17567824,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 81,
+    "Id": 17567825,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 82,
+    "Id": 17567826,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 83,
+    "Id": 17567827,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 84,
+    "Id": 17567828,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 85,
+    "Id": 17567829,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 86,
+    "Id": 17567830,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mugger",
+    "Idx": 87,
+    "Id": 17567831,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 88,
+    "Id": 17567832,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 89,
+    "Id": 17567833,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 90,
+    "Id": 17567834,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 91,
+    "Id": 17567835,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 92,
+    "Id": 17567836,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 93,
+    "Id": 17567837,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 94,
+    "Id": 17567838,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 95,
+    "Id": 17567839,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 96,
+    "Id": 17567840,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 97,
+    "Id": 17567841,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 98,
+    "Id": 17567842,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 99,
+    "Id": 17567843,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 100,
+    "Id": 17567844,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 101,
+    "Id": 17567845,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 102,
+    "Id": 17567846,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 103,
+    "Id": 17567847,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 104,
+    "Id": 17567848,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 105,
+    "Id": 17567849,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 106,
+    "Id": 17567850,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 107,
+    "Id": 17567851,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 108,
+    "Id": 17567852,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 109,
+    "Id": 17567853,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 110,
+    "Id": 17567854,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 111,
+    "Id": 17567855,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 112,
+    "Id": 17567856,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 113,
+    "Id": 17567857,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 114,
+    "Id": 17567858,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 115,
+    "Id": 17567859,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 116,
+    "Id": 17567860,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 117,
+    "Id": 17567861,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 118,
+    "Id": 17567862,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 119,
+    "Id": 17567863,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 120,
+    "Id": 17567864,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilis Leech",
+    "Idx": 121,
+    "Id": 17567865,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 122,
+    "Id": 17567866,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 123,
+    "Id": 17567867,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 124,
+    "Id": 17567868,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 125,
+    "Id": 17567869,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 126,
+    "Id": 17567870,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 127,
+    "Id": 17567871,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 128,
+    "Id": 17567872,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 129,
+    "Id": 17567873,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 130,
+    "Id": 17567874,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 131,
+    "Id": 17567875,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 132,
+    "Id": 17567876,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 133,
+    "Id": 17567877,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 134,
+    "Id": 17567878,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 135,
+    "Id": 17567879,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 136,
+    "Id": 17567880,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 137,
+    "Id": 17567881,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 138,
+    "Id": 17567882,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 139,
+    "Id": 17567883,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dung Beetle",
+    "Idx": 140,
+    "Id": 17567884,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 141,
+    "Id": 17567885,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 142,
+    "Id": 17567886,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 143,
+    "Id": 17567887,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vorpal Bunny",
+    "Idx": 144,
+    "Id": 17567888,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poison Leech",
+    "Idx": 145,
+    "Id": 17567889,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poison Leech",
+    "Idx": 146,
+    "Id": 17567890,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poison Leech",
+    "Idx": 147,
+    "Id": 17567891,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poison Leech",
+    "Idx": 148,
+    "Id": 17567892,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poison Leech",
+    "Idx": 149,
+    "Id": 17567893,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poison Leech",
+    "Idx": 150,
+    "Id": 17567894,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jelly",
+    "Idx": 151,
+    "Id": 17567895,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jelly",
+    "Idx": 152,
+    "Id": 17567896,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jelly",
+    "Idx": 153,
+    "Id": 17567897,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jelly",
+    "Idx": 154,
+    "Id": 17567898,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jelly",
+    "Idx": 155,
+    "Id": 17567899,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jelly",
+    "Idx": 156,
+    "Id": 17567900,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Agar Agar",
+    "Idx": 157,
+    "Id": 17567901,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mugger",
+    "Idx": 158,
+    "Id": 17567902,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 159,
+    "Id": 17567903,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 160,
+    "Id": 17567904,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 161,
+    "Id": 17567905,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 162,
+    "Id": 17567906,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 163,
+    "Id": 17567907,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 164,
+    "Id": 17567908,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 165,
+    "Id": 17567909,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 166,
+    "Id": 17567910,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 167,
+    "Id": 17567911,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 168,
+    "Id": 17567912,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 169,
+    "Id": 17567913,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 170,
+    "Id": 17567914,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 171,
+    "Id": 17567915,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 172,
+    "Id": 17567916,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 173,
+    "Id": 17567917,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 174,
+    "Id": 17567918,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 175,
+    "Id": 17567919,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 176,
+    "Id": 17567920,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 177,
+    "Id": 17567921,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 178,
+    "Id": 17567922,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 179,
+    "Id": 17567923,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 180,
+    "Id": 17567924,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 181,
+    "Id": 17567925,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 182,
+    "Id": 17567926,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 183,
+    "Id": 17567927,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 184,
+    "Id": 17567928,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 185,
+    "Id": 17567929,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 186,
+    "Id": 17567930,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 187,
+    "Id": 17567931,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 188,
+    "Id": 17567932,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Targe Beetle",
+    "Idx": 189,
+    "Id": 17567933,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 190,
+    "Id": 17567934,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 191,
+    "Id": 17567935,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 192,
+    "Id": 17567936,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 193,
+    "Id": 17567937,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 194,
+    "Id": 17567938,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 195,
+    "Id": 17567939,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 196,
+    "Id": 17567940,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 197,
+    "Id": 17567941,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 198,
+    "Id": 17567942,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 199,
+    "Id": 17567943,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 200,
+    "Id": 17567944,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 201,
+    "Id": 17567945,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 202,
+    "Id": 17567946,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 203,
+    "Id": 17567947,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 204,
+    "Id": 17567948,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 205,
+    "Id": 17567949,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 206,
+    "Id": 17567950,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 207,
+    "Id": 17567951,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 208,
+    "Id": 17567952,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 209,
+    "Id": 17567953,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 210,
+    "Id": 17567954,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 211,
+    "Id": 17567955,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 212,
+    "Id": 17567956,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 213,
+    "Id": 17567957,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 214,
+    "Id": 17567958,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 215,
+    "Id": 17567959,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 216,
+    "Id": 17567960,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 217,
+    "Id": 17567961,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buds Bunny",
+    "Idx": 218,
+    "Id": 17567962,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 219,
+    "Id": 17567963,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swagger Spruce",
+    "Idx": 220,
+    "Id": 17567964,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 221,
+    "Id": 17567965,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 222,
+    "Id": 17567966,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Ambusher",
+    "Idx": 223,
+    "Id": 17567967,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Tinkerer",
+    "Idx": 224,
+    "Id": 17567968,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Butcher",
+    "Idx": 225,
+    "Id": 17567969,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Ambusher",
+    "Idx": 226,
+    "Id": 17567970,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Tinkerer",
+    "Idx": 227,
+    "Id": 17567971,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Butcher",
+    "Idx": 228,
+    "Id": 17567972,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 229,
+    "Id": 17567973,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 230,
+    "Id": 17567974,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 231,
+    "Id": 17567975,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 232,
+    "Id": 17567976,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 233,
+    "Id": 17567977,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 234,
+    "Id": 17567978,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Ambusher",
+    "Idx": 235,
+    "Id": 17567979,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Tinkerer",
+    "Idx": 236,
+    "Id": 17567980,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Butcher",
+    "Idx": 237,
+    "Id": 17567981,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Ambusher",
+    "Idx": 238,
+    "Id": 17567982,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Tinkerer",
+    "Idx": 239,
+    "Id": 17567983,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Butcher",
+    "Idx": 240,
+    "Id": 17567984,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 241,
+    "Id": 17567985,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 242,
+    "Id": 17567986,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 243,
+    "Id": 17567987,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 244,
+    "Id": 17567988,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 245,
+    "Id": 17567989,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blood Bunny",
+    "Idx": 246,
+    "Id": 17567990,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 247,
+    "Id": 17567991,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 248,
+    "Id": 17567992,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 249,
+    "Id": 17567993,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 250,
+    "Id": 17567994,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 251,
+    "Id": 17567995,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 252,
+    "Id": 17567996,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 253,
+    "Id": 17567997,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 254,
+    "Id": 17567998,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 255,
+    "Id": 17567999,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 256,
+    "Id": 17568000,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 257,
+    "Id": 17568001,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 258,
+    "Id": 17568002,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 259,
+    "Id": 17568003,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 260,
+    "Id": 17568004,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 261,
+    "Id": 17568005,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 262,
+    "Id": 17568006,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 263,
+    "Id": 17568007,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 264,
+    "Id": 17568008,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 265,
+    "Id": 17568009,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 266,
+    "Id": 17568010,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 267,
+    "Id": 17568011,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalking Sapling",
+    "Idx": 268,
+    "Id": 17568012,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 269,
+    "Id": 17568013,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 270,
+    "Id": 17568014,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 271,
+    "Id": 17568015,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 272,
+    "Id": 17568016,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 273,
+    "Id": 17568017,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 274,
+    "Id": 17568018,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 275,
+    "Id": 17568019,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 276,
+    "Id": 17568020,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 277,
+    "Id": 17568021,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 278,
+    "Id": 17568022,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 279,
+    "Id": 17568023,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 280,
+    "Id": 17568024,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 281,
+    "Id": 17568025,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 282,
+    "Id": 17568026,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 283,
+    "Id": 17568027,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 284,
+    "Id": 17568028,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 285,
+    "Id": 17568029,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 286,
+    "Id": 17568030,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 287,
+    "Id": 17568031,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 288,
+    "Id": 17568032,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 289,
+    "Id": 17568033,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fly Agaric",
+    "Idx": 290,
+    "Id": 17568034,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 291,
+    "Id": 17568035,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 292,
+    "Id": 17568036,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 293,
+    "Id": 17568037,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 294,
+    "Id": 17568038,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thread Leech",
+    "Idx": 295,
+    "Id": 17568039,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 296,
+    "Id": 17568040,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 297,
+    "Id": 17568041,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 298,
+    "Id": 17568042,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stink Bats",
+    "Idx": 299,
+    "Id": 17568043,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 300,
+    "Id": 17568044,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 301,
+    "Id": 17568045,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 302,
+    "Id": 17568046,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 303,
+    "Id": 17568047,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hognosed Bat",
+    "Idx": 304,
+    "Id": 17568048,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 305,
+    "Id": 17568049,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 306,
+    "Id": 17568050,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 307,
+    "Id": 17568051,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 308,
+    "Id": 17568052,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 309,
+    "Id": 17568053,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 310,
+    "Id": 17568054,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 311,
+    "Id": 17568055,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shrieker",
+    "Idx": 312,
+    "Id": 17568056,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Will-o'-the-Wisp",
+    "Idx": 313,
+    "Id": 17568057,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Will-o'-the-Wisp",
+    "Idx": 314,
+    "Id": 17568058,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Will-o'-the-Wisp",
+    "Idx": 315,
+    "Id": 17568059,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Clipper",
+    "Idx": 316,
+    "Id": 17568060,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Clipper",
+    "Idx": 317,
+    "Id": 17568061,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Clipper",
+    "Idx": 318,
+    "Id": 17568062,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jelly",
+    "Idx": 319,
+    "Id": 17568063,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 320,
+    "Id": 17568064,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 321,
+    "Id": 17568065,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 322,
+    "Id": 17568066,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 323,
+    "Id": 17568067,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 324,
+    "Id": 17568068,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 325,
+    "Id": 17568069,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 326,
+    "Id": 17568070,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 327,
+    "Id": 17568071,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 328,
+    "Id": 17568072,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 329,
+    "Id": 17568073,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 330,
+    "Id": 17568074,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 331,
+    "Id": 17568075,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 332,
+    "Id": 17568076,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 333,
+    "Id": 17568077,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 334,
+    "Id": 17568078,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 335,
+    "Id": 17568079,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 336,
+    "Id": 17568080,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 337,
+    "Id": 17568081,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 338,
+    "Id": 17568082,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stroper Chyme",
+    "Idx": 339,
+    "Id": 17568083,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 340,
+    "Id": 17568084,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 341,
+    "Id": 17568085,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 342,
+    "Id": 17568086,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 343,
+    "Id": 17568087,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Idx": 344,
+    "Id": 17568088,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 345,
+    "Id": 17568089,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 346,
+    "Id": 17568090,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Pathfinder",
+    "Idx": 347,
+    "Id": 17568091,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 348,
+    "Id": 17568092,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Furrier",
+    "Idx": 349,
+    "Id": 17568093,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Smithy",
+    "Idx": 350,
+    "Id": 17568094,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shaman",
+    "Idx": 351,
+    "Id": 17568095,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Pathfinder",
+    "Idx": 352,
+    "Id": 17568096,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 353,
+    "Id": 17568097,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Furrier",
+    "Idx": 354,
+    "Id": 17568098,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Smithy",
+    "Idx": 355,
+    "Id": 17568099,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shaman",
+    "Idx": 356,
+    "Id": 17568100,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Slash Pine",
+    "Idx": 357,
+    "Id": 17568101,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Slash Pine",
+    "Idx": 358,
+    "Id": 17568102,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Slash Pine",
+    "Idx": 359,
+    "Id": 17568103,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Slash Pine",
+    "Idx": 360,
+    "Id": 17568104,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 361,
+    "Id": 17568105,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 362,
+    "Id": 17568106,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 363,
+    "Id": 17568107,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 364,
+    "Id": 17568108,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seeker Bats",
+    "Idx": 365,
+    "Id": 17568109,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 366,
+    "Id": 17568110,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Pathfinder",
+    "Idx": 367,
+    "Id": 17568111,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 368,
+    "Id": 17568112,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Furrier",
+    "Idx": 369,
+    "Id": 17568113,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Smithy",
+    "Idx": 370,
+    "Id": 17568114,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shaman",
+    "Idx": 371,
+    "Id": 17568115,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Pathfinder",
+    "Idx": 372,
+    "Id": 17568116,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 373,
+    "Id": 17568117,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Furrier",
+    "Idx": 374,
+    "Id": 17568118,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Smithy",
+    "Idx": 375,
+    "Id": 17568119,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shaman",
+    "Idx": 376,
+    "Id": 17568120,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 377,
+    "Id": 17568121,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 378,
+    "Id": 17568122,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Bat",
+    "Idx": 379,
+    "Id": 17568123,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stroper",
+    "Idx": 380,
+    "Id": 17568124,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stroper",
+    "Idx": 381,
+    "Id": 17568125,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stroper",
+    "Idx": 382,
+    "Id": 17568126,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Morbolger",
+    "Idx": 383,
+    "Id": 17568127,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Napalm",
+    "Idx": 384,
+    "Id": 17568128,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Napalm",
+    "Idx": 385,
+    "Id": 17568129,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Air Elemental",
+    "Idx": 386,
+    "Id": 17568130,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 387,
+    "Id": 17568131,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bombast",
+    "Idx": 388,
+    "Id": 17568132,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stroper Chyme",
+    "Idx": 389,
+    "Id": 17568133,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Polevik",
+    "Idx": 390,
+    "Id": 17568134,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gerwitz's Axe",
+    "Idx": 391,
+    "Id": 17568135,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gerwitz's Sword",
+    "Idx": 392,
+    "Id": 17568136,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gerwitz's Soul",
+    "Idx": 393,
+    "Id": 17568137,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Necroplasm",
+    "Idx": 394,
+    "Id": 17568138,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Air Elemental",
+    "Idx": 395,
+    "Id": 17568139,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aroma Leech",
+    "Idx": 396,
+    "Id": 17568140,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Metallic Slime",
+    "Idx": 397,
+    "Id": 17568141,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Krabimanjaro",
+    "Idx": 398,
+    "Id": 17568142,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Krabimanjaro",
+    "Idx": 399,
+    "Id": 17568143,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Krabimanjaro",
+    "Idx": 400,
+    "Id": 17568144,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 403,
+    "Id": 17568147,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 404,
+    "Id": 17568148,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 405,
+    "Id": 17568149,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 406,
+    "Id": 17568150,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 407,
+    "Id": 17568151,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 408,
+    "Id": 17568152,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 409,
+    "Id": 17568153,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 410,
+    "Id": 17568154,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 411,
+    "Id": 17568155,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 412,
+    "Id": 17568156,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 413,
+    "Id": 17568157,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 414,
+    "Id": 17568158,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 415,
+    "Id": 17568159,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 416,
+    "Id": 17568160,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 417,
+    "Id": 17568161,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 418,
+    "Id": 17568162,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 419,
+    "Id": 17568163,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 420,
+    "Id": 17568164,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 421,
+    "Id": 17568165,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ruillont",
+    "Idx": 426,
+    "Id": 17568170,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 427,
+    "Id": 17568171,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 428,
+    "Id": 17568172,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cermet Door",
+    "Idx": 429,
+    "Id": 17568173,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Strange Apparatus",
+    "Idx": 430,
+    "Id": 17568174,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stalagmite",
+    "Idx": 431,
+    "Id": 17568175,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 432,
+    "Id": 17568176,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 433,
+    "Id": 17568177,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 434,
+    "Id": 17568178,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Zeid",
+    "Idx": 435,
+    "Id": 17568179,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rojaireaut",
+    "Idx": 436,
+    "Id": 17568180,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 437,
+    "Id": 17568181,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 439,
+    "Id": 17568183,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 440,
+    "Id": 17568184,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 441,
+    "Id": 17568185,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 442,
+    "Id": 17568186,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 443,
+    "Id": 17568187,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 444,
+    "Id": 17568188,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 445,
+    "Id": 17568189,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 446,
+    "Id": 17568190,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 447,
+    "Id": 17568191,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Chest",
+    "Idx": 448,
+    "Id": 17568192,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ramblix",
+    "Idx": 449,
+    "Id": 17568193,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 450,
+    "Id": 17568194,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 451,
+    "Id": 17568195,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 452,
+    "Id": 17568196,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 453,
+    "Id": 17568197,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Planar Rift",
+    "Idx": 454,
+    "Id": 17568198,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Planar Rift",
+    "Idx": 455,
+    "Id": 17568199,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Planar Rift",
+    "Idx": 456,
+    "Id": 17568200,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Riftworn Pyxis",
+    "Idx": 457,
+    "Id": 17568201,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Riftworn Pyxis",
+    "Idx": 458,
+    "Id": 17568202,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Riftworn Pyxis",
+    "Idx": 459,
+    "Id": 17568203,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 460,
+    "Id": 17568204,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 461,
+    "Id": 17568205,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geomagnetic Fount",
+    "Idx": 462,
+    "Id": 17568206,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 463,
+    "Id": 17568207,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 464,
+    "Id": 17568208,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 465,
+    "Id": 17568209,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 466,
+    "Id": 17568210,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hazy Rune",
+    "Idx": 467,
+    "Id": 17568211,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Survival Guide",
+    "Idx": 468,
+    "Id": 17568212,
+    "ZoneId": 193,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

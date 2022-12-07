@@ -1,0 +1,834 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 1,
+    "Id": 17911809,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 2,
+    "Id": 17911810,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 3,
+    "Id": 17911811,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 4,
+    "Id": 17911812,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 5,
+    "Id": 17911813,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 6,
+    "Id": 17911814,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 7,
+    "Id": 17911815,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 8,
+    "Id": 17911816,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 9,
+    "Id": 17911817,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 10,
+    "Id": 17911818,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 11,
+    "Id": 17911819,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 12,
+    "Id": 17911820,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Teodor",
+    "Idx": 13,
+    "Id": 17911821,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 14,
+    "Id": 17911822,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 15,
+    "Id": 17911823,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Teodor",
+    "Idx": 16,
+    "Id": 17911824,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 17,
+    "Id": 17911825,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 18,
+    "Id": 17911826,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Teodor",
+    "Idx": 19,
+    "Id": 17911827,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 20,
+    "Id": 17911828,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 21,
+    "Id": 17911829,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Teodor",
+    "Idx": 22,
+    "Id": 17911830,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 23,
+    "Id": 17911831,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 24,
+    "Id": 17911832,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Teodor",
+    "Idx": 25,
+    "Id": 17911833,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Putraxia",
+    "Idx": 26,
+    "Id": 17911834,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Putraxia",
+    "Idx": 27,
+    "Id": 17911835,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Putraxia",
+    "Idx": 28,
+    "Id": 17911836,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Putraxia",
+    "Idx": 29,
+    "Id": 17911837,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Putraxia",
+    "Idx": 30,
+    "Id": 17911838,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rancibus",
+    "Idx": 31,
+    "Id": 17911839,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rancibus",
+    "Idx": 37,
+    "Id": 17911845,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rancibus",
+    "Idx": 43,
+    "Id": 17911851,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rancibus",
+    "Idx": 49,
+    "Id": 17911857,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rancibus",
+    "Idx": 55,
+    "Id": 17911863,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Palloritus",
+    "Idx": 61,
+    "Id": 17911869,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Palloritus",
+    "Idx": 62,
+    "Id": 17911870,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Palloritus",
+    "Idx": 63,
+    "Id": 17911871,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Palloritus",
+    "Idx": 64,
+    "Id": 17911872,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Palloritus",
+    "Idx": 65,
+    "Id": 17911873,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Perfidien",
+    "Idx": 66,
+    "Id": 17911874,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Perfidien",
+    "Idx": 67,
+    "Id": 17911875,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Perfidien",
+    "Idx": 68,
+    "Id": 17911876,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Perfidien",
+    "Idx": 69,
+    "Id": 17911877,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Perfidien",
+    "Idx": 70,
+    "Id": 17911878,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plouton",
+    "Idx": 71,
+    "Id": 17911879,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plouton",
+    "Idx": 72,
+    "Id": 17911880,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plouton",
+    "Idx": 73,
+    "Id": 17911881,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plouton",
+    "Idx": 74,
+    "Id": 17911882,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plouton",
+    "Idx": 75,
+    "Id": 17911883,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "JGL_BUILD_MASTER_0",
+    "Idx": 91,
+    "Id": 17911899,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "JGL_BUILD_MASTER_1",
+    "Idx": 92,
+    "Id": 17911900,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "JGL_BUILD_MASTER_2",
+    "Idx": 93,
+    "Id": 17911901,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "JGL_BUILD_MASTER_3",
+    "Idx": 94,
+    "Id": 17911902,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "JGL_BUILD_MASTER_4",
+    "Idx": 95,
+    "Id": 17911903,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "JGL_BUILD_MASTER_5",
+    "Idx": 96,
+    "Id": 17911904,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soul Pyre",
+    "Idx": 125,
+    "Id": 17911933,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soul Pyre",
+    "Idx": 126,
+    "Id": 17911934,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soul Pyre",
+    "Idx": 127,
+    "Id": 17911935,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soul Pyre",
+    "Idx": 128,
+    "Id": 17911936,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soul Pyre",
+    "Idx": 129,
+    "Id": 17911937,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soul Pyre",
+    "Idx": 130,
+    "Id": 17911938,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 132,
+    "Id": 17911940,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 133,
+    "Id": 17911941,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 140,
+    "Id": 17911948,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 141,
+    "Id": 17911949,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 142,
+    "Id": 17911950,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 143,
+    "Id": 17911951,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 144,
+    "Id": 17911952,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 145,
+    "Id": 17911953,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 146,
+    "Id": 17911954,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 147,
+    "Id": 17911955,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vertical Transit Device",
+    "Idx": 149,
+    "Id": 17911957,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 151,
+    "Id": 17911959,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 152,
+    "Id": 17911960,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 153,
+    "Id": 17911961,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 154,
+    "Id": 17911962,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 155,
+    "Id": 17911963,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 156,
+    "Id": 17911964,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 157,
+    "Id": 17911965,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arciela",
+    "Idx": 158,
+    "Id": 17911966,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hades",
+    "Idx": 159,
+    "Id": 17911967,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 160,
+    "Id": 17911968,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 161,
+    "Id": 17911969,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 162,
+    "Id": 17911970,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 163,
+    "Id": 17911971,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 164,
+    "Id": 17911972,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 165,
+    "Id": 17911973,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 166,
+    "Id": 17911974,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 167,
+    "Id": 17911975,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 168,
+    "Id": 17911976,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 169,
+    "Id": 17911977,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Resume Point",
+    "Idx": 170,
+    "Id": 17911978,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ramblix",
+    "Idx": 171,
+    "Id": 17911979,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 172,
+    "Id": 17911980,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ominous Postern",
+    "Idx": 173,
+    "Id": 17911981,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "exit",
+    "Idx": 174,
+    "Id": 17911982,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "exit",
+    "Idx": 175,
+    "Id": 17911983,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "exit",
+    "Idx": 176,
+    "Id": 17911984,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "exit",
+    "Idx": 177,
+    "Id": 17911985,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "exit",
+    "Idx": 178,
+    "Id": 17911986,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vertical Transit Device",
+    "Idx": 185,
+    "Id": 17911993,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 186,
+    "Id": 17911994,
+    "ZoneId": 277,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

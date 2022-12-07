@@ -1,0 +1,2498 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sponge",
+    "Idx": 1,
+    "Id": 16887809,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Pumpkin",
+    "Idx": 2,
+    "Id": 16887810,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Freshwater Trepang",
+    "Idx": 3,
+    "Id": 16887811,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ogreish Risotto",
+    "Idx": 4,
+    "Id": 16887812,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bavarois",
+    "Idx": 5,
+    "Id": 16887813,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Big Jaw",
+    "Idx": 6,
+    "Id": 16887814,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gloop",
+    "Idx": 7,
+    "Id": 16887815,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Big Jaw",
+    "Idx": 8,
+    "Id": 16887816,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Big Jaw",
+    "Idx": 9,
+    "Id": 16887817,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gloop",
+    "Idx": 10,
+    "Id": 16887818,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gloop",
+    "Idx": 11,
+    "Id": 16887819,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Addled Tumor",
+    "Idx": 12,
+    "Id": 16887820,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gloop",
+    "Idx": 13,
+    "Id": 16887821,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Big Jaw",
+    "Idx": 14,
+    "Id": 16887822,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Big Jaw",
+    "Idx": 15,
+    "Id": 16887823,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Big Jaw",
+    "Idx": 16,
+    "Id": 16887824,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Taurus",
+    "Idx": 17,
+    "Id": 16887825,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Taurus",
+    "Idx": 18,
+    "Id": 16887826,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Taurus",
+    "Idx": 19,
+    "Id": 16887827,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vampire Bat",
+    "Idx": 20,
+    "Id": 16887828,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vampire Bat",
+    "Idx": 21,
+    "Id": 16887829,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vampire Bat",
+    "Idx": 22,
+    "Id": 16887830,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 23,
+    "Id": 16887831,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 24,
+    "Id": 16887832,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 25,
+    "Id": 16887833,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 26,
+    "Id": 16887834,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 27,
+    "Id": 16887835,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 28,
+    "Id": 16887836,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gloop",
+    "Idx": 29,
+    "Id": 16887837,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 30,
+    "Id": 16887838,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 31,
+    "Id": 16887839,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 32,
+    "Id": 16887840,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 33,
+    "Id": 16887841,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 34,
+    "Id": 16887842,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 35,
+    "Id": 16887843,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 36,
+    "Id": 16887844,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 37,
+    "Id": 16887845,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 38,
+    "Id": 16887846,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 39,
+    "Id": 16887847,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 40,
+    "Id": 16887848,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 41,
+    "Id": 16887849,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Beastmaster",
+    "Idx": 42,
+    "Id": 16887850,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor's Bat",
+    "Idx": 43,
+    "Id": 16887851,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 44,
+    "Id": 16887852,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 45,
+    "Id": 16887853,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 46,
+    "Id": 16887854,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Dragoon",
+    "Idx": 47,
+    "Id": 16887855,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor's Wyvern",
+    "Idx": 48,
+    "Id": 16887856,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ninja",
+    "Idx": 49,
+    "Id": 16887857,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 50,
+    "Id": 16887858,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 51,
+    "Id": 16887859,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 52,
+    "Id": 16887860,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 53,
+    "Id": 16887861,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 54,
+    "Id": 16887862,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 55,
+    "Id": 16887863,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Warrior",
+    "Idx": 56,
+    "Id": 16887864,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Thief",
+    "Idx": 57,
+    "Id": 16887865,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Summoner",
+    "Idx": 58,
+    "Id": 16887866,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor's Elemental",
+    "Idx": 59,
+    "Id": 16887867,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Foul Meat",
+    "Idx": 60,
+    "Id": 16887868,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 61,
+    "Id": 16887869,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 62,
+    "Id": 16887870,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 63,
+    "Id": 16887871,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 64,
+    "Id": 16887872,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 65,
+    "Id": 16887873,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 66,
+    "Id": 16887874,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 67,
+    "Id": 16887875,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 68,
+    "Id": 16887876,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 69,
+    "Id": 16887877,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 70,
+    "Id": 16887878,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 71,
+    "Id": 16887879,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 72,
+    "Id": 16887880,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 73,
+    "Id": 16887881,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 74,
+    "Id": 16887882,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Paladin",
+    "Idx": 75,
+    "Id": 16887883,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Bard",
+    "Idx": 76,
+    "Id": 16887884,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mahisha",
+    "Idx": 77,
+    "Id": 16887885,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 78,
+    "Id": 16887886,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 79,
+    "Id": 16887887,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 80,
+    "Id": 16887888,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Minotaur",
+    "Idx": 81,
+    "Id": 16887889,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 82,
+    "Id": 16887890,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 83,
+    "Id": 16887891,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 84,
+    "Id": 16887892,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 85,
+    "Id": 16887893,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 86,
+    "Id": 16887894,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 87,
+    "Id": 16887895,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 88,
+    "Id": 16887896,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 89,
+    "Id": 16887897,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Air Elemental",
+    "Idx": 90,
+    "Id": 16887898,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 91,
+    "Id": 16887899,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dark Elemental",
+    "Idx": 92,
+    "Id": 16887900,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 93,
+    "Id": 16887901,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Monk",
+    "Idx": 94,
+    "Id": 16887902,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Samurai",
+    "Idx": 95,
+    "Id": 16887903,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 96,
+    "Id": 16887904,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Dark Knight",
+    "Idx": 97,
+    "Id": 16887905,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ninja",
+    "Idx": 98,
+    "Id": 16887906,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Black Mage",
+    "Idx": 99,
+    "Id": 16887907,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tres Duendes",
+    "Idx": 100,
+    "Id": 16887908,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Duendes' Amoroso",
+    "Idx": 101,
+    "Id": 16887909,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Monk",
+    "Idx": 102,
+    "Id": 16887910,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 103,
+    "Id": 16887911,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Monk",
+    "Idx": 104,
+    "Id": 16887912,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Foul Meat",
+    "Idx": 105,
+    "Id": 16887913,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Foul Meat",
+    "Idx": 106,
+    "Id": 16887914,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Foul Meat",
+    "Idx": 107,
+    "Id": 16887915,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Canal Bats",
+    "Idx": 108,
+    "Id": 16887916,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 109,
+    "Id": 16887917,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 110,
+    "Id": 16887918,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 111,
+    "Id": 16887919,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Paladin",
+    "Idx": 112,
+    "Id": 16887920,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Samurai",
+    "Idx": 113,
+    "Id": 16887921,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Red Mage",
+    "Idx": 114,
+    "Id": 16887922,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 115,
+    "Id": 16887923,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 116,
+    "Id": 16887924,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 117,
+    "Id": 16887925,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 118,
+    "Id": 16887926,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 119,
+    "Id": 16887927,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 120,
+    "Id": 16887928,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Foul Meat",
+    "Idx": 121,
+    "Id": 16887929,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 122,
+    "Id": 16887930,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 123,
+    "Id": 16887931,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 124,
+    "Id": 16887932,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 125,
+    "Id": 16887933,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Foul Meat",
+    "Idx": 126,
+    "Id": 16887934,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 127,
+    "Id": 16887935,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 128,
+    "Id": 16887936,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 129,
+    "Id": 16887937,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 130,
+    "Id": 16887938,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 131,
+    "Id": 16887939,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 132,
+    "Id": 16887940,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dark Elemental",
+    "Idx": 133,
+    "Id": 16887941,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 134,
+    "Id": 16887942,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 135,
+    "Id": 16887943,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Dragoon",
+    "Idx": 136,
+    "Id": 16887944,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor's Wyvern",
+    "Idx": 137,
+    "Id": 16887945,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Beastmaster",
+    "Idx": 138,
+    "Id": 16887946,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor's Bat",
+    "Idx": 139,
+    "Id": 16887947,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Thief",
+    "Idx": 140,
+    "Id": 16887948,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 141,
+    "Id": 16887949,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ninja",
+    "Idx": 142,
+    "Id": 16887950,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 143,
+    "Id": 16887951,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 144,
+    "Id": 16887952,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eba",
+    "Idx": 145,
+    "Id": 16887953,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 146,
+    "Id": 16887954,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 147,
+    "Id": 16887955,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Makara",
+    "Idx": 148,
+    "Id": 16887956,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 149,
+    "Id": 16887957,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hell Bat",
+    "Idx": 150,
+    "Id": 16887958,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Summoner",
+    "Idx": 151,
+    "Id": 16887959,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor's Elemental",
+    "Idx": 152,
+    "Id": 16887960,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Dark Knight",
+    "Idx": 153,
+    "Id": 16887961,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ninja",
+    "Idx": 154,
+    "Id": 16887962,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Air Elemental",
+    "Idx": 155,
+    "Id": 16887963,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 156,
+    "Id": 16887964,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dark Elemental",
+    "Idx": 157,
+    "Id": 16887965,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Black Mage",
+    "Idx": 158,
+    "Id": 16887966,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Warrior",
+    "Idx": 159,
+    "Id": 16887967,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Dark Knight",
+    "Idx": 160,
+    "Id": 16887968,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 161,
+    "Id": 16887969,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 162,
+    "Id": 16887970,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 163,
+    "Id": 16887971,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 164,
+    "Id": 16887972,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Bard",
+    "Idx": 165,
+    "Id": 16887973,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Bard",
+    "Idx": 166,
+    "Id": 16887974,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 167,
+    "Id": 16887975,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 168,
+    "Id": 16887976,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Paladin",
+    "Idx": 169,
+    "Id": 16887977,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Paladin",
+    "Idx": 170,
+    "Id": 16887978,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 171,
+    "Id": 16887979,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 172,
+    "Id": 16887980,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 173,
+    "Id": 16887981,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Red Mage",
+    "Idx": 174,
+    "Id": 16887982,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Black Mage",
+    "Idx": 175,
+    "Id": 16887983,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Black Mage",
+    "Idx": 176,
+    "Id": 16887984,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Red Mage",
+    "Idx": 177,
+    "Id": 16887985,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Red Mage",
+    "Idx": 178,
+    "Id": 16887986,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Monk",
+    "Idx": 179,
+    "Id": 16887987,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Monk",
+    "Idx": 180,
+    "Id": 16887988,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Red Mage",
+    "Idx": 181,
+    "Id": 16887989,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 182,
+    "Id": 16887990,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 183,
+    "Id": 16887991,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Diremite",
+    "Idx": 184,
+    "Id": 16887992,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Warrior",
+    "Idx": 185,
+    "Id": 16887993,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Samurai",
+    "Idx": 186,
+    "Id": 16887994,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Samurai",
+    "Idx": 187,
+    "Id": 16887995,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Warrior",
+    "Idx": 188,
+    "Id": 16887996,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Warrior",
+    "Idx": 189,
+    "Id": 16887997,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 190,
+    "Id": 16887998,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Ranger",
+    "Idx": 191,
+    "Id": 16887999,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Warrior",
+    "Idx": 192,
+    "Id": 16888000,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 193,
+    "Id": 16888001,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stegotaur",
+    "Idx": 194,
+    "Id": 16888002,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Bard",
+    "Idx": 195,
+    "Id": 16888003,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Thief",
+    "Idx": 196,
+    "Id": 16888004,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Thief",
+    "Idx": 197,
+    "Id": 16888005,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Bard",
+    "Idx": 198,
+    "Id": 16888006,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Bard",
+    "Idx": 199,
+    "Id": 16888007,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Thief",
+    "Idx": 200,
+    "Id": 16888008,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Thief",
+    "Idx": 201,
+    "Id": 16888009,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fomor Bard",
+    "Idx": 202,
+    "Id": 16888010,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 203,
+    "Id": 16888011,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 204,
+    "Id": 16888012,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 205,
+    "Id": 16888013,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 206,
+    "Id": 16888014,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 207,
+    "Id": 16888015,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 208,
+    "Id": 16888016,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 209,
+    "Id": 16888017,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 210,
+    "Id": 16888018,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 211,
+    "Id": 16888019,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 212,
+    "Id": 16888020,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 213,
+    "Id": 16888021,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 214,
+    "Id": 16888022,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 215,
+    "Id": 16888023,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 216,
+    "Id": 16888024,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 217,
+    "Id": 16888025,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 218,
+    "Id": 16888026,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 219,
+    "Id": 16888027,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 220,
+    "Id": 16888028,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 221,
+    "Id": 16888029,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 222,
+    "Id": 16888030,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 223,
+    "Id": 16888031,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aqueduct Spider",
+    "Idx": 224,
+    "Id": 16888032,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 226,
+    "Id": 16888034,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 227,
+    "Id": 16888035,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Gate",
+    "Idx": 233,
+    "Id": 16888041,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Gate",
+    "Idx": 234,
+    "Id": 16888042,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Gate",
+    "Idx": 235,
+    "Id": 16888043,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Gate",
+    "Idx": 236,
+    "Id": 16888044,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Gate",
+    "Idx": 237,
+    "Id": 16888045,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Gate",
+    "Idx": 238,
+    "Id": 16888046,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Gate",
+    "Idx": 239,
+    "Id": 16888047,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Gate",
+    "Idx": 240,
+    "Id": 16888048,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 241,
+    "Id": 16888049,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 242,
+    "Id": 16888050,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 243,
+    "Id": 16888051,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 244,
+    "Id": 16888052,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 245,
+    "Id": 16888053,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 246,
+    "Id": 16888054,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 247,
+    "Id": 16888055,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 248,
+    "Id": 16888056,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 249,
+    "Id": 16888057,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 250,
+    "Id": 16888058,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 251,
+    "Id": 16888059,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 252,
+    "Id": 16888060,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 253,
+    "Id": 16888061,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 254,
+    "Id": 16888062,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ornate Gate",
+    "Idx": 255,
+    "Id": 16888063,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ornate Gate",
+    "Idx": 256,
+    "Id": 16888064,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Door_0rk",
+    "Idx": 257,
+    "Id": 16888065,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 258,
+    "Id": 16888066,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 259,
+    "Id": 16888067,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 260,
+    "Id": 16888068,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 261,
+    "Id": 16888069,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 262,
+    "Id": 16888070,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 263,
+    "Id": 16888071,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 264,
+    "Id": 16888072,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 265,
+    "Id": 16888073,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 266,
+    "Id": 16888074,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 267,
+    "Id": 16888075,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ornate Gate",
+    "Idx": 268,
+    "Id": 16888076,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ornate Gate",
+    "Idx": 269,
+    "Id": 16888077,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Door_0rl",
+    "Idx": 270,
+    "Id": 16888078,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 271,
+    "Id": 16888079,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 272,
+    "Id": 16888080,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 273,
+    "Id": 16888081,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 274,
+    "Id": 16888082,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 275,
+    "Id": 16888083,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 276,
+    "Id": 16888084,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 277,
+    "Id": 16888085,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 278,
+    "Id": 16888086,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Lamp",
+    "Idx": 279,
+    "Id": 16888087,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Gate",
+    "Idx": 280,
+    "Id": 16888088,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Gate",
+    "Idx": 281,
+    "Id": 16888089,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Gate",
+    "Idx": 282,
+    "Id": 16888090,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Door_0rc",
+    "Idx": 283,
+    "Id": 16888091,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Door_0rd",
+    "Idx": 284,
+    "Id": 16888092,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 285,
+    "Id": 16888093,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 286,
+    "Id": 16888094,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 287,
+    "Id": 16888095,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 288,
+    "Id": 16888096,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 289,
+    "Id": 16888097,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 290,
+    "Id": 16888098,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 291,
+    "Id": 16888099,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 292,
+    "Id": 16888100,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 293,
+    "Id": 16888101,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 294,
+    "Id": 16888102,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 295,
+    "Id": 16888103,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wooden Ladder",
+    "Idx": 296,
+    "Id": 16888104,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 297,
+    "Id": 16888105,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 298,
+    "Id": 16888106,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 299,
+    "Id": 16888107,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nag'molada",
+    "Idx": 300,
+    "Id": 16888108,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "BOX",
+    "Idx": 301,
+    "Id": 16888109,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shikaree X",
+    "Idx": 302,
+    "Id": 16888110,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 303,
+    "Id": 16888111,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 305,
+    "Id": 16888113,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 306,
+    "Id": 16888114,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 307,
+    "Id": 16888115,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 308,
+    "Id": 16888116,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 309,
+    "Id": 16888117,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 310,
+    "Id": 16888118,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 311,
+    "Id": 16888119,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 312,
+    "Id": 16888120,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ramblix",
+    "Idx": 313,
+    "Id": 16888121,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 314,
+    "Id": 16888122,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 315,
+    "Id": 16888123,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fardimant",
+    "Idx": 316,
+    "Id": 16888124,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Enaremand",
+    "Idx": 317,
+    "Id": 16888125,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Survival Guide",
+    "Idx": 318,
+    "Id": 16888126,
+    "ZoneId": 27,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

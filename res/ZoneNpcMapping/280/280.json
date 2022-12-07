@@ -1,0 +1,1274 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 2,
+    "Id": 17924098,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 3,
+    "Id": 17924099,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 27,
+    "Id": 17924123,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Green Thumb Moogle",
+    "Idx": 28,
+    "Id": 17924124,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mog Dinghy",
+    "Idx": 29,
+    "Id": 17924125,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mog Dinghy",
+    "Idx": 30,
+    "Id": 17924126,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Garden Furrow",
+    "Idx": 31,
+    "Id": 17924127,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Garden Furrow #2",
+    "Idx": 32,
+    "Id": 17924128,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Garden Furrow #3",
+    "Idx": 33,
+    "Id": 17924129,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove",
+    "Idx": 34,
+    "Id": 17924130,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove",
+    "Idx": 35,
+    "Id": 17924131,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove #2",
+    "Idx": 36,
+    "Id": 17924132,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove #2",
+    "Idx": 37,
+    "Id": 17924133,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove #3",
+    "Idx": 38,
+    "Id": 17924134,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove #3",
+    "Idx": 39,
+    "Id": 17924135,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove #4",
+    "Idx": 40,
+    "Id": 17924136,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arboreal Grove #4",
+    "Idx": 41,
+    "Id": 17924137,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein",
+    "Idx": 42,
+    "Id": 17924138,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein",
+    "Idx": 43,
+    "Id": 17924139,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein #2",
+    "Idx": 44,
+    "Id": 17924140,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein #2",
+    "Idx": 45,
+    "Id": 17924141,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein #3",
+    "Idx": 46,
+    "Id": 17924142,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein #3",
+    "Idx": 47,
+    "Id": 17924143,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein #4",
+    "Idx": 48,
+    "Id": 17924144,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mineral Vein #4",
+    "Idx": 49,
+    "Id": 17924145,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Pond Dredger",
+    "Idx": 50,
+    "Id": 17924146,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 51,
+    "Id": 17924147,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Coastal Fishing Net",
+    "Idx": 52,
+    "Id": 17924148,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flotsam",
+    "Idx": 53,
+    "Id": 17924149,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant00",
+    "Idx": 54,
+    "Id": 17924150,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant01",
+    "Idx": 55,
+    "Id": 17924151,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant02",
+    "Idx": 56,
+    "Id": 17924152,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant03",
+    "Idx": 57,
+    "Id": 17924153,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn00",
+    "Idx": 58,
+    "Id": 17924154,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn01",
+    "Idx": 59,
+    "Id": 17924155,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn02",
+    "Idx": 60,
+    "Id": 17924156,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn03",
+    "Idx": 61,
+    "Id": 17924157,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant10",
+    "Idx": 62,
+    "Id": 17924158,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant11",
+    "Idx": 63,
+    "Id": 17924159,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant12",
+    "Idx": 64,
+    "Id": 17924160,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant13",
+    "Idx": 65,
+    "Id": 17924161,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn10",
+    "Idx": 66,
+    "Id": 17924162,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn11",
+    "Idx": 67,
+    "Id": 17924163,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn12",
+    "Idx": 68,
+    "Id": 17924164,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn13",
+    "Idx": 69,
+    "Id": 17924165,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant20",
+    "Idx": 70,
+    "Id": 17924166,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant21",
+    "Idx": 71,
+    "Id": 17924167,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant22",
+    "Idx": 72,
+    "Id": 17924168,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plant23",
+    "Idx": 73,
+    "Id": 17924169,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn20",
+    "Idx": 74,
+    "Id": 17924170,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn21",
+    "Idx": 75,
+    "Id": 17924171,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn22",
+    "Idx": 76,
+    "Id": 17924172,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "PlantFurn23",
+    "Idx": 77,
+    "Id": 17924173,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Debug Moogle",
+    "Idx": 78,
+    "Id": 17924174,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "DIRECTOR",
+    "Idx": 79,
+    "Id": 17924175,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 80,
+    "Id": 17924176,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "KANI01",
+    "Idx": 81,
+    "Id": 17924177,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "KANI02",
+    "Idx": 82,
+    "Id": 17924178,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "KANI03",
+    "Idx": 83,
+    "Id": 17924179,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "KANI04",
+    "Idx": 84,
+    "Id": 17924180,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "KANI05",
+    "Idx": 85,
+    "Id": 17924181,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kuyin Hathdenna",
+    "Idx": 86,
+    "Id": 17924182,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Susuroon",
+    "Idx": 87,
+    "Id": 17924183,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yeestog",
+    "Idx": 88,
+    "Id": 17924184,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yeestog",
+    "Idx": 89,
+    "Id": 17924185,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chacharoon",
+    "Idx": 90,
+    "Id": 17924186,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "DIRECTOR2",
+    "Idx": 91,
+    "Id": 17924187,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Monsieur Kupont",
+    "Idx": 92,
+    "Id": 17924188,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kupivolo",
+    "Idx": 93,
+    "Id": 17924189,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "The Great Kupellion",
+    "Idx": 94,
+    "Id": 17924190,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "01",
+    "Idx": 95,
+    "Id": 17924191,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "02",
+    "Idx": 96,
+    "Id": 17924192,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "03",
+    "Idx": 97,
+    "Id": 17924193,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "04",
+    "Idx": 98,
+    "Id": 17924194,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "1",
+    "Idx": 99,
+    "Id": 17924195,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "2",
+    "Idx": 100,
+    "Id": 17924196,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "3",
+    "Idx": 101,
+    "Id": 17924197,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "4",
+    "Idx": 102,
+    "Id": 17924198,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Atelloune",
+    "Idx": 103,
+    "Id": 17924199,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "DIRECTOR3",
+    "Idx": 104,
+    "Id": 17924200,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kuyin Hathdenna",
+    "Idx": 105,
+    "Id": 17924201,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Susuroon",
+    "Idx": 106,
+    "Id": 17924202,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yeestog",
+    "Idx": 107,
+    "Id": 17924203,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 108,
+    "Id": 17924204,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Crabauble",
+    "Idx": 109,
+    "Id": 17924205,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ramblix",
+    "Idx": 110,
+    "Id": 17924206,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 111,
+    "Id": 17924207,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Crabauble",
+    "Idx": 112,
+    "Id": 17924208,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Garden Strongbox",
+    "Idx": 113,
+    "Id": 17924209,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bulging Crate",
+    "Idx": 114,
+    "Id": 17924210,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 116,
+    "Id": 17924212,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 117,
+    "Id": 17924213,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 118,
+    "Id": 17924214,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 119,
+    "Id": 17924215,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 120,
+    "Id": 17924216,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 121,
+    "Id": 17924217,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 122,
+    "Id": 17924218,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 123,
+    "Id": 17924219,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Porter Moogle",
+    "Idx": 124,
+    "Id": 17924220,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 126,
+    "Id": 17924222,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 127,
+    "Id": 17924223,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 128,
+    "Id": 17924224,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 129,
+    "Id": 17924225,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 130,
+    "Id": 17924226,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 131,
+    "Id": 17924227,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chacharoon",
+    "Idx": 132,
+    "Id": 17924228,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chacharoon",
+    "Idx": 133,
+    "Id": 17924229,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Breeding Monster",
+    "Idx": 134,
+    "Id": 17924230,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Breeding Monster01",
+    "Idx": 135,
+    "Id": 17924231,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Breeding Monster02",
+    "Idx": 136,
+    "Id": 17924232,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Breeding Monster03",
+    "Idx": 137,
+    "Id": 17924233,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Breeding Monster00",
+    "Idx": 138,
+    "Id": 17924234,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ephemeral Moogle",
+    "Idx": 139,
+    "Id": 17924235,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 140,
+    "Id": 17924236,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mandragora Assistant",
+    "Idx": 141,
+    "Id": 17924237,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 142,
+    "Id": 17924238,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 143,
+    "Id": 17924239,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 144,
+    "Id": 17924240,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 145,
+    "Id": 17924241,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 146,
+    "Id": 17924242,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 147,
+    "Id": 17924243,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 148,
+    "Id": 17924244,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 149,
+    "Id": 17924245,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 150,
+    "Id": 17924246,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 151,
+    "Id": 17924247,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 152,
+    "Id": 17924248,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 153,
+    "Id": 17924249,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 154,
+    "Id": 17924250,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 155,
+    "Id": 17924251,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 156,
+    "Id": 17924252,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 157,
+    "Id": 17924253,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 158,
+    "Id": 17924254,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 159,
+    "Id": 17924255,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 160,
+    "Id": 17924256,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 161,
+    "Id": 17924257,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 162,
+    "Id": 17924258,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 163,
+    "Id": 17924259,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 164,
+    "Id": 17924260,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 165,
+    "Id": 17924261,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 166,
+    "Id": 17924262,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 167,
+    "Id": 17924263,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 168,
+    "Id": 17924264,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 169,
+    "Id": 17924265,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 170,
+    "Id": 17924266,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 171,
+    "Id": 17924267,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 172,
+    "Id": 17924268,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 173,
+    "Id": 17924269,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 174,
+    "Id": 17924270,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 175,
+    "Id": 17924271,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 176,
+    "Id": 17924272,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 177,
+    "Id": 17924273,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 178,
+    "Id": 17924274,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 179,
+    "Id": 17924275,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 180,
+    "Id": 17924276,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 181,
+    "Id": 17924277,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 182,
+    "Id": 17924278,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 183,
+    "Id": 17924279,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 184,
+    "Id": 17924280,
+    "ZoneId": 280,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

@@ -1,0 +1,3074 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Salamander",
+    "Idx": 1,
+    "Id": 17616897,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Magma",
+    "Idx": 2,
+    "Id": 17616898,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 3,
+    "Id": 17616899,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 4,
+    "Id": 17616900,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 5,
+    "Id": 17616901,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 6,
+    "Id": 17616902,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 7,
+    "Id": 17616903,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 8,
+    "Id": 17616904,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 9,
+    "Id": 17616905,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 10,
+    "Id": 17616906,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 11,
+    "Id": 17616907,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 12,
+    "Id": 17616908,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 13,
+    "Id": 17616909,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 14,
+    "Id": 17616910,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 15,
+    "Id": 17616911,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 16,
+    "Id": 17616912,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 17,
+    "Id": 17616913,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 18,
+    "Id": 17616914,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 19,
+    "Id": 17616915,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 20,
+    "Id": 17616916,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 21,
+    "Id": 17616917,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 22,
+    "Id": 17616918,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 23,
+    "Id": 17616919,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 24,
+    "Id": 17616920,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 25,
+    "Id": 17616921,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 26,
+    "Id": 17616922,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 27,
+    "Id": 17616923,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 28,
+    "Id": 17616924,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 29,
+    "Id": 17616925,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 30,
+    "Id": 17616926,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 31,
+    "Id": 17616927,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 32,
+    "Id": 17616928,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 33,
+    "Id": 17616929,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 34,
+    "Id": 17616930,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 35,
+    "Id": 17616931,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 36,
+    "Id": 17616932,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 37,
+    "Id": 17616933,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 38,
+    "Id": 17616934,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 39,
+    "Id": 17616935,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 40,
+    "Id": 17616936,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 41,
+    "Id": 17616937,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 42,
+    "Id": 17616938,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 43,
+    "Id": 17616939,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 44,
+    "Id": 17616940,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 45,
+    "Id": 17616941,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 46,
+    "Id": 17616942,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 47,
+    "Id": 17616943,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Old Opo-opo",
+    "Idx": 48,
+    "Id": 17616944,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 49,
+    "Id": 17616945,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 50,
+    "Id": 17616946,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 51,
+    "Id": 17616947,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 52,
+    "Id": 17616948,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 53,
+    "Id": 17616949,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 54,
+    "Id": 17616950,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 55,
+    "Id": 17616951,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 56,
+    "Id": 17616952,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 57,
+    "Id": 17616953,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 58,
+    "Id": 17616954,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 59,
+    "Id": 17616955,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 60,
+    "Id": 17616956,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 61,
+    "Id": 17616957,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 62,
+    "Id": 17616958,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 63,
+    "Id": 17616959,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 64,
+    "Id": 17616960,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 65,
+    "Id": 17616961,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 66,
+    "Id": 17616962,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 67,
+    "Id": 17616963,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcano Wasp",
+    "Idx": 68,
+    "Id": 17616964,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 69,
+    "Id": 17616965,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 70,
+    "Id": 17616966,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 71,
+    "Id": 17616967,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 72,
+    "Id": 17616968,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 73,
+    "Id": 17616969,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 74,
+    "Id": 17616970,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 75,
+    "Id": 17616971,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 76,
+    "Id": 17616972,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 77,
+    "Id": 17616973,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Bandit",
+    "Idx": 78,
+    "Id": 17616974,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shepherd",
+    "Idx": 79,
+    "Id": 17616975,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 80,
+    "Id": 17616976,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dodomeki",
+    "Idx": 81,
+    "Id": 17616977,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 82,
+    "Id": 17616978,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mercenary",
+    "Idx": 83,
+    "Id": 17616979,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dodomeki",
+    "Idx": 84,
+    "Id": 17616980,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 85,
+    "Id": 17616981,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 86,
+    "Id": 17616982,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dodomeki",
+    "Idx": 87,
+    "Id": 17616983,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 88,
+    "Id": 17616984,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 89,
+    "Id": 17616985,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 90,
+    "Id": 17616986,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dodomeki",
+    "Idx": 91,
+    "Id": 17616987,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 92,
+    "Id": 17616988,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dodomeki",
+    "Idx": 93,
+    "Id": 17616989,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 94,
+    "Id": 17616990,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 95,
+    "Id": 17616991,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 96,
+    "Id": 17616992,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 97,
+    "Id": 17616993,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 98,
+    "Id": 17616994,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 99,
+    "Id": 17616995,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 100,
+    "Id": 17616996,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 101,
+    "Id": 17616997,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 102,
+    "Id": 17616998,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tyrannic Tunnok",
+    "Idx": 103,
+    "Id": 17616999,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 104,
+    "Id": 17617000,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 105,
+    "Id": 17617001,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 106,
+    "Id": 17617002,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 107,
+    "Id": 17617003,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 108,
+    "Id": 17617004,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 109,
+    "Id": 17617005,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 110,
+    "Id": 17617006,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 111,
+    "Id": 17617007,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 112,
+    "Id": 17617008,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 113,
+    "Id": 17617009,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 114,
+    "Id": 17617010,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 115,
+    "Id": 17617011,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 116,
+    "Id": 17617012,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lindwurm",
+    "Idx": 117,
+    "Id": 17617013,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Bandit",
+    "Idx": 118,
+    "Id": 17617014,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shepherd",
+    "Idx": 119,
+    "Id": 17617015,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 120,
+    "Id": 17617016,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 121,
+    "Id": 17617017,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mercenary",
+    "Idx": 122,
+    "Id": 17617018,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Bandit",
+    "Idx": 123,
+    "Id": 17617019,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shepherd",
+    "Idx": 124,
+    "Id": 17617020,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 125,
+    "Id": 17617021,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 126,
+    "Id": 17617022,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mercenary",
+    "Idx": 127,
+    "Id": 17617023,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Bandit",
+    "Idx": 128,
+    "Id": 17617024,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shepherd",
+    "Idx": 129,
+    "Id": 17617025,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 130,
+    "Id": 17617026,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 131,
+    "Id": 17617027,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mercenary",
+    "Idx": 132,
+    "Id": 17617028,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 133,
+    "Id": 17617029,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sulfur Scorpion",
+    "Idx": 134,
+    "Id": 17617030,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 135,
+    "Id": 17617031,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 136,
+    "Id": 17617032,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 137,
+    "Id": 17617033,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 138,
+    "Id": 17617034,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 139,
+    "Id": 17617035,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 140,
+    "Id": 17617036,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 141,
+    "Id": 17617037,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 142,
+    "Id": 17617038,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 143,
+    "Id": 17617039,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 144,
+    "Id": 17617040,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dodomeki",
+    "Idx": 145,
+    "Id": 17617041,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 146,
+    "Id": 17617042,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 147,
+    "Id": 17617043,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dodomeki",
+    "Idx": 148,
+    "Id": 17617044,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 149,
+    "Id": 17617045,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 150,
+    "Id": 17617046,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 151,
+    "Id": 17617047,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 152,
+    "Id": 17617048,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 153,
+    "Id": 17617049,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 154,
+    "Id": 17617050,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 155,
+    "Id": 17617051,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 156,
+    "Id": 17617052,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shepherd",
+    "Idx": 157,
+    "Id": 17617053,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 158,
+    "Id": 17617054,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 159,
+    "Id": 17617055,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 160,
+    "Id": 17617056,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mercenary",
+    "Idx": 161,
+    "Id": 17617057,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Bandit",
+    "Idx": 162,
+    "Id": 17617058,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shepherd",
+    "Idx": 163,
+    "Id": 17617059,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 164,
+    "Id": 17617060,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mercenary",
+    "Idx": 165,
+    "Id": 17617061,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Foreseer Oramix",
+    "Idx": 166,
+    "Id": 17617062,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Bandit",
+    "Idx": 167,
+    "Id": 17617063,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Shepherd",
+    "Idx": 168,
+    "Id": 17617064,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bats",
+    "Idx": 169,
+    "Id": 17617065,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 170,
+    "Id": 17617066,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Mercenary",
+    "Idx": 171,
+    "Id": 17617067,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Bandit",
+    "Idx": 172,
+    "Id": 17617068,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Alchemist",
+    "Idx": 173,
+    "Id": 17617069,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 174,
+    "Id": 17617070,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 175,
+    "Id": 17617071,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 176,
+    "Id": 17617072,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eotyrannus",
+    "Idx": 177,
+    "Id": 17617073,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Gas",
+    "Idx": 178,
+    "Id": 17617074,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 179,
+    "Id": 17617075,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 180,
+    "Id": 17617076,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 181,
+    "Id": 17617077,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 182,
+    "Id": 17617078,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 183,
+    "Id": 17617079,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 184,
+    "Id": 17617080,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 185,
+    "Id": 17617081,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 186,
+    "Id": 17617082,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 187,
+    "Id": 17617083,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 188,
+    "Id": 17617084,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 189,
+    "Id": 17617085,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 190,
+    "Id": 17617086,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 191,
+    "Id": 17617087,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 192,
+    "Id": 17617088,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 193,
+    "Id": 17617089,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 194,
+    "Id": 17617090,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 195,
+    "Id": 17617091,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 196,
+    "Id": 17617092,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 197,
+    "Id": 17617093,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 198,
+    "Id": 17617094,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 199,
+    "Id": 17617095,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 200,
+    "Id": 17617096,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 201,
+    "Id": 17617097,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 202,
+    "Id": 17617098,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 203,
+    "Id": 17617099,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 204,
+    "Id": 17617100,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 205,
+    "Id": 17617101,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 206,
+    "Id": 17617102,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 207,
+    "Id": 17617103,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 208,
+    "Id": 17617104,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 209,
+    "Id": 17617105,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 210,
+    "Id": 17617106,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 211,
+    "Id": 17617107,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 212,
+    "Id": 17617108,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 213,
+    "Id": 17617109,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 214,
+    "Id": 17617110,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 215,
+    "Id": 17617111,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 216,
+    "Id": 17617112,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 217,
+    "Id": 17617113,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 218,
+    "Id": 17617114,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 219,
+    "Id": 17617115,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 220,
+    "Id": 17617116,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hurricane Wyvern",
+    "Idx": 221,
+    "Id": 17617117,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hurricane Wyvern",
+    "Idx": 222,
+    "Id": 17617118,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 223,
+    "Id": 17617119,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 224,
+    "Id": 17617120,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hurricane Wyvern",
+    "Idx": 225,
+    "Id": 17617121,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hurricane Wyvern",
+    "Idx": 226,
+    "Id": 17617122,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 227,
+    "Id": 17617123,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 228,
+    "Id": 17617124,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hurricane Wyvern",
+    "Idx": 229,
+    "Id": 17617125,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 230,
+    "Id": 17617126,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 231,
+    "Id": 17617127,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 232,
+    "Id": 17617128,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hurricane Wyvern",
+    "Idx": 233,
+    "Id": 17617129,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vouivre",
+    "Idx": 234,
+    "Id": 17617130,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 235,
+    "Id": 17617131,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 236,
+    "Id": 17617132,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 237,
+    "Id": 17617133,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 238,
+    "Id": 17617134,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 239,
+    "Id": 17617135,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 240,
+    "Id": 17617136,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 241,
+    "Id": 17617137,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 242,
+    "Id": 17617138,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 243,
+    "Id": 17617139,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 244,
+    "Id": 17617140,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hurricane Wyvern",
+    "Idx": 245,
+    "Id": 17617141,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 246,
+    "Id": 17617142,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 247,
+    "Id": 17617143,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 248,
+    "Id": 17617144,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 249,
+    "Id": 17617145,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Lizard",
+    "Idx": 250,
+    "Id": 17617146,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ash Dragon",
+    "Idx": 251,
+    "Id": 17617147,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 252,
+    "Id": 17617148,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 253,
+    "Id": 17617149,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 254,
+    "Id": 17617150,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 255,
+    "Id": 17617151,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 256,
+    "Id": 17617152,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 257,
+    "Id": 17617153,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 258,
+    "Id": 17617154,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 259,
+    "Id": 17617155,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volcanic Bomb",
+    "Idx": 260,
+    "Id": 17617156,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mimic",
+    "Idx": 261,
+    "Id": 17617157,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bomb Queen",
+    "Idx": 262,
+    "Id": 17617158,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bomb Princess",
+    "Idx": 263,
+    "Id": 17617159,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bomb Prince",
+    "Idx": 264,
+    "Id": 17617160,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bomb Princess",
+    "Idx": 265,
+    "Id": 17617161,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bomb Prince",
+    "Idx": 266,
+    "Id": 17617162,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bomb Bastard",
+    "Idx": 267,
+    "Id": 17617163,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tarasque",
+    "Idx": 268,
+    "Id": 17617164,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cailleach Bheur",
+    "Idx": 269,
+    "Id": 17617165,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ildebrann",
+    "Idx": 270,
+    "Id": 17617166,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hraun Dragon",
+    "Idx": 271,
+    "Id": 17617167,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hraun Dragon",
+    "Idx": 272,
+    "Id": 17617168,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ildebrann",
+    "Idx": 273,
+    "Id": 17617169,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hraun Dragon",
+    "Idx": 274,
+    "Id": 17617170,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hraun Dragon",
+    "Idx": 275,
+    "Id": 17617171,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ildebrann",
+    "Idx": 276,
+    "Id": 17617172,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hraun Dragon",
+    "Idx": 277,
+    "Id": 17617173,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hraun Dragon",
+    "Idx": 278,
+    "Id": 17617174,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Coca",
+    "Idx": 279,
+    "Id": 17617175,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Coca",
+    "Idx": 280,
+    "Id": 17617176,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Coca",
+    "Idx": 281,
+    "Id": 17617177,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 283,
+    "Id": 17617179,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 284,
+    "Id": 17617180,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 285,
+    "Id": 17617181,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 286,
+    "Id": 17617182,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 287,
+    "Id": 17617183,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 288,
+    "Id": 17617184,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 289,
+    "Id": 17617185,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 290,
+    "Id": 17617186,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 291,
+    "Id": 17617187,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 292,
+    "Id": 17617188,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 293,
+    "Id": 17617189,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 294,
+    "Id": 17617190,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 295,
+    "Id": 17617191,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 296,
+    "Id": 17617192,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 297,
+    "Id": 17617193,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 298,
+    "Id": 17617194,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 299,
+    "Id": 17617195,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 300,
+    "Id": 17617196,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Casket",
+    "Idx": 301,
+    "Id": 17617197,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 302,
+    "Id": 17617198,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 303,
+    "Id": 17617199,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flame Spout",
+    "Idx": 308,
+    "Id": 17617204,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flame Spout",
+    "Idx": 309,
+    "Id": 17617205,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flame Spout",
+    "Idx": 310,
+    "Id": 17617206,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flame Spout",
+    "Idx": 311,
+    "Id": 17617207,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Altar of Ashes",
+    "Idx": 312,
+    "Id": 17617208,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 318,
+    "Id": 17617214,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 320,
+    "Id": 17617216,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 321,
+    "Id": 17617217,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 322,
+    "Id": 17617218,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 323,
+    "Id": 17617219,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 324,
+    "Id": 17617220,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 325,
+    "Id": 17617221,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 326,
+    "Id": 17617222,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 327,
+    "Id": 17617223,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Coffer",
+    "Idx": 328,
+    "Id": 17617224,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 329,
+    "Id": 17617225,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 330,
+    "Id": 17617226,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 331,
+    "Id": 17617227,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 332,
+    "Id": 17617228,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 333,
+    "Id": 17617229,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 334,
+    "Id": 17617230,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 335,
+    "Id": 17617231,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Capacucu",
+    "Idx": 336,
+    "Id": 17617232,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Putori-Tutori",
+    "Idx": 337,
+    "Id": 17617233,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kilhwch",
+    "Idx": 338,
+    "Id": 17617234,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mieuseloir",
+    "Idx": 339,
+    "Id": 17617235,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lhu Mhakaracca",
+    "Idx": 340,
+    "Id": 17617236,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Xonia",
+    "Idx": 341,
+    "Id": 17617237,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fonove",
+    "Idx": 342,
+    "Id": 17617238,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dzhau Yaam",
+    "Idx": 343,
+    "Id": 17617239,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kupalu-Harupalu",
+    "Idx": 344,
+    "Id": 17617240,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Noillurie",
+    "Idx": 345,
+    "Id": 17617241,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Umon-Paumon",
+    "Idx": 346,
+    "Id": 17617242,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ghebben",
+    "Idx": 347,
+    "Id": 17617243,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Elrica",
+    "Idx": 348,
+    "Id": 17617244,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Terounalivet",
+    "Idx": 349,
+    "Id": 17617245,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 350,
+    "Id": 17617246,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ramblix",
+    "Idx": 351,
+    "Id": 17617247,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 352,
+    "Id": 17617248,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 353,
+    "Id": 17617249,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 354,
+    "Id": 17617250,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 355,
+    "Id": 17617251,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 356,
+    "Id": 17617252,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 357,
+    "Id": 17617253,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 358,
+    "Id": 17617254,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 359,
+    "Id": 17617255,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 360,
+    "Id": 17617256,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 361,
+    "Id": 17617257,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 362,
+    "Id": 17617258,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 363,
+    "Id": 17617259,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 364,
+    "Id": 17617260,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Planar Rift",
+    "Idx": 365,
+    "Id": 17617261,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Planar Rift",
+    "Idx": 366,
+    "Id": 17617262,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Planar Rift",
+    "Idx": 367,
+    "Id": 17617263,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Riftworn Pyxis",
+    "Idx": 368,
+    "Id": 17617264,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Riftworn Pyxis",
+    "Idx": 369,
+    "Id": 17617265,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Riftworn Pyxis",
+    "Idx": 370,
+    "Id": 17617266,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 371,
+    "Id": 17617267,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 372,
+    "Id": 17617268,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 373,
+    "Id": 17617269,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 374,
+    "Id": 17617270,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 375,
+    "Id": 17617271,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 376,
+    "Id": 17617272,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 377,
+    "Id": 17617273,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grounds Tome",
+    "Idx": 378,
+    "Id": 17617274,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #1",
+    "Idx": 379,
+    "Id": 17617275,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #2",
+    "Idx": 380,
+    "Id": 17617276,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #3",
+    "Idx": 381,
+    "Id": 17617277,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #4",
+    "Idx": 382,
+    "Id": 17617278,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #5",
+    "Idx": 383,
+    "Id": 17617279,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ethereal Junction",
+    "Idx": 384,
+    "Id": 17617280,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ethereal Junction",
+    "Idx": 385,
+    "Id": 17617281,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ethereal Junction",
+    "Idx": 386,
+    "Id": 17617282,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Survival Guide",
+    "Idx": 387,
+    "Id": 17617283,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 388,
+    "Id": 17617284,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 389,
+    "Id": 17617285,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 390,
+    "Id": 17617286,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 391,
+    "Id": 17617287,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 392,
+    "Id": 17617288,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 393,
+    "Id": 17617289,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 394,
+    "Id": 17617290,
+    "ZoneId": 205,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

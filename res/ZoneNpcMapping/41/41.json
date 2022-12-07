@@ -1,0 +1,3954 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antaeus",
+    "Idx": 1,
+    "Id": 16945153,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 2,
+    "Id": 16945154,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 3,
+    "Id": 16945155,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 4,
+    "Id": 16945156,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 5,
+    "Id": 16945157,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 6,
+    "Id": 16945158,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 7,
+    "Id": 16945159,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 8,
+    "Id": 16945160,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 9,
+    "Id": 16945161,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 10,
+    "Id": 16945162,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 11,
+    "Id": 16945163,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 12,
+    "Id": 16945164,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 13,
+    "Id": 16945165,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 14,
+    "Id": 16945166,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 15,
+    "Id": 16945167,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 16,
+    "Id": 16945168,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 17,
+    "Id": 16945169,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 18,
+    "Id": 16945170,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 19,
+    "Id": 16945171,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 20,
+    "Id": 16945172,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 21,
+    "Id": 16945173,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 22,
+    "Id": 16945174,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 23,
+    "Id": 16945175,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 24,
+    "Id": 16945176,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 25,
+    "Id": 16945177,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 26,
+    "Id": 16945178,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 27,
+    "Id": 16945179,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 28,
+    "Id": 16945180,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 29,
+    "Id": 16945181,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 30,
+    "Id": 16945182,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 31,
+    "Id": 16945183,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Militant",
+    "Idx": 32,
+    "Id": 16945184,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Thaumaturge",
+    "Idx": 33,
+    "Id": 16945185,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Beasttender",
+    "Idx": 34,
+    "Id": 16945186,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Scorpion",
+    "Idx": 35,
+    "Id": 16945187,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mason",
+    "Idx": 36,
+    "Id": 16945188,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hatamoto",
+    "Idx": 37,
+    "Id": 16945189,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 38,
+    "Id": 16945190,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 39,
+    "Id": 16945191,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 40,
+    "Id": 16945192,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Image",
+    "Idx": 41,
+    "Id": 16945193,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vindicator",
+    "Idx": 42,
+    "Id": 16945194,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Protector",
+    "Idx": 43,
+    "Id": 16945195,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Defender",
+    "Idx": 44,
+    "Id": 16945196,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Kusa",
+    "Idx": 45,
+    "Id": 16945197,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Undertaker",
+    "Idx": 46,
+    "Id": 16945198,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 47,
+    "Id": 16945199,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 48,
+    "Id": 16945200,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 49,
+    "Id": 16945201,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 50,
+    "Id": 16945202,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Image",
+    "Idx": 51,
+    "Id": 16945203,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Constable",
+    "Idx": 52,
+    "Id": 16945204,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Purloiner",
+    "Idx": 53,
+    "Id": 16945205,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vigilante",
+    "Idx": 54,
+    "Id": 16945206,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Minstrel",
+    "Idx": 55,
+    "Id": 16945207,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Drakekeeper",
+    "Idx": 56,
+    "Id": 16945208,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 57,
+    "Id": 16945209,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 58,
+    "Id": 16945210,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 59,
+    "Id": 16945211,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 60,
+    "Id": 16945212,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Image",
+    "Idx": 61,
+    "Id": 16945213,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 62,
+    "Id": 16945214,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 63,
+    "Id": 16945215,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 64,
+    "Id": 16945216,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 65,
+    "Id": 16945217,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 66,
+    "Id": 16945218,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 67,
+    "Id": 16945219,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 68,
+    "Id": 16945220,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 69,
+    "Id": 16945221,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 70,
+    "Id": 16945222,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 71,
+    "Id": 16945223,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 72,
+    "Id": 16945224,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 73,
+    "Id": 16945225,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 74,
+    "Id": 16945226,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 75,
+    "Id": 16945227,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 76,
+    "Id": 16945228,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 77,
+    "Id": 16945229,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 78,
+    "Id": 16945230,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 79,
+    "Id": 16945231,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 80,
+    "Id": 16945232,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 81,
+    "Id": 16945233,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 82,
+    "Id": 16945234,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 83,
+    "Id": 16945235,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 84,
+    "Id": 16945236,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 85,
+    "Id": 16945237,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 86,
+    "Id": 16945238,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 87,
+    "Id": 16945239,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 88,
+    "Id": 16945240,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 89,
+    "Id": 16945241,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 90,
+    "Id": 16945242,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 91,
+    "Id": 16945243,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 92,
+    "Id": 16945244,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 93,
+    "Id": 16945245,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 94,
+    "Id": 16945246,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 95,
+    "Id": 16945247,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dragontamer",
+    "Idx": 96,
+    "Id": 16945248,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 97,
+    "Id": 16945249,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 98,
+    "Id": 16945250,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 99,
+    "Id": 16945251,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 100,
+    "Id": 16945252,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 101,
+    "Id": 16945253,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 102,
+    "Id": 16945254,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 103,
+    "Id": 16945255,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 104,
+    "Id": 16945256,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 105,
+    "Id": 16945257,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 106,
+    "Id": 16945258,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 107,
+    "Id": 16945259,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 108,
+    "Id": 16945260,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 109,
+    "Id": 16945261,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 110,
+    "Id": 16945262,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 111,
+    "Id": 16945263,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 112,
+    "Id": 16945264,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 113,
+    "Id": 16945265,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 114,
+    "Id": 16945266,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 115,
+    "Id": 16945267,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 116,
+    "Id": 16945268,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 117,
+    "Id": 16945269,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 118,
+    "Id": 16945270,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 119,
+    "Id": 16945271,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 120,
+    "Id": 16945272,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 121,
+    "Id": 16945273,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 122,
+    "Id": 16945274,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 123,
+    "Id": 16945275,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 124,
+    "Id": 16945276,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 125,
+    "Id": 16945277,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 126,
+    "Id": 16945278,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 127,
+    "Id": 16945279,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 128,
+    "Id": 16945280,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 129,
+    "Id": 16945281,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 130,
+    "Id": 16945282,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 131,
+    "Id": 16945283,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 132,
+    "Id": 16945284,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 133,
+    "Id": 16945285,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 134,
+    "Id": 16945286,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scolopendra",
+    "Idx": 135,
+    "Id": 16945287,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 136,
+    "Id": 16945288,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 137,
+    "Id": 16945289,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 138,
+    "Id": 16945290,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 139,
+    "Id": 16945291,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 140,
+    "Id": 16945292,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 141,
+    "Id": 16945293,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 142,
+    "Id": 16945294,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 143,
+    "Id": 16945295,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 144,
+    "Id": 16945296,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 145,
+    "Id": 16945297,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 146,
+    "Id": 16945298,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 147,
+    "Id": 16945299,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 148,
+    "Id": 16945300,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 149,
+    "Id": 16945301,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 150,
+    "Id": 16945302,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 151,
+    "Id": 16945303,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 152,
+    "Id": 16945304,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 153,
+    "Id": 16945305,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 154,
+    "Id": 16945306,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 155,
+    "Id": 16945307,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 156,
+    "Id": 16945308,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 157,
+    "Id": 16945309,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 158,
+    "Id": 16945310,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 159,
+    "Id": 16945311,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 160,
+    "Id": 16945312,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 161,
+    "Id": 16945313,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 162,
+    "Id": 16945314,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 163,
+    "Id": 16945315,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 164,
+    "Id": 16945316,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 165,
+    "Id": 16945317,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 166,
+    "Id": 16945318,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 167,
+    "Id": 16945319,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Stringes",
+    "Idx": 168,
+    "Id": 16945320,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 169,
+    "Id": 16945321,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 170,
+    "Id": 16945322,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 171,
+    "Id": 16945323,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 172,
+    "Id": 16945324,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 173,
+    "Id": 16945325,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 174,
+    "Id": 16945326,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 175,
+    "Id": 16945327,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 176,
+    "Id": 16945328,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 177,
+    "Id": 16945329,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 178,
+    "Id": 16945330,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 179,
+    "Id": 16945331,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 180,
+    "Id": 16945332,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 181,
+    "Id": 16945333,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 182,
+    "Id": 16945334,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 183,
+    "Id": 16945335,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 184,
+    "Id": 16945336,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 185,
+    "Id": 16945337,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 186,
+    "Id": 16945338,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 187,
+    "Id": 16945339,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 188,
+    "Id": 16945340,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 189,
+    "Id": 16945341,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 190,
+    "Id": 16945342,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 191,
+    "Id": 16945343,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 192,
+    "Id": 16945344,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 193,
+    "Id": 16945345,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 194,
+    "Id": 16945346,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 195,
+    "Id": 16945347,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 196,
+    "Id": 16945348,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 197,
+    "Id": 16945349,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 198,
+    "Id": 16945350,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 199,
+    "Id": 16945351,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 200,
+    "Id": 16945352,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 201,
+    "Id": 16945353,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 202,
+    "Id": 16945354,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 203,
+    "Id": 16945355,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 204,
+    "Id": 16945356,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 205,
+    "Id": 16945357,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 206,
+    "Id": 16945358,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 207,
+    "Id": 16945359,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 208,
+    "Id": 16945360,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 209,
+    "Id": 16945361,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 210,
+    "Id": 16945362,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 211,
+    "Id": 16945363,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Roc",
+    "Idx": 212,
+    "Id": 16945364,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Roc",
+    "Idx": 213,
+    "Id": 16945365,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Roc",
+    "Idx": 214,
+    "Id": 16945366,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 215,
+    "Id": 16945367,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 216,
+    "Id": 16945368,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 217,
+    "Id": 16945369,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 218,
+    "Id": 16945370,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 219,
+    "Id": 16945371,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 220,
+    "Id": 16945372,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 221,
+    "Id": 16945373,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 222,
+    "Id": 16945374,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 223,
+    "Id": 16945375,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 224,
+    "Id": 16945376,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 225,
+    "Id": 16945377,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 226,
+    "Id": 16945378,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 227,
+    "Id": 16945379,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 228,
+    "Id": 16945380,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Suttung",
+    "Idx": 229,
+    "Id": 16945381,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 230,
+    "Id": 16945382,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 231,
+    "Id": 16945383,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 232,
+    "Id": 16945384,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 233,
+    "Id": 16945385,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 234,
+    "Id": 16945386,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 235,
+    "Id": 16945387,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 236,
+    "Id": 16945388,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 237,
+    "Id": 16945389,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 238,
+    "Id": 16945390,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 239,
+    "Id": 16945391,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 240,
+    "Id": 16945392,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 241,
+    "Id": 16945393,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 242,
+    "Id": 16945394,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 243,
+    "Id": 16945395,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 244,
+    "Id": 16945396,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 245,
+    "Id": 16945397,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 246,
+    "Id": 16945398,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 247,
+    "Id": 16945399,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 248,
+    "Id": 16945400,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 249,
+    "Id": 16945401,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 250,
+    "Id": 16945402,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arch Antaeus",
+    "Idx": 251,
+    "Id": 16945403,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Roc",
+    "Idx": 252,
+    "Id": 16945404,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Roc",
+    "Idx": 253,
+    "Id": 16945405,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Roc",
+    "Idx": 254,
+    "Id": 16945406,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 255,
+    "Id": 16945407,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 256,
+    "Id": 16945408,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 257,
+    "Id": 16945409,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 258,
+    "Id": 16945410,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 259,
+    "Id": 16945411,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 260,
+    "Id": 16945412,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 261,
+    "Id": 16945413,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 262,
+    "Id": 16945414,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 263,
+    "Id": 16945415,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 264,
+    "Id": 16945416,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 265,
+    "Id": 16945417,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 266,
+    "Id": 16945418,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 267,
+    "Id": 16945419,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Stirge",
+    "Idx": 268,
+    "Id": 16945420,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lost Stringes",
+    "Idx": 269,
+    "Id": 16945421,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 270,
+    "Id": 16945422,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 271,
+    "Id": 16945423,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 272,
+    "Id": 16945424,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 273,
+    "Id": 16945425,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 274,
+    "Id": 16945426,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 275,
+    "Id": 16945427,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 276,
+    "Id": 16945428,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 277,
+    "Id": 16945429,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Diremite",
+    "Idx": 278,
+    "Id": 16945430,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 279,
+    "Id": 16945431,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 280,
+    "Id": 16945432,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 281,
+    "Id": 16945433,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 282,
+    "Id": 16945434,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 283,
+    "Id": 16945435,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 284,
+    "Id": 16945436,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 285,
+    "Id": 16945437,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 286,
+    "Id": 16945438,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 287,
+    "Id": 16945439,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 288,
+    "Id": 16945440,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 289,
+    "Id": 16945441,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Gaylas",
+    "Idx": 290,
+    "Id": 16945442,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 291,
+    "Id": 16945443,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 292,
+    "Id": 16945444,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 293,
+    "Id": 16945445,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 294,
+    "Id": 16945446,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 295,
+    "Id": 16945447,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 296,
+    "Id": 16945448,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 297,
+    "Id": 16945449,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 298,
+    "Id": 16945450,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 299,
+    "Id": 16945451,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 300,
+    "Id": 16945452,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 301,
+    "Id": 16945453,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 302,
+    "Id": 16945454,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 303,
+    "Id": 16945455,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Kraken",
+    "Idx": 304,
+    "Id": 16945456,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lost Scolopendra",
+    "Idx": 305,
+    "Id": 16945457,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 306,
+    "Id": 16945458,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 307,
+    "Id": 16945459,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 308,
+    "Id": 16945460,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 309,
+    "Id": 16945461,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 310,
+    "Id": 16945462,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 311,
+    "Id": 16945463,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 312,
+    "Id": 16945464,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 313,
+    "Id": 16945465,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 314,
+    "Id": 16945466,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 315,
+    "Id": 16945467,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 316,
+    "Id": 16945468,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Snoll",
+    "Idx": 317,
+    "Id": 16945469,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lost Suttung",
+    "Idx": 318,
+    "Id": 16945470,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Amputator",
+    "Idx": 319,
+    "Id": 16945471,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vexer",
+    "Idx": 320,
+    "Id": 16945472,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Neckchopper",
+    "Idx": 321,
+    "Id": 16945473,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Predator",
+    "Idx": 322,
+    "Id": 16945474,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Impaler",
+    "Idx": 323,
+    "Id": 16945475,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 324,
+    "Id": 16945476,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 325,
+    "Id": 16945477,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 326,
+    "Id": 16945478,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 327,
+    "Id": 16945479,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 328,
+    "Id": 16945480,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Footsoldier",
+    "Idx": 329,
+    "Id": 16945481,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pillager",
+    "Idx": 330,
+    "Id": 16945482,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Trooper",
+    "Idx": 331,
+    "Id": 16945483,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Bugler",
+    "Idx": 332,
+    "Id": 16945484,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Gutslasher",
+    "Idx": 333,
+    "Id": 16945485,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dollmaster",
+    "Idx": 334,
+    "Id": 16945486,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 335,
+    "Id": 16945487,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 336,
+    "Id": 16945488,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 337,
+    "Id": 16945489,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 338,
+    "Id": 16945490,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 339,
+    "Id": 16945491,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Grappler",
+    "Idx": 340,
+    "Id": 16945492,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mesmerizer",
+    "Idx": 341,
+    "Id": 16945493,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hawker",
+    "Idx": 342,
+    "Id": 16945494,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Hecteyes",
+    "Idx": 343,
+    "Id": 16945495,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Backstabber",
+    "Idx": 344,
+    "Id": 16945496,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 345,
+    "Id": 16945497,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 346,
+    "Id": 16945498,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Serjeant Tombstone",
+    "Idx": 347,
+    "Id": 16945499,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Warchief Tombstone",
+    "Idx": 348,
+    "Id": 16945500,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Alchemist",
+    "Idx": 349,
+    "Id": 16945501,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Armorer",
+    "Idx": 350,
+    "Id": 16945502,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 351,
+    "Id": 16945503,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 352,
+    "Id": 16945504,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ronin",
+    "Idx": 353,
+    "Id": 16945505,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 354,
+    "Id": 16945506,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 355,
+    "Id": 16945507,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 356,
+    "Id": 16945508,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 357,
+    "Id": 16945509,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 358,
+    "Id": 16945510,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 359,
+    "Id": 16945511,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 360,
+    "Id": 16945512,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 361,
+    "Id": 16945513,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 362,
+    "Id": 16945514,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 363,
+    "Id": 16945515,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 364,
+    "Id": 16945516,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 365,
+    "Id": 16945517,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 366,
+    "Id": 16945518,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 367,
+    "Id": 16945519,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 368,
+    "Id": 16945520,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Tiger",
+    "Idx": 369,
+    "Id": 16945521,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Smithy",
+    "Idx": 370,
+    "Id": 16945522,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Welldigger",
+    "Idx": 371,
+    "Id": 16945523,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Tinkerer",
+    "Idx": 372,
+    "Id": 16945524,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pathfinder",
+    "Idx": 373,
+    "Id": 16945525,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Slime",
+    "Idx": 374,
+    "Id": 16945526,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 375,
+    "Id": 16945527,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 376,
+    "Id": 16945528,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 377,
+    "Id": 16945529,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 378,
+    "Id": 16945530,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Enchanter",
+    "Idx": 379,
+    "Id": 16945531,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ambusher",
+    "Idx": 380,
+    "Id": 16945532,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hitman",
+    "Idx": 381,
+    "Id": 16945533,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Dragontamer",
+    "Idx": 382,
+    "Id": 16945534,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 383,
+    "Id": 16945535,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 384,
+    "Id": 16945536,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 385,
+    "Id": 16945537,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 386,
+    "Id": 16945538,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 387,
+    "Id": 16945539,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Pitfighter",
+    "Idx": 388,
+    "Id": 16945540,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Shaman",
+    "Idx": 389,
+    "Id": 16945541,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Maestro",
+    "Idx": 390,
+    "Id": 16945542,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Necromancer",
+    "Idx": 391,
+    "Id": 16945543,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 392,
+    "Id": 16945544,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 393,
+    "Id": 16945545,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 394,
+    "Id": 16945546,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Replica",
+    "Idx": 395,
+    "Id": 16945547,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Statue",
+    "Idx": 396,
+    "Id": 16945548,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 397,
+    "Id": 16945549,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 398,
+    "Id": 16945550,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 399,
+    "Id": 16945551,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 400,
+    "Id": 16945552,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 401,
+    "Id": 16945553,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 402,
+    "Id": 16945554,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 403,
+    "Id": 16945555,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 404,
+    "Id": 16945556,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 405,
+    "Id": 16945557,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Weapon",
+    "Idx": 406,
+    "Id": 16945558,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Militant",
+    "Idx": 407,
+    "Id": 16945559,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Thaumaturge",
+    "Idx": 408,
+    "Id": 16945560,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Beasttender",
+    "Idx": 409,
+    "Id": 16945561,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Scorpion",
+    "Idx": 410,
+    "Id": 16945562,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Mason",
+    "Idx": 411,
+    "Id": 16945563,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Hatamoto",
+    "Idx": 412,
+    "Id": 16945564,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 413,
+    "Id": 16945565,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 414,
+    "Id": 16945566,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 415,
+    "Id": 16945567,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Image",
+    "Idx": 416,
+    "Id": 16945568,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vindicator",
+    "Idx": 417,
+    "Id": 16945569,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Protector",
+    "Idx": 418,
+    "Id": 16945570,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Defender",
+    "Idx": 419,
+    "Id": 16945571,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Kusa",
+    "Idx": 420,
+    "Id": 16945572,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Undertaker",
+    "Idx": 421,
+    "Id": 16945573,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 422,
+    "Id": 16945574,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 423,
+    "Id": 16945575,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 424,
+    "Id": 16945576,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 425,
+    "Id": 16945577,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Image",
+    "Idx": 426,
+    "Id": 16945578,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Constable",
+    "Idx": 427,
+    "Id": 16945579,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Purloiner",
+    "Idx": 428,
+    "Id": 16945580,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Vigilante",
+    "Idx": 429,
+    "Id": 16945581,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Minstrel",
+    "Idx": 430,
+    "Id": 16945582,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Drakekeeper",
+    "Idx": 431,
+    "Id": 16945583,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 432,
+    "Id": 16945584,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 433,
+    "Id": 16945585,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 434,
+    "Id": 16945586,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Effigy",
+    "Idx": 435,
+    "Id": 16945587,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adamantking Image",
+    "Idx": 436,
+    "Id": 16945588,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 437,
+    "Id": 16945589,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 438,
+    "Id": 16945590,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 439,
+    "Id": 16945591,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 440,
+    "Id": 16945592,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 441,
+    "Id": 16945593,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 442,
+    "Id": 16945594,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 443,
+    "Id": 16945595,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 444,
+    "Id": 16945596,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 445,
+    "Id": 16945597,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Raptor",
+    "Idx": 446,
+    "Id": 16945598,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 447,
+    "Id": 16945599,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 448,
+    "Id": 16945600,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 449,
+    "Id": 16945601,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 450,
+    "Id": 16945602,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 451,
+    "Id": 16945603,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 452,
+    "Id": 16945604,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 453,
+    "Id": 16945605,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 454,
+    "Id": 16945606,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 455,
+    "Id": 16945607,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 456,
+    "Id": 16945608,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 457,
+    "Id": 16945609,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 458,
+    "Id": 16945610,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 459,
+    "Id": 16945611,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 460,
+    "Id": 16945612,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 461,
+    "Id": 16945613,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 462,
+    "Id": 16945614,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 463,
+    "Id": 16945615,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 464,
+    "Id": 16945616,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 465,
+    "Id": 16945617,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 466,
+    "Id": 16945618,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 467,
+    "Id": 16945619,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 468,
+    "Id": 16945620,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 469,
+    "Id": 16945621,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 470,
+    "Id": 16945622,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 471,
+    "Id": 16945623,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 472,
+    "Id": 16945624,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 473,
+    "Id": 16945625,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 474,
+    "Id": 16945626,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Manifest Icon",
+    "Idx": 475,
+    "Id": 16945627,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 476,
+    "Id": 16945628,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 478,
+    "Id": 16945630,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 479,
+    "Id": 16945631,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Somnial Threshold",
+    "Idx": 485,
+    "Id": 16945637,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 486,
+    "Id": 16945638,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 487,
+    "Id": 16945639,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 488,
+    "Id": 16945640,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 489,
+    "Id": 16945641,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 490,
+    "Id": 16945642,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 491,
+    "Id": 16945643,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 493,
+    "Id": 16945645,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 494,
+    "Id": 16945646,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 495,
+    "Id": 16945647,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 496,
+    "Id": 16945648,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 497,
+    "Id": 16945649,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 498,
+    "Id": 16945650,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 499,
+    "Id": 16945651,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 500,
+    "Id": 16945652,
+    "ZoneId": 41,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

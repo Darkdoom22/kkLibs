@@ -1,0 +1,4186 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ferocious Pugil",
+    "Idx": 1,
+    "Id": 17387521,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ferocious Pugil",
+    "Idx": 2,
+    "Id": 17387522,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Greater Pugil",
+    "Idx": 3,
+    "Id": 17387523,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gloop",
+    "Idx": 4,
+    "Id": 17387524,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oil Spill",
+    "Idx": 5,
+    "Id": 17387525,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 6,
+    "Id": 17387526,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 7,
+    "Id": 17387527,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 8,
+    "Id": 17387528,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 9,
+    "Id": 17387529,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 10,
+    "Id": 17387530,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 11,
+    "Id": 17387531,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 12,
+    "Id": 17387532,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 13,
+    "Id": 17387533,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 14,
+    "Id": 17387534,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 15,
+    "Id": 17387535,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 16,
+    "Id": 17387536,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 17,
+    "Id": 17387537,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 18,
+    "Id": 17387538,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 19,
+    "Id": 17387539,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 20,
+    "Id": 17387540,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 21,
+    "Id": 17387541,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 22,
+    "Id": 17387542,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 23,
+    "Id": 17387543,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 24,
+    "Id": 17387544,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 25,
+    "Id": 17387545,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 26,
+    "Id": 17387546,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 27,
+    "Id": 17387547,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 28,
+    "Id": 17387548,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 29,
+    "Id": 17387549,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 30,
+    "Id": 17387550,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 31,
+    "Id": 17387551,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wood Bats",
+    "Idx": 32,
+    "Id": 17387552,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 33,
+    "Id": 17387553,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 34,
+    "Id": 17387554,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wood Bats",
+    "Idx": 35,
+    "Id": 17387555,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wood Bats",
+    "Idx": 36,
+    "Id": 17387556,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 37,
+    "Id": 17387557,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 38,
+    "Id": 17387558,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 39,
+    "Id": 17387559,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 40,
+    "Id": 17387560,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 41,
+    "Id": 17387561,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 42,
+    "Id": 17387562,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 43,
+    "Id": 17387563,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 44,
+    "Id": 17387564,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wood Bats",
+    "Idx": 45,
+    "Id": 17387565,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wood Bats",
+    "Idx": 46,
+    "Id": 17387566,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hawkeyed Dnatbat",
+    "Idx": 47,
+    "Id": 17387567,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 48,
+    "Id": 17387568,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 49,
+    "Id": 17387569,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 50,
+    "Id": 17387570,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 51,
+    "Id": 17387571,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 52,
+    "Id": 17387572,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 53,
+    "Id": 17387573,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 54,
+    "Id": 17387574,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 55,
+    "Id": 17387575,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 56,
+    "Id": 17387576,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 57,
+    "Id": 17387577,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 58,
+    "Id": 17387578,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 59,
+    "Id": 17387579,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 60,
+    "Id": 17387580,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 61,
+    "Id": 17387581,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Firebelcher",
+    "Idx": 62,
+    "Id": 17387582,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 63,
+    "Id": 17387583,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 64,
+    "Id": 17387584,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Steelbiter Gudrud",
+    "Idx": 65,
+    "Id": 17387585,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orc's Wyvern",
+    "Idx": 66,
+    "Id": 17387586,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 67,
+    "Id": 17387587,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 68,
+    "Id": 17387588,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 69,
+    "Id": 17387589,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 70,
+    "Id": 17387590,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 71,
+    "Id": 17387591,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 72,
+    "Id": 17387592,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 73,
+    "Id": 17387593,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 74,
+    "Id": 17387594,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 75,
+    "Id": 17387595,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 76,
+    "Id": 17387596,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 77,
+    "Id": 17387597,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 78,
+    "Id": 17387598,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Cursemaker",
+    "Idx": 79,
+    "Id": 17387599,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 80,
+    "Id": 17387600,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 81,
+    "Id": 17387601,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 82,
+    "Id": 17387602,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 83,
+    "Id": 17387603,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 84,
+    "Id": 17387604,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 85,
+    "Id": 17387605,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tigerbane Bakdak",
+    "Idx": 86,
+    "Id": 17387606,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Fighter",
+    "Idx": 87,
+    "Id": 17387607,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Serjeant",
+    "Idx": 88,
+    "Id": 17387608,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 89,
+    "Id": 17387609,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 90,
+    "Id": 17387610,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 91,
+    "Id": 17387611,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 92,
+    "Id": 17387612,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 93,
+    "Id": 17387613,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 94,
+    "Id": 17387614,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 95,
+    "Id": 17387615,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 96,
+    "Id": 17387616,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 97,
+    "Id": 17387617,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 98,
+    "Id": 17387618,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 99,
+    "Id": 17387619,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 100,
+    "Id": 17387620,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 101,
+    "Id": 17387621,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 102,
+    "Id": 17387622,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 103,
+    "Id": 17387623,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 104,
+    "Id": 17387624,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 105,
+    "Id": 17387625,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 106,
+    "Id": 17387626,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 107,
+    "Id": 17387627,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 108,
+    "Id": 17387628,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 109,
+    "Id": 17387629,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 110,
+    "Id": 17387630,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 111,
+    "Id": 17387631,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 112,
+    "Id": 17387632,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 113,
+    "Id": 17387633,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 114,
+    "Id": 17387634,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 115,
+    "Id": 17387635,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 116,
+    "Id": 17387636,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 117,
+    "Id": 17387637,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 118,
+    "Id": 17387638,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 119,
+    "Id": 17387639,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 120,
+    "Id": 17387640,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Firebelcher",
+    "Idx": 121,
+    "Id": 17387641,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 122,
+    "Id": 17387642,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 123,
+    "Id": 17387643,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poisonhand Gnadgad",
+    "Idx": 124,
+    "Id": 17387644,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 125,
+    "Id": 17387645,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 126,
+    "Id": 17387646,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 127,
+    "Id": 17387647,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 128,
+    "Id": 17387648,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 129,
+    "Id": 17387649,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 130,
+    "Id": 17387650,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 131,
+    "Id": 17387651,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 132,
+    "Id": 17387652,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 133,
+    "Id": 17387653,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 134,
+    "Id": 17387654,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 135,
+    "Id": 17387655,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 136,
+    "Id": 17387656,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 137,
+    "Id": 17387657,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 138,
+    "Id": 17387658,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 139,
+    "Id": 17387659,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 140,
+    "Id": 17387660,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 141,
+    "Id": 17387661,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 142,
+    "Id": 17387662,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 143,
+    "Id": 17387663,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 144,
+    "Id": 17387664,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 145,
+    "Id": 17387665,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 146,
+    "Id": 17387666,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 147,
+    "Id": 17387667,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 148,
+    "Id": 17387668,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 149,
+    "Id": 17387669,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 150,
+    "Id": 17387670,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 151,
+    "Id": 17387671,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 152,
+    "Id": 17387672,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 153,
+    "Id": 17387673,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 154,
+    "Id": 17387674,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 155,
+    "Id": 17387675,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 156,
+    "Id": 17387676,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 157,
+    "Id": 17387677,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 158,
+    "Id": 17387678,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 159,
+    "Id": 17387679,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 160,
+    "Id": 17387680,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 161,
+    "Id": 17387681,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 162,
+    "Id": 17387682,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 163,
+    "Id": 17387683,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 164,
+    "Id": 17387684,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 165,
+    "Id": 17387685,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 166,
+    "Id": 17387686,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 167,
+    "Id": 17387687,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 168,
+    "Id": 17387688,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 169,
+    "Id": 17387689,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 170,
+    "Id": 17387690,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 171,
+    "Id": 17387691,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 172,
+    "Id": 17387692,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 173,
+    "Id": 17387693,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 174,
+    "Id": 17387694,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 175,
+    "Id": 17387695,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 176,
+    "Id": 17387696,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 177,
+    "Id": 17387697,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 178,
+    "Id": 17387698,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 179,
+    "Id": 17387699,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 180,
+    "Id": 17387700,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 181,
+    "Id": 17387701,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 182,
+    "Id": 17387702,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 183,
+    "Id": 17387703,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 184,
+    "Id": 17387704,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 185,
+    "Id": 17387705,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 186,
+    "Id": 17387706,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 187,
+    "Id": 17387707,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 188,
+    "Id": 17387708,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 189,
+    "Id": 17387709,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 190,
+    "Id": 17387710,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 191,
+    "Id": 17387711,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 192,
+    "Id": 17387712,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 193,
+    "Id": 17387713,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 194,
+    "Id": 17387714,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 195,
+    "Id": 17387715,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 196,
+    "Id": 17387716,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 197,
+    "Id": 17387717,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 198,
+    "Id": 17387718,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 199,
+    "Id": 17387719,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 200,
+    "Id": 17387720,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 201,
+    "Id": 17387721,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 202,
+    "Id": 17387722,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 203,
+    "Id": 17387723,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 204,
+    "Id": 17387724,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 205,
+    "Id": 17387725,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 206,
+    "Id": 17387726,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 207,
+    "Id": 17387727,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 208,
+    "Id": 17387728,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 209,
+    "Id": 17387729,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 210,
+    "Id": 17387730,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 211,
+    "Id": 17387731,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 212,
+    "Id": 17387732,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 213,
+    "Id": 17387733,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 214,
+    "Id": 17387734,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 215,
+    "Id": 17387735,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 216,
+    "Id": 17387736,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 217,
+    "Id": 17387737,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 218,
+    "Id": 17387738,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 219,
+    "Id": 17387739,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 220,
+    "Id": 17387740,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 221,
+    "Id": 17387741,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 222,
+    "Id": 17387742,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 223,
+    "Id": 17387743,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 224,
+    "Id": 17387744,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 225,
+    "Id": 17387745,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 226,
+    "Id": 17387746,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 227,
+    "Id": 17387747,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 228,
+    "Id": 17387748,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 229,
+    "Id": 17387749,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 230,
+    "Id": 17387750,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 231,
+    "Id": 17387751,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 232,
+    "Id": 17387752,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 233,
+    "Id": 17387753,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 234,
+    "Id": 17387754,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 235,
+    "Id": 17387755,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 236,
+    "Id": 17387756,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 237,
+    "Id": 17387757,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 238,
+    "Id": 17387758,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 239,
+    "Id": 17387759,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 240,
+    "Id": 17387760,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 241,
+    "Id": 17387761,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 242,
+    "Id": 17387762,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 243,
+    "Id": 17387763,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 244,
+    "Id": 17387764,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 245,
+    "Id": 17387765,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 246,
+    "Id": 17387766,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 247,
+    "Id": 17387767,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 248,
+    "Id": 17387768,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 249,
+    "Id": 17387769,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 250,
+    "Id": 17387770,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 251,
+    "Id": 17387771,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 252,
+    "Id": 17387772,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 253,
+    "Id": 17387773,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 254,
+    "Id": 17387774,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 255,
+    "Id": 17387775,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 256,
+    "Id": 17387776,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 257,
+    "Id": 17387777,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 258,
+    "Id": 17387778,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 259,
+    "Id": 17387779,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 260,
+    "Id": 17387780,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 261,
+    "Id": 17387781,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 262,
+    "Id": 17387782,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 263,
+    "Id": 17387783,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 264,
+    "Id": 17387784,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 265,
+    "Id": 17387785,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 266,
+    "Id": 17387786,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 267,
+    "Id": 17387787,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 268,
+    "Id": 17387788,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 269,
+    "Id": 17387789,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Champion",
+    "Idx": 270,
+    "Id": 17387790,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Veteran",
+    "Idx": 271,
+    "Id": 17387791,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Predator",
+    "Idx": 272,
+    "Id": 17387792,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Zerker",
+    "Idx": 273,
+    "Id": 17387793,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 274,
+    "Id": 17387794,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 275,
+    "Id": 17387795,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 276,
+    "Id": 17387796,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geezard",
+    "Idx": 277,
+    "Id": 17387797,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 278,
+    "Id": 17387798,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 279,
+    "Id": 17387799,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 280,
+    "Id": 17387800,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 281,
+    "Id": 17387801,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 282,
+    "Id": 17387802,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 283,
+    "Id": 17387803,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 284,
+    "Id": 17387804,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 285,
+    "Id": 17387805,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 286,
+    "Id": 17387806,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 287,
+    "Id": 17387807,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 288,
+    "Id": 17387808,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 289,
+    "Id": 17387809,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 290,
+    "Id": 17387810,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 291,
+    "Id": 17387811,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 292,
+    "Id": 17387812,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 293,
+    "Id": 17387813,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 294,
+    "Id": 17387814,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 295,
+    "Id": 17387815,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 296,
+    "Id": 17387816,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 297,
+    "Id": 17387817,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 298,
+    "Id": 17387818,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 299,
+    "Id": 17387819,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 300,
+    "Id": 17387820,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 301,
+    "Id": 17387821,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 302,
+    "Id": 17387822,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 303,
+    "Id": 17387823,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 304,
+    "Id": 17387824,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 305,
+    "Id": 17387825,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 306,
+    "Id": 17387826,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 307,
+    "Id": 17387827,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 308,
+    "Id": 17387828,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 309,
+    "Id": 17387829,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 310,
+    "Id": 17387830,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 311,
+    "Id": 17387831,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 312,
+    "Id": 17387832,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 313,
+    "Id": 17387833,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Bowshooter",
+    "Idx": 314,
+    "Id": 17387834,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Footsoldier",
+    "Idx": 315,
+    "Id": 17387835,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Gladiator",
+    "Idx": 316,
+    "Id": 17387836,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Trooper",
+    "Idx": 317,
+    "Id": 17387837,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 318,
+    "Id": 17387838,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 319,
+    "Id": 17387839,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 320,
+    "Id": 17387840,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 321,
+    "Id": 17387841,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 322,
+    "Id": 17387842,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 323,
+    "Id": 17387843,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 324,
+    "Id": 17387844,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 325,
+    "Id": 17387845,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 326,
+    "Id": 17387846,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Hornet",
+    "Idx": 327,
+    "Id": 17387847,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 328,
+    "Id": 17387848,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 329,
+    "Id": 17387849,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 330,
+    "Id": 17387850,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 331,
+    "Id": 17387851,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 332,
+    "Id": 17387852,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 333,
+    "Id": 17387853,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 334,
+    "Id": 17387854,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 335,
+    "Id": 17387855,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 336,
+    "Id": 17387856,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 337,
+    "Id": 17387857,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 338,
+    "Id": 17387858,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 339,
+    "Id": 17387859,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 340,
+    "Id": 17387860,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 341,
+    "Id": 17387861,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 342,
+    "Id": 17387862,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 343,
+    "Id": 17387863,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 344,
+    "Id": 17387864,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 345,
+    "Id": 17387865,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Morbol",
+    "Idx": 346,
+    "Id": 17387866,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 347,
+    "Id": 17387867,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Wasp",
+    "Idx": 348,
+    "Id": 17387868,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 349,
+    "Id": 17387869,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wolf Bat",
+    "Idx": 350,
+    "Id": 17387870,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 351,
+    "Id": 17387871,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 352,
+    "Id": 17387872,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 353,
+    "Id": 17387873,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 354,
+    "Id": 17387874,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 355,
+    "Id": 17387875,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 356,
+    "Id": 17387876,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 357,
+    "Id": 17387877,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 358,
+    "Id": 17387878,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 359,
+    "Id": 17387879,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 360,
+    "Id": 17387880,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 361,
+    "Id": 17387881,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 362,
+    "Id": 17387882,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Morbol",
+    "Idx": 363,
+    "Id": 17387883,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Mush",
+    "Idx": 364,
+    "Id": 17387884,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Morbol",
+    "Idx": 365,
+    "Id": 17387885,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Mush",
+    "Idx": 366,
+    "Id": 17387886,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 367,
+    "Id": 17387887,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 368,
+    "Id": 17387888,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 369,
+    "Id": 17387889,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 370,
+    "Id": 17387890,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 371,
+    "Id": 17387891,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 372,
+    "Id": 17387892,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 373,
+    "Id": 17387893,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 374,
+    "Id": 17387894,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 375,
+    "Id": 17387895,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 376,
+    "Id": 17387896,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 377,
+    "Id": 17387897,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 378,
+    "Id": 17387898,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 379,
+    "Id": 17387899,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 380,
+    "Id": 17387900,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Pugil",
+    "Idx": 381,
+    "Id": 17387901,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Elemental",
+    "Idx": 382,
+    "Id": 17387902,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 383,
+    "Id": 17387903,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 384,
+    "Id": 17387904,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 385,
+    "Id": 17387905,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 386,
+    "Id": 17387906,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 387,
+    "Id": 17387907,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 388,
+    "Id": 17387908,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 389,
+    "Id": 17387909,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 390,
+    "Id": 17387910,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 391,
+    "Id": 17387911,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 392,
+    "Id": 17387912,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 393,
+    "Id": 17387913,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 394,
+    "Id": 17387914,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 395,
+    "Id": 17387915,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 396,
+    "Id": 17387916,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 397,
+    "Id": 17387917,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 398,
+    "Id": 17387918,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Davoi Mush",
+    "Idx": 399,
+    "Id": 17387919,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blubbery Bulge",
+    "Idx": 400,
+    "Id": 17387920,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 401,
+    "Id": 17387921,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 402,
+    "Id": 17387922,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 403,
+    "Id": 17387923,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 404,
+    "Id": 17387924,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 405,
+    "Id": 17387925,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lizard",
+    "Idx": 406,
+    "Id": 17387926,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Impaler",
+    "Idx": 407,
+    "Id": 17387927,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Beastrider",
+    "Idx": 408,
+    "Id": 17387928,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Nightraider",
+    "Idx": 409,
+    "Id": 17387929,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Brawler",
+    "Idx": 410,
+    "Id": 17387930,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 411,
+    "Id": 17387931,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 412,
+    "Id": 17387932,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 413,
+    "Id": 17387933,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Champion",
+    "Idx": 414,
+    "Id": 17387934,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 415,
+    "Id": 17387935,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 416,
+    "Id": 17387936,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 417,
+    "Id": 17387937,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 418,
+    "Id": 17387938,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dragoon",
+    "Idx": 419,
+    "Id": 17387939,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dragoon",
+    "Idx": 420,
+    "Id": 17387940,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dragoon",
+    "Idx": 421,
+    "Id": 17387941,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Champion",
+    "Idx": 422,
+    "Id": 17387942,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 423,
+    "Id": 17387943,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 424,
+    "Id": 17387944,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dirtyhanded Gochakzuk",
+    "Idx": 425,
+    "Id": 17387945,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 426,
+    "Id": 17387946,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 427,
+    "Id": 17387947,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Champion",
+    "Idx": 428,
+    "Id": 17387948,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dragoon",
+    "Idx": 429,
+    "Id": 17387949,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 430,
+    "Id": 17387950,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 431,
+    "Id": 17387951,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Champion",
+    "Idx": 432,
+    "Id": 17387952,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dragoon",
+    "Idx": 433,
+    "Id": 17387953,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 434,
+    "Id": 17387954,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 435,
+    "Id": 17387955,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Champion",
+    "Idx": 436,
+    "Id": 17387956,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dragoon",
+    "Idx": 437,
+    "Id": 17387957,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Farkiller",
+    "Idx": 438,
+    "Id": 17387958,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 439,
+    "Id": 17387959,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Champion",
+    "Idx": 440,
+    "Id": 17387960,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dragoon",
+    "Idx": 441,
+    "Id": 17387961,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Dreadnought",
+    "Idx": 442,
+    "Id": 17387962,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 443,
+    "Id": 17387963,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Orcish Warchief",
+    "Idx": 444,
+    "Id": 17387964,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gavotvut",
+    "Idx": 445,
+    "Id": 17387965,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Barakbok",
+    "Idx": 446,
+    "Id": 17387966,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bilopdop",
+    "Idx": 447,
+    "Id": 17387967,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Deloknok",
+    "Idx": 448,
+    "Id": 17387968,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Purpleflash Brukdok",
+    "Idx": 449,
+    "Id": 17387969,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "One-eyed Gwajboj",
+    "Idx": 450,
+    "Id": 17387970,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Three-eyed Prozpuz",
+    "Idx": 451,
+    "Id": 17387971,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hematic Cyst",
+    "Idx": 452,
+    "Id": 17387972,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 455,
+    "Id": 17387975,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 456,
+    "Id": 17387976,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oak Door",
+    "Idx": 461,
+    "Id": 17387981,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oak Door",
+    "Idx": 462,
+    "Id": 17387982,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wall of Dark Arts",
+    "Idx": 463,
+    "Id": 17387983,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wall of Banishing",
+    "Idx": 464,
+    "Id": 17387984,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wall of Banishing",
+    "Idx": 465,
+    "Id": 17387985,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wall of Banishing",
+    "Idx": 466,
+    "Id": 17387986,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sedal-Godjal",
+    "Idx": 467,
+    "Id": 17387987,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bernal",
+    "Idx": 469,
+    "Id": 17387989,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quemaricond",
+    "Idx": 470,
+    "Id": 17387990,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Groaning Pond",
+    "Idx": 471,
+    "Id": 17387991,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Howling Pond",
+    "Idx": 472,
+    "Id": 17387992,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wailing Pond",
+    "Idx": 473,
+    "Id": 17387993,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Screaming Pond",
+    "Idx": 474,
+    "Id": 17387994,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 475,
+    "Id": 17387995,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "bigwinch",
+    "Idx": 480,
+    "Id": 17388000,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Elevator Lever",
+    "Idx": 481,
+    "Id": 17388001,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Elevator Lever",
+    "Idx": 482,
+    "Id": 17388002,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "winch1",
+    "Idx": 483,
+    "Id": 17388003,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "winch2",
+    "Idx": 484,
+    "Id": 17388004,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Zantaviat",
+    "Idx": 485,
+    "Id": 17388005,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "!",
+    "Idx": 486,
+    "Id": 17388006,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "!",
+    "Idx": 487,
+    "Id": 17388007,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "!",
+    "Idx": 488,
+    "Id": 17388008,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "!",
+    "Idx": 489,
+    "Id": 17388009,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disused Well",
+    "Idx": 490,
+    "Id": 17388010,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 491,
+    "Id": 17388011,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 493,
+    "Id": 17388013,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 494,
+    "Id": 17388014,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 495,
+    "Id": 17388015,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 496,
+    "Id": 17388016,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 497,
+    "Id": 17388017,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 498,
+    "Id": 17388018,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 499,
+    "Id": 17388019,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 500,
+    "Id": 17388020,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jar",
+    "Idx": 501,
+    "Id": 17388021,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 502,
+    "Id": 17388022,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hide Flap",
+    "Idx": 503,
+    "Id": 17388023,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Hide Flap",
+    "Idx": 504,
+    "Id": 17388024,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Storage Hole",
+    "Idx": 505,
+    "Id": 17388025,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Village Well",
+    "Idx": 506,
+    "Id": 17388026,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Chest",
+    "Idx": 507,
+    "Id": 17388027,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Talking Doll",
+    "Idx": 508,
+    "Id": 17388028,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rochefogne",
+    "Idx": 509,
+    "Id": 17388029,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vauderame",
+    "Idx": 510,
+    "Id": 17388030,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 511,
+    "Id": 17388031,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dauperiat",
+    "Idx": 512,
+    "Id": 17388032,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Atarefaunet",
+    "Idx": 513,
+    "Id": 17388033,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Monban01",
+    "Idx": 514,
+    "Id": 17388034,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lootblox",
+    "Idx": 515,
+    "Id": 17388035,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ramblix",
+    "Idx": 516,
+    "Id": 17388036,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 517,
+    "Id": 17388037,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 518,
+    "Id": 17388038,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 519,
+    "Id": 17388039,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 520,
+    "Id": 17388040,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 521,
+    "Id": 17388041,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 522,
+    "Id": 17388042,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "GoalPoint",
+    "Idx": 523,
+    "Id": 17388043,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 524,
+    "Id": 17388044,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 525,
+    "Id": 17388045,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 526,
+    "Id": 17388046,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 527,
+    "Id": 17388047,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 528,
+    "Id": 17388048,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 529,
+    "Id": 17388049,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Huge Crystal",
+    "Idx": 530,
+    "Id": 17388050,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geomagnetic Fount",
+    "Idx": 531,
+    "Id": 17388051,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Geomantic Reservoir",
+    "Idx": 532,
+    "Id": 17388052,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Survival Guide",
+    "Idx": 535,
+    "Id": 17388055,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 536,
+    "Id": 17388056,
+    "ZoneId": 149,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

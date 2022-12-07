@@ -1,0 +1,874 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Delver",
+    "Idx": 1,
+    "Id": 16863233,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Delver",
+    "Idx": 2,
+    "Id": 16863234,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Delver",
+    "Idx": 3,
+    "Id": 16863235,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Envier",
+    "Idx": 4,
+    "Id": 16863236,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 5,
+    "Id": 16863237,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 6,
+    "Id": 16863238,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 7,
+    "Id": 16863239,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Enigmatic Sphere",
+    "Idx": 8,
+    "Id": 16863240,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Envier",
+    "Idx": 9,
+    "Id": 16863241,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 10,
+    "Id": 16863242,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 11,
+    "Id": 16863243,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 12,
+    "Id": 16863244,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Enigmatic Sphere",
+    "Idx": 13,
+    "Id": 16863245,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Envier",
+    "Idx": 14,
+    "Id": 16863246,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 15,
+    "Id": 16863247,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 16,
+    "Id": 16863248,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seether",
+    "Idx": 17,
+    "Id": 16863249,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Enigmatic Sphere",
+    "Idx": 18,
+    "Id": 16863250,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Recollector",
+    "Idx": 19,
+    "Id": 16863251,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Craver",
+    "Idx": 20,
+    "Id": 16863252,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Baelfyr",
+    "Idx": 21,
+    "Id": 16863253,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Gefyrst",
+    "Idx": 22,
+    "Id": 16863254,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Ungeweder",
+    "Idx": 23,
+    "Id": 16863255,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Byrgen",
+    "Idx": 24,
+    "Id": 16863256,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 25,
+    "Id": 16863257,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 26,
+    "Id": 16863258,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 27,
+    "Id": 16863259,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 28,
+    "Id": 16863260,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 29,
+    "Id": 16863261,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 30,
+    "Id": 16863262,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 31,
+    "Id": 16863263,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 32,
+    "Id": 16863264,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 33,
+    "Id": 16863265,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 34,
+    "Id": 16863266,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 35,
+    "Id": 16863267,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 36,
+    "Id": 16863268,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Recollector",
+    "Idx": 37,
+    "Id": 16863269,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Craver",
+    "Idx": 38,
+    "Id": 16863270,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Baelfyr",
+    "Idx": 39,
+    "Id": 16863271,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Gefyrst",
+    "Idx": 40,
+    "Id": 16863272,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Ungeweder",
+    "Idx": 41,
+    "Id": 16863273,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Byrgen",
+    "Idx": 42,
+    "Id": 16863274,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 43,
+    "Id": 16863275,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 44,
+    "Id": 16863276,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 45,
+    "Id": 16863277,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 46,
+    "Id": 16863278,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 47,
+    "Id": 16863279,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 48,
+    "Id": 16863280,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 49,
+    "Id": 16863281,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 50,
+    "Id": 16863282,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 51,
+    "Id": 16863283,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 52,
+    "Id": 16863284,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 53,
+    "Id": 16863285,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 54,
+    "Id": 16863286,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Recollector",
+    "Idx": 55,
+    "Id": 16863287,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Craver",
+    "Idx": 56,
+    "Id": 16863288,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Baelfyr",
+    "Idx": 57,
+    "Id": 16863289,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Gefyrst",
+    "Idx": 58,
+    "Id": 16863290,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Ungeweder",
+    "Idx": 59,
+    "Id": 16863291,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Forsaken Byrgen",
+    "Idx": 60,
+    "Id": 16863292,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 61,
+    "Id": 16863293,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 62,
+    "Id": 16863294,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 63,
+    "Id": 16863295,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 64,
+    "Id": 16863296,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 65,
+    "Id": 16863297,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 66,
+    "Id": 16863298,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 67,
+    "Id": 16863299,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 68,
+    "Id": 16863300,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 69,
+    "Id": 16863301,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 70,
+    "Id": 16863302,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 71,
+    "Id": 16863303,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Quenchless Seether",
+    "Idx": 72,
+    "Id": 16863304,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 73,
+    "Id": 16863305,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 74,
+    "Id": 16863306,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Web of Recollections",
+    "Idx": 79,
+    "Id": 16863311,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Web of Regret",
+    "Idx": 80,
+    "Id": 16863312,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Web of Regret",
+    "Idx": 81,
+    "Id": 16863313,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Web of Regret",
+    "Idx": 82,
+    "Id": 16863314,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Radiant Aureole",
+    "Idx": 88,
+    "Id": 16863320,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 89,
+    "Id": 16863321,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yve'noile",
+    "Idx": 90,
+    "Id": 16863322,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Miko_A",
+    "Idx": 91,
+    "Id": 16863323,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Miko_B",
+    "Idx": 92,
+    "Id": 16863324,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Prishe",
+    "Idx": 93,
+    "Id": 16863325,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eald'narche",
+    "Idx": 94,
+    "Id": 16863326,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 95,
+    "Id": 16863327,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 96,
+    "Id": 16863328,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 97,
+    "Id": 16863329,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Selh'teus",
+    "Idx": 98,
+    "Id": 16863330,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nag'molada",
+    "Idx": 99,
+    "Id": 16863331,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 100,
+    "Id": 16863332,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 101,
+    "Id": 16863333,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 102,
+    "Id": 16863334,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 103,
+    "Id": 16863335,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 104,
+    "Id": 16863336,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 105,
+    "Id": 16863337,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 106,
+    "Id": 16863338,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 107,
+    "Id": 16863339,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Grumblix",
+    "Idx": 108,
+    "Id": 16863340,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 109,
+    "Id": 16863341,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 111,
+    "Id": 16863343,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 112,
+    "Id": 16863344,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 113,
+    "Id": 16863345,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 114,
+    "Id": 16863346,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 115,
+    "Id": 16863347,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 116,
+    "Id": 16863348,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 117,
+    "Id": 16863349,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 118,
+    "Id": 16863350,
+    "ZoneId": 21,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

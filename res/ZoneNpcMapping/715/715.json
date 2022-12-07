@@ -1,0 +1,967 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dealan-dhe",
+    "Idx": 1,
+    "Id": 20979713,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Dealan-dhe's Twitherym",
+    "Idx": 2,
+    "Id": 20979714,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Dealan-dhe's Twitherym",
+    "Idx": 3,
+    "Id": 20979715,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Sgili",
+    "Idx": 4,
+    "Id": 20979716,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Sgili's Umbril",
+    "Idx": 5,
+    "Id": 20979717,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Sgili's Umbril",
+    "Idx": 6,
+    "Id": 20979718,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "U Bnai",
+    "Idx": 7,
+    "Id": 20979719,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "U Bnai's Acuex",
+    "Idx": 8,
+    "Id": 20979720,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "U Bnai's Acuex",
+    "Idx": 9,
+    "Id": 20979721,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Gogmagog",
+    "Idx": 10,
+    "Id": 20979722,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Gogmagog's Dullahan",
+    "Idx": 11,
+    "Id": 20979723,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Gogmagog's Dullahan",
+    "Idx": 12,
+    "Id": 20979724,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Aristaeus",
+    "Idx": 13,
+    "Id": 20979725,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Aristaeus's Chapuli",
+    "Idx": 14,
+    "Id": 20979726,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Aristaeus's Chapuli",
+    "Idx": 15,
+    "Id": 20979727,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Raskovniche",
+    "Idx": 16,
+    "Id": 20979728,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Raskovniche's Snapweed",
+    "Idx": 17,
+    "Id": 20979729,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Raskovniche's Snapweed",
+    "Idx": 18,
+    "Id": 20979730,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Marmorkrebs",
+    "Idx": 19,
+    "Id": 20979731,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Marmorkrebs's Cracklaw",
+    "Idx": 20,
+    "Id": 20979732,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Marmorkrebs's Cracklaw",
+    "Idx": 21,
+    "Id": 20979733,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Gigelorum",
+    "Idx": 22,
+    "Id": 20979734,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Gigelorum's Matamata",
+    "Idx": 23,
+    "Id": 20979735,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Gigelorum's Matamata",
+    "Idx": 24,
+    "Id": 20979736,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Procne",
+    "Idx": 25,
+    "Id": 20979737,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Procne's Tulfaire",
+    "Idx": 26,
+    "Id": 20979738,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Procne's Tulfaire",
+    "Idx": 27,
+    "Id": 20979739,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Henwen",
+    "Idx": 28,
+    "Id": 20979740,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Henwen's Raaz",
+    "Idx": 29,
+    "Id": 20979741,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Henwen's Raaz",
+    "Idx": 30,
+    "Id": 20979742,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Xevioso",
+    "Idx": 31,
+    "Id": 20979743,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Xevioso's Chapuli",
+    "Idx": 32,
+    "Id": 20979744,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Xevioso's Chapuli",
+    "Idx": 33,
+    "Id": 20979745,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Ngai",
+    "Idx": 34,
+    "Id": 20979746,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Ngai's Cracklaw",
+    "Idx": 35,
+    "Id": 20979747,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Ngai's Cracklaw",
+    "Idx": 36,
+    "Id": 20979748,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Kalunga",
+    "Idx": 37,
+    "Id": 20979749,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Kalunga's Matamata",
+    "Idx": 38,
+    "Id": 20979750,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Kalunga's Matamata",
+    "Idx": 39,
+    "Id": 20979751,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Ongo",
+    "Idx": 40,
+    "Id": 20979752,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Ongo's Tulfaire",
+    "Idx": 41,
+    "Id": 20979753,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Ongo's Tulfaire",
+    "Idx": 42,
+    "Id": 20979754,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Mboze",
+    "Idx": 43,
+    "Id": 20979755,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Mboze's Snapweed",
+    "Idx": 44,
+    "Id": 20979756,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Mboze's Snapweed",
+    "Idx": 45,
+    "Id": 20979757,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Arebati",
+    "Idx": 46,
+    "Id": 20979758,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Arebati's Razz",
+    "Idx": 47,
+    "Id": 20979759,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Arebati's Razz",
+    "Idx": 48,
+    "Id": 20979760,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 49,
+    "Id": 20979761,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 50,
+    "Id": 20979762,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 51,
+    "Id": 20979763,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 52,
+    "Id": 20979764,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 53,
+    "Id": 20979765,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 54,
+    "Id": 20979766,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 55,
+    "Id": 20979767,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 56,
+    "Id": 20979768,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 57,
+    "Id": 20979769,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 58,
+    "Id": 20979770,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 59,
+    "Id": 20979771,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Zisurru",
+    "Idx": 60,
+    "Id": 20979772,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba",
+    "Idx": 61,
+    "Id": 20979773,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Chapuli",
+    "Idx": 62,
+    "Id": 20979774,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Chapuli",
+    "Idx": 63,
+    "Id": 20979775,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Cracklaw",
+    "Idx": 64,
+    "Id": 20979776,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Cracklaw",
+    "Idx": 65,
+    "Id": 20979777,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Matamata",
+    "Idx": 66,
+    "Id": 20979778,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Matamata",
+    "Idx": 67,
+    "Id": 20979779,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Tulfaire",
+    "Idx": 68,
+    "Id": 20979780,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Tulfaire",
+    "Idx": 69,
+    "Id": 20979781,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Snapweed",
+    "Idx": 70,
+    "Id": 20979782,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Snapweed",
+    "Idx": 71,
+    "Id": 20979783,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Razz",
+    "Idx": 72,
+    "Id": 20979784,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Bumba's Razz",
+    "Idx": 73,
+    "Id": 20979785,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 75,
+    "Id": 20979787,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "",
+    "Idx": 80,
+    "Id": 20979792,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 90,
+    "Id": 20979802,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 91,
+    "Id": 20979803,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 92,
+    "Id": 20979804,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 93,
+    "Id": 20979805,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 94,
+    "Id": 20979806,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 95,
+    "Id": 20979807,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 96,
+    "Id": 20979808,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 97,
+    "Id": 20979809,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "",
+    "Idx": 98,
+    "Id": 20979810,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Veridical Conflux",
+    "Idx": 99,
+    "Id": 20979811,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Pilgrim Moogle",
+    "Idx": 100,
+    "Id": 20979812,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  },
+  {
+    "Name": "Porter Moogle",
+    "Idx": 101,
+    "Id": 20979813,
+    "ZoneId": 1026,
+    "ConvertedZoneNames": [
+      "Walk of Echoes",
+      "Walk of Echoes [P2]"
+    ],
+    "ConvertedZoneType": "Odyssey"
+  }
+]

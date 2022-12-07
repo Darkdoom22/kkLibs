@@ -1,0 +1,6394 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aurix",
+    "Idx": 1,
+    "Id": 17993729,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Golem",
+    "Idx": 2,
+    "Id": 17993730,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 3,
+    "Id": 17993731,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 4,
+    "Id": 17993732,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 5,
+    "Id": 17993733,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 6,
+    "Id": 17993734,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 7,
+    "Id": 17993735,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 8,
+    "Id": 17993736,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 9,
+    "Id": 17993737,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 10,
+    "Id": 17993738,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 11,
+    "Id": 17993739,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 12,
+    "Id": 17993740,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 13,
+    "Id": 17993741,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 14,
+    "Id": 17993742,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 15,
+    "Id": 17993743,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 16,
+    "Id": 17993744,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 17,
+    "Id": 17993745,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 18,
+    "Id": 17993746,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 19,
+    "Id": 17993747,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 20,
+    "Id": 17993748,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 21,
+    "Id": 17993749,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 22,
+    "Id": 17993750,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 23,
+    "Id": 17993751,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 24,
+    "Id": 17993752,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 25,
+    "Id": 17993753,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 26,
+    "Id": 17993754,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 27,
+    "Id": 17993755,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 28,
+    "Id": 17993756,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 29,
+    "Id": 17993757,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 30,
+    "Id": 17993758,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 31,
+    "Id": 17993759,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 32,
+    "Id": 17993760,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 33,
+    "Id": 17993761,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 34,
+    "Id": 17993762,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 35,
+    "Id": 17993763,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 36,
+    "Id": 17993764,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 37,
+    "Id": 17993765,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 38,
+    "Id": 17993766,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 39,
+    "Id": 17993767,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 40,
+    "Id": 17993768,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 41,
+    "Id": 17993769,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 42,
+    "Id": 17993770,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 43,
+    "Id": 17993771,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 44,
+    "Id": 17993772,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 45,
+    "Id": 17993773,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 46,
+    "Id": 17993774,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 47,
+    "Id": 17993775,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 48,
+    "Id": 17993776,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 49,
+    "Id": 17993777,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 50,
+    "Id": 17993778,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 51,
+    "Id": 17993779,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 52,
+    "Id": 17993780,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 53,
+    "Id": 17993781,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 54,
+    "Id": 17993782,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 55,
+    "Id": 17993783,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 56,
+    "Id": 17993784,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 57,
+    "Id": 17993785,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 58,
+    "Id": 17993786,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 59,
+    "Id": 17993787,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 60,
+    "Id": 17993788,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 61,
+    "Id": 17993789,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 62,
+    "Id": 17993790,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 63,
+    "Id": 17993791,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 64,
+    "Id": 17993792,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 65,
+    "Id": 17993793,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 66,
+    "Id": 17993794,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 67,
+    "Id": 17993795,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 68,
+    "Id": 17993796,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 69,
+    "Id": 17993797,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 70,
+    "Id": 17993798,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 71,
+    "Id": 17993799,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 72,
+    "Id": 17993800,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 73,
+    "Id": 17993801,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 74,
+    "Id": 17993802,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 75,
+    "Id": 17993803,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 76,
+    "Id": 17993804,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 77,
+    "Id": 17993805,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 78,
+    "Id": 17993806,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 79,
+    "Id": 17993807,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 80,
+    "Id": 17993808,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 81,
+    "Id": 17993809,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 82,
+    "Id": 17993810,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 83,
+    "Id": 17993811,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 84,
+    "Id": 17993812,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 85,
+    "Id": 17993813,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 86,
+    "Id": 17993814,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 87,
+    "Id": 17993815,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 88,
+    "Id": 17993816,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 89,
+    "Id": 17993817,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 90,
+    "Id": 17993818,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 91,
+    "Id": 17993819,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 92,
+    "Id": 17993820,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 93,
+    "Id": 17993821,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 94,
+    "Id": 17993822,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 95,
+    "Id": 17993823,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 96,
+    "Id": 17993824,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 97,
+    "Id": 17993825,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 98,
+    "Id": 17993826,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 99,
+    "Id": 17993827,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 100,
+    "Id": 17993828,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 101,
+    "Id": 17993829,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 102,
+    "Id": 17993830,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 103,
+    "Id": 17993831,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 104,
+    "Id": 17993832,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 105,
+    "Id": 17993833,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 106,
+    "Id": 17993834,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 107,
+    "Id": 17993835,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 108,
+    "Id": 17993836,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 109,
+    "Id": 17993837,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 110,
+    "Id": 17993838,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 111,
+    "Id": 17993839,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 112,
+    "Id": 17993840,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 113,
+    "Id": 17993841,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 114,
+    "Id": 17993842,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 115,
+    "Id": 17993843,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 116,
+    "Id": 17993844,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 117,
+    "Id": 17993845,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 118,
+    "Id": 17993846,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 119,
+    "Id": 17993847,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 120,
+    "Id": 17993848,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 121,
+    "Id": 17993849,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 122,
+    "Id": 17993850,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 123,
+    "Id": 17993851,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 124,
+    "Id": 17993852,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 125,
+    "Id": 17993853,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 126,
+    "Id": 17993854,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 127,
+    "Id": 17993855,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 128,
+    "Id": 17993856,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 129,
+    "Id": 17993857,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 130,
+    "Id": 17993858,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 131,
+    "Id": 17993859,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 132,
+    "Id": 17993860,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 133,
+    "Id": 17993861,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 134,
+    "Id": 17993862,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 135,
+    "Id": 17993863,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 136,
+    "Id": 17993864,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 137,
+    "Id": 17993865,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 138,
+    "Id": 17993866,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 139,
+    "Id": 17993867,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 140,
+    "Id": 17993868,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 141,
+    "Id": 17993869,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 142,
+    "Id": 17993870,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 143,
+    "Id": 17993871,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 144,
+    "Id": 17993872,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 145,
+    "Id": 17993873,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 146,
+    "Id": 17993874,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 147,
+    "Id": 17993875,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 148,
+    "Id": 17993876,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 149,
+    "Id": 17993877,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 150,
+    "Id": 17993878,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 151,
+    "Id": 17993879,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 152,
+    "Id": 17993880,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 153,
+    "Id": 17993881,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 154,
+    "Id": 17993882,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 155,
+    "Id": 17993883,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 156,
+    "Id": 17993884,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 157,
+    "Id": 17993885,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 158,
+    "Id": 17993886,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 159,
+    "Id": 17993887,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 160,
+    "Id": 17993888,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 161,
+    "Id": 17993889,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 162,
+    "Id": 17993890,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 163,
+    "Id": 17993891,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 164,
+    "Id": 17993892,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 165,
+    "Id": 17993893,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 166,
+    "Id": 17993894,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 167,
+    "Id": 17993895,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 168,
+    "Id": 17993896,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 169,
+    "Id": 17993897,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 170,
+    "Id": 17993898,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 171,
+    "Id": 17993899,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 172,
+    "Id": 17993900,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 173,
+    "Id": 17993901,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 174,
+    "Id": 17993902,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 175,
+    "Id": 17993903,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 176,
+    "Id": 17993904,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 177,
+    "Id": 17993905,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 178,
+    "Id": 17993906,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 179,
+    "Id": 17993907,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 180,
+    "Id": 17993908,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 181,
+    "Id": 17993909,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 182,
+    "Id": 17993910,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 183,
+    "Id": 17993911,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 184,
+    "Id": 17993912,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 185,
+    "Id": 17993913,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 186,
+    "Id": 17993914,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 187,
+    "Id": 17993915,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 188,
+    "Id": 17993916,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 189,
+    "Id": 17993917,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 190,
+    "Id": 17993918,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 191,
+    "Id": 17993919,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 192,
+    "Id": 17993920,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 193,
+    "Id": 17993921,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 194,
+    "Id": 17993922,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 195,
+    "Id": 17993923,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 196,
+    "Id": 17993924,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 197,
+    "Id": 17993925,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 198,
+    "Id": 17993926,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 199,
+    "Id": 17993927,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 200,
+    "Id": 17993928,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 201,
+    "Id": 17993929,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 202,
+    "Id": 17993930,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 203,
+    "Id": 17993931,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 204,
+    "Id": 17993932,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 205,
+    "Id": 17993933,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 206,
+    "Id": 17993934,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 207,
+    "Id": 17993935,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 208,
+    "Id": 17993936,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 209,
+    "Id": 17993937,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 210,
+    "Id": 17993938,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 211,
+    "Id": 17993939,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 212,
+    "Id": 17993940,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 213,
+    "Id": 17993941,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 214,
+    "Id": 17993942,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 215,
+    "Id": 17993943,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 216,
+    "Id": 17993944,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 217,
+    "Id": 17993945,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 218,
+    "Id": 17993946,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 219,
+    "Id": 17993947,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 220,
+    "Id": 17993948,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 221,
+    "Id": 17993949,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 222,
+    "Id": 17993950,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 223,
+    "Id": 17993951,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 224,
+    "Id": 17993952,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 225,
+    "Id": 17993953,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 226,
+    "Id": 17993954,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 227,
+    "Id": 17993955,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 228,
+    "Id": 17993956,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 229,
+    "Id": 17993957,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 230,
+    "Id": 17993958,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 231,
+    "Id": 17993959,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 232,
+    "Id": 17993960,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 233,
+    "Id": 17993961,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 234,
+    "Id": 17993962,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 235,
+    "Id": 17993963,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 236,
+    "Id": 17993964,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 237,
+    "Id": 17993965,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 238,
+    "Id": 17993966,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 239,
+    "Id": 17993967,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 240,
+    "Id": 17993968,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 241,
+    "Id": 17993969,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 242,
+    "Id": 17993970,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 243,
+    "Id": 17993971,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 244,
+    "Id": 17993972,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 245,
+    "Id": 17993973,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 246,
+    "Id": 17993974,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 247,
+    "Id": 17993975,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 248,
+    "Id": 17993976,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 249,
+    "Id": 17993977,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 250,
+    "Id": 17993978,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 251,
+    "Id": 17993979,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 252,
+    "Id": 17993980,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 253,
+    "Id": 17993981,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 254,
+    "Id": 17993982,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 255,
+    "Id": 17993983,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 256,
+    "Id": 17993984,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 257,
+    "Id": 17993985,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 258,
+    "Id": 17993986,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 259,
+    "Id": 17993987,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 260,
+    "Id": 17993988,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 261,
+    "Id": 17993989,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 262,
+    "Id": 17993990,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 263,
+    "Id": 17993991,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 264,
+    "Id": 17993992,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 265,
+    "Id": 17993993,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 266,
+    "Id": 17993994,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 267,
+    "Id": 17993995,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 268,
+    "Id": 17993996,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 269,
+    "Id": 17993997,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 270,
+    "Id": 17993998,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 271,
+    "Id": 17993999,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 272,
+    "Id": 17994000,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 273,
+    "Id": 17994001,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 274,
+    "Id": 17994002,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 275,
+    "Id": 17994003,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 276,
+    "Id": 17994004,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 277,
+    "Id": 17994005,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 278,
+    "Id": 17994006,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 279,
+    "Id": 17994007,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 280,
+    "Id": 17994008,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 281,
+    "Id": 17994009,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 282,
+    "Id": 17994010,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 283,
+    "Id": 17994011,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 284,
+    "Id": 17994012,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 285,
+    "Id": 17994013,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 286,
+    "Id": 17994014,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 287,
+    "Id": 17994015,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 288,
+    "Id": 17994016,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 289,
+    "Id": 17994017,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 290,
+    "Id": 17994018,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 291,
+    "Id": 17994019,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 292,
+    "Id": 17994020,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 293,
+    "Id": 17994021,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 294,
+    "Id": 17994022,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 295,
+    "Id": 17994023,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 296,
+    "Id": 17994024,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 297,
+    "Id": 17994025,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 298,
+    "Id": 17994026,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 299,
+    "Id": 17994027,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 300,
+    "Id": 17994028,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 301,
+    "Id": 17994029,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 302,
+    "Id": 17994030,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Operative",
+    "Idx": 303,
+    "Id": 17994031,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 304,
+    "Id": 17994032,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Berserker",
+    "Idx": 305,
+    "Id": 17994033,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Fistfighter",
+    "Idx": 306,
+    "Id": 17994034,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 307,
+    "Id": 17994035,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vivifier",
+    "Idx": 308,
+    "Id": 17994036,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Avatar",
+    "Idx": 309,
+    "Id": 17994037,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Arcanomancer",
+    "Idx": 310,
+    "Id": 17994038,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Defiler",
+    "Idx": 311,
+    "Id": 17994039,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Vandal",
+    "Idx": 312,
+    "Id": 17994040,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 313,
+    "Id": 17994041,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Banneret",
+    "Idx": 314,
+    "Id": 17994042,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Wyvern",
+    "Idx": 315,
+    "Id": 17994043,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Animist",
+    "Idx": 316,
+    "Id": 17994044,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron's Crow",
+    "Idx": 317,
+    "Id": 17994045,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Flautist",
+    "Idx": 318,
+    "Id": 17994046,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Squadron Buccaneer",
+    "Idx": 319,
+    "Id": 17994047,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 320,
+    "Id": 17994048,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Berserker Leader",
+    "Idx": 321,
+    "Id": 17994049,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 322,
+    "Id": 17994050,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fistfighter Leader",
+    "Idx": 323,
+    "Id": 17994051,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vivifier Leader",
+    "Idx": 324,
+    "Id": 17994052,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Leader's Avatar",
+    "Idx": 325,
+    "Id": 17994053,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 326,
+    "Id": 17994054,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arcanomancer Leader",
+    "Idx": 327,
+    "Id": 17994055,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Defiler Leader",
+    "Idx": 328,
+    "Id": 17994056,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 329,
+    "Id": 17994057,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vandal Leader",
+    "Idx": 330,
+    "Id": 17994058,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Banneret Leader",
+    "Idx": 331,
+    "Id": 17994059,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Leader's Wyvern",
+    "Idx": 332,
+    "Id": 17994060,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 333,
+    "Id": 17994061,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Animist Leader",
+    "Idx": 334,
+    "Id": 17994062,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Leader's Hippogryph",
+    "Idx": 335,
+    "Id": 17994063,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flautist Leader",
+    "Idx": 336,
+    "Id": 17994064,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 337,
+    "Id": 17994065,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Operative Leader",
+    "Idx": 338,
+    "Id": 17994066,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buccaneer Leader",
+    "Idx": 339,
+    "Id": 17994067,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Obstatrix",
+    "Idx": 340,
+    "Id": 17994068,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 341,
+    "Id": 17994069,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 342,
+    "Id": 17994070,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 343,
+    "Id": 17994071,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 344,
+    "Id": 17994072,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 345,
+    "Id": 17994073,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 346,
+    "Id": 17994074,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 347,
+    "Id": 17994075,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 348,
+    "Id": 17994076,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 349,
+    "Id": 17994077,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 350,
+    "Id": 17994078,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 351,
+    "Id": 17994079,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 352,
+    "Id": 17994080,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 353,
+    "Id": 17994081,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 354,
+    "Id": 17994082,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 355,
+    "Id": 17994083,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 356,
+    "Id": 17994084,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 357,
+    "Id": 17994085,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 358,
+    "Id": 17994086,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 359,
+    "Id": 17994087,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 360,
+    "Id": 17994088,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 361,
+    "Id": 17994089,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 362,
+    "Id": 17994090,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 363,
+    "Id": 17994091,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 364,
+    "Id": 17994092,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 365,
+    "Id": 17994093,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 366,
+    "Id": 17994094,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 367,
+    "Id": 17994095,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 368,
+    "Id": 17994096,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 369,
+    "Id": 17994097,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 370,
+    "Id": 17994098,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 371,
+    "Id": 17994099,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 372,
+    "Id": 17994100,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 373,
+    "Id": 17994101,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 374,
+    "Id": 17994102,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 375,
+    "Id": 17994103,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 376,
+    "Id": 17994104,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 377,
+    "Id": 17994105,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 378,
+    "Id": 17994106,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 379,
+    "Id": 17994107,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 380,
+    "Id": 17994108,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 381,
+    "Id": 17994109,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 382,
+    "Id": 17994110,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 383,
+    "Id": 17994111,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 384,
+    "Id": 17994112,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 385,
+    "Id": 17994113,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 386,
+    "Id": 17994114,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 387,
+    "Id": 17994115,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 388,
+    "Id": 17994116,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 389,
+    "Id": 17994117,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 390,
+    "Id": 17994118,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 391,
+    "Id": 17994119,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 392,
+    "Id": 17994120,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 393,
+    "Id": 17994121,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 394,
+    "Id": 17994122,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 395,
+    "Id": 17994123,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 396,
+    "Id": 17994124,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 397,
+    "Id": 17994125,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 398,
+    "Id": 17994126,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 399,
+    "Id": 17994127,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 400,
+    "Id": 17994128,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 401,
+    "Id": 17994129,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 402,
+    "Id": 17994130,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 403,
+    "Id": 17994131,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 404,
+    "Id": 17994132,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Animist",
+    "Idx": 405,
+    "Id": 17994133,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Bats",
+    "Idx": 406,
+    "Id": 17994134,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Animist",
+    "Idx": 407,
+    "Id": 17994135,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Bats",
+    "Idx": 408,
+    "Id": 17994136,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 409,
+    "Id": 17994137,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 410,
+    "Id": 17994138,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 411,
+    "Id": 17994139,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 412,
+    "Id": 17994140,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 413,
+    "Id": 17994141,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 414,
+    "Id": 17994142,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 415,
+    "Id": 17994143,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 416,
+    "Id": 17994144,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 417,
+    "Id": 17994145,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 418,
+    "Id": 17994146,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 419,
+    "Id": 17994147,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 420,
+    "Id": 17994148,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 421,
+    "Id": 17994149,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 422,
+    "Id": 17994150,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 423,
+    "Id": 17994151,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 424,
+    "Id": 17994152,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 425,
+    "Id": 17994153,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 426,
+    "Id": 17994154,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 427,
+    "Id": 17994155,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 428,
+    "Id": 17994156,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Animist",
+    "Idx": 429,
+    "Id": 17994157,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Bats",
+    "Idx": 430,
+    "Id": 17994158,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 431,
+    "Id": 17994159,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 432,
+    "Id": 17994160,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 433,
+    "Id": 17994161,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 434,
+    "Id": 17994162,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 435,
+    "Id": 17994163,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 436,
+    "Id": 17994164,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 437,
+    "Id": 17994165,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 438,
+    "Id": 17994166,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 439,
+    "Id": 17994167,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Animist",
+    "Idx": 440,
+    "Id": 17994168,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Bats",
+    "Idx": 441,
+    "Id": 17994169,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 442,
+    "Id": 17994170,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 443,
+    "Id": 17994171,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 444,
+    "Id": 17994172,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 445,
+    "Id": 17994173,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 446,
+    "Id": 17994174,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 447,
+    "Id": 17994175,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 448,
+    "Id": 17994176,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 449,
+    "Id": 17994177,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 450,
+    "Id": 17994178,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 451,
+    "Id": 17994179,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 452,
+    "Id": 17994180,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 453,
+    "Id": 17994181,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 454,
+    "Id": 17994182,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 455,
+    "Id": 17994183,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 456,
+    "Id": 17994184,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 457,
+    "Id": 17994185,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 458,
+    "Id": 17994186,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 459,
+    "Id": 17994187,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 460,
+    "Id": 17994188,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 461,
+    "Id": 17994189,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 462,
+    "Id": 17994190,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 463,
+    "Id": 17994191,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 464,
+    "Id": 17994192,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 465,
+    "Id": 17994193,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 466,
+    "Id": 17994194,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 467,
+    "Id": 17994195,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 468,
+    "Id": 17994196,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 469,
+    "Id": 17994197,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 470,
+    "Id": 17994198,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 471,
+    "Id": 17994199,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Animist",
+    "Idx": 472,
+    "Id": 17994200,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Bats",
+    "Idx": 473,
+    "Id": 17994201,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 474,
+    "Id": 17994202,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 475,
+    "Id": 17994203,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 476,
+    "Id": 17994204,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 477,
+    "Id": 17994205,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 478,
+    "Id": 17994206,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 479,
+    "Id": 17994207,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 480,
+    "Id": 17994208,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 481,
+    "Id": 17994209,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 482,
+    "Id": 17994210,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 483,
+    "Id": 17994211,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 484,
+    "Id": 17994212,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 485,
+    "Id": 17994213,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 486,
+    "Id": 17994214,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 487,
+    "Id": 17994215,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 488,
+    "Id": 17994216,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 489,
+    "Id": 17994217,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 490,
+    "Id": 17994218,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 491,
+    "Id": 17994219,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 492,
+    "Id": 17994220,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 493,
+    "Id": 17994221,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 494,
+    "Id": 17994222,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 495,
+    "Id": 17994223,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 496,
+    "Id": 17994224,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 497,
+    "Id": 17994225,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 498,
+    "Id": 17994226,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 499,
+    "Id": 17994227,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 500,
+    "Id": 17994228,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 501,
+    "Id": 17994229,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 502,
+    "Id": 17994230,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 503,
+    "Id": 17994231,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 504,
+    "Id": 17994232,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 505,
+    "Id": 17994233,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 506,
+    "Id": 17994234,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 507,
+    "Id": 17994235,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 508,
+    "Id": 17994236,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 509,
+    "Id": 17994237,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 510,
+    "Id": 17994238,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 511,
+    "Id": 17994239,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 512,
+    "Id": 17994240,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 513,
+    "Id": 17994241,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 514,
+    "Id": 17994242,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 515,
+    "Id": 17994243,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 516,
+    "Id": 17994244,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 517,
+    "Id": 17994245,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 518,
+    "Id": 17994246,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 519,
+    "Id": 17994247,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 520,
+    "Id": 17994248,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 521,
+    "Id": 17994249,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 522,
+    "Id": 17994250,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 523,
+    "Id": 17994251,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 524,
+    "Id": 17994252,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 525,
+    "Id": 17994253,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 526,
+    "Id": 17994254,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 527,
+    "Id": 17994255,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 528,
+    "Id": 17994256,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 529,
+    "Id": 17994257,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 530,
+    "Id": 17994258,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 531,
+    "Id": 17994259,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 532,
+    "Id": 17994260,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 533,
+    "Id": 17994261,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 534,
+    "Id": 17994262,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 535,
+    "Id": 17994263,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 536,
+    "Id": 17994264,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 537,
+    "Id": 17994265,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 538,
+    "Id": 17994266,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 539,
+    "Id": 17994267,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 540,
+    "Id": 17994268,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 541,
+    "Id": 17994269,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 542,
+    "Id": 17994270,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 543,
+    "Id": 17994271,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 544,
+    "Id": 17994272,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 545,
+    "Id": 17994273,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 546,
+    "Id": 17994274,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 547,
+    "Id": 17994275,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 548,
+    "Id": 17994276,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 549,
+    "Id": 17994277,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 550,
+    "Id": 17994278,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 551,
+    "Id": 17994279,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 552,
+    "Id": 17994280,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 553,
+    "Id": 17994281,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 554,
+    "Id": 17994282,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 555,
+    "Id": 17994283,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 556,
+    "Id": 17994284,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 557,
+    "Id": 17994285,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 558,
+    "Id": 17994286,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 559,
+    "Id": 17994287,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 560,
+    "Id": 17994288,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 561,
+    "Id": 17994289,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 562,
+    "Id": 17994290,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 563,
+    "Id": 17994291,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 564,
+    "Id": 17994292,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 565,
+    "Id": 17994293,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 566,
+    "Id": 17994294,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 567,
+    "Id": 17994295,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 568,
+    "Id": 17994296,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Animist",
+    "Idx": 569,
+    "Id": 17994297,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Bats",
+    "Idx": 570,
+    "Id": 17994298,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 571,
+    "Id": 17994299,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 572,
+    "Id": 17994300,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 573,
+    "Id": 17994301,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 574,
+    "Id": 17994302,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 575,
+    "Id": 17994303,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 576,
+    "Id": 17994304,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 577,
+    "Id": 17994305,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 578,
+    "Id": 17994306,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 579,
+    "Id": 17994307,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 580,
+    "Id": 17994308,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 581,
+    "Id": 17994309,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 582,
+    "Id": 17994310,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 583,
+    "Id": 17994311,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 584,
+    "Id": 17994312,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 585,
+    "Id": 17994313,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 586,
+    "Id": 17994314,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 587,
+    "Id": 17994315,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 588,
+    "Id": 17994316,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 589,
+    "Id": 17994317,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 590,
+    "Id": 17994318,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 591,
+    "Id": 17994319,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 592,
+    "Id": 17994320,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 593,
+    "Id": 17994321,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 594,
+    "Id": 17994322,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vivifier",
+    "Idx": 595,
+    "Id": 17994323,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Avatar",
+    "Idx": 596,
+    "Id": 17994324,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 597,
+    "Id": 17994325,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 598,
+    "Id": 17994326,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 599,
+    "Id": 17994327,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 600,
+    "Id": 17994328,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 601,
+    "Id": 17994329,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Banneret",
+    "Idx": 602,
+    "Id": 17994330,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Wyvern",
+    "Idx": 603,
+    "Id": 17994331,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Animist",
+    "Idx": 604,
+    "Id": 17994332,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment's Bats",
+    "Idx": 605,
+    "Id": 17994333,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 606,
+    "Id": 17994334,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 607,
+    "Id": 17994335,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 608,
+    "Id": 17994336,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 609,
+    "Id": 17994337,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 610,
+    "Id": 17994338,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 611,
+    "Id": 17994339,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 612,
+    "Id": 17994340,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Berserker",
+    "Idx": 613,
+    "Id": 17994341,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 614,
+    "Id": 17994342,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Fistfighter",
+    "Idx": 615,
+    "Id": 17994343,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 616,
+    "Id": 17994344,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 617,
+    "Id": 17994345,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Arcanomancer",
+    "Idx": 618,
+    "Id": 17994346,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 619,
+    "Id": 17994347,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Vandal",
+    "Idx": 620,
+    "Id": 17994348,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 621,
+    "Id": 17994349,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 622,
+    "Id": 17994350,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Defiler",
+    "Idx": 623,
+    "Id": 17994351,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 624,
+    "Id": 17994352,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Operative",
+    "Idx": 625,
+    "Id": 17994353,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 626,
+    "Id": 17994354,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 627,
+    "Id": 17994355,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Flautist",
+    "Idx": 628,
+    "Id": 17994356,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 629,
+    "Id": 17994357,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Regiment Buccaneer",
+    "Idx": 630,
+    "Id": 17994358,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 631,
+    "Id": 17994359,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Berserker Commander",
+    "Idx": 632,
+    "Id": 17994360,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 633,
+    "Id": 17994361,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fistfighter Commander",
+    "Idx": 634,
+    "Id": 17994362,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 635,
+    "Id": 17994363,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vivifier Commander",
+    "Idx": 636,
+    "Id": 17994364,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Commander's Avatar",
+    "Idx": 637,
+    "Id": 17994365,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 638,
+    "Id": 17994366,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arcanomancer Commander",
+    "Idx": 639,
+    "Id": 17994367,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 640,
+    "Id": 17994368,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Defiler Commander",
+    "Idx": 641,
+    "Id": 17994369,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 642,
+    "Id": 17994370,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vandal Commander",
+    "Idx": 643,
+    "Id": 17994371,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 644,
+    "Id": 17994372,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Banneret Commander",
+    "Idx": 645,
+    "Id": 17994373,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Commander's Wyvern",
+    "Idx": 646,
+    "Id": 17994374,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 647,
+    "Id": 17994375,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Animist Commander",
+    "Idx": 648,
+    "Id": 17994376,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Commander's Hippogryph",
+    "Idx": 649,
+    "Id": 17994377,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 650,
+    "Id": 17994378,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flautist Commander",
+    "Idx": 651,
+    "Id": 17994379,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 652,
+    "Id": 17994380,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Operative Commander",
+    "Idx": 653,
+    "Id": 17994381,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Impish Statue",
+    "Idx": 654,
+    "Id": 17994382,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Buccaneer Commander",
+    "Idx": 655,
+    "Id": 17994383,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fire Circle",
+    "Idx": 656,
+    "Id": 17994384,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 657,
+    "Id": 17994385,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Trainer",
+    "Idx": 658,
+    "Id": 17994386,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Cluster",
+    "Idx": 659,
+    "Id": 17994387,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Beastmaster",
+    "Idx": 660,
+    "Id": 17994388,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Bomb",
+    "Idx": 661,
+    "Id": 17994389,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Beastmaster",
+    "Idx": 662,
+    "Id": 17994390,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Bomb",
+    "Idx": 663,
+    "Id": 17994391,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Summoner",
+    "Idx": 664,
+    "Id": 17994392,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Avatar",
+    "Idx": 665,
+    "Id": 17994393,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dragoon",
+    "Idx": 666,
+    "Id": 17994394,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Wyvern",
+    "Idx": 667,
+    "Id": 17994395,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dragoon",
+    "Idx": 668,
+    "Id": 17994396,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Wyvern",
+    "Idx": 669,
+    "Id": 17994397,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Summoner",
+    "Idx": 670,
+    "Id": 17994398,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Avatar",
+    "Idx": 671,
+    "Id": 17994399,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ice Circle",
+    "Idx": 672,
+    "Id": 17994400,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 673,
+    "Id": 17994401,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Warrior",
+    "Idx": 674,
+    "Id": 17994402,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Warrior",
+    "Idx": 675,
+    "Id": 17994403,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Black Mage",
+    "Idx": 676,
+    "Id": 17994404,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Ninja",
+    "Idx": 677,
+    "Id": 17994405,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Ninja",
+    "Idx": 678,
+    "Id": 17994406,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Red Mage",
+    "Idx": 679,
+    "Id": 17994407,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Air Circle",
+    "Idx": 680,
+    "Id": 17994408,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 681,
+    "Id": 17994409,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Conductor",
+    "Idx": 682,
+    "Id": 17994410,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Monk",
+    "Idx": 683,
+    "Id": 17994411,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Monk",
+    "Idx": 684,
+    "Id": 17994412,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte White Mage",
+    "Idx": 685,
+    "Id": 17994413,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Thief",
+    "Idx": 686,
+    "Id": 17994414,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Thief",
+    "Idx": 687,
+    "Id": 17994415,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Bard",
+    "Idx": 688,
+    "Id": 17994416,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Earth Circle",
+    "Idx": 689,
+    "Id": 17994417,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 690,
+    "Id": 17994418,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Twirler",
+    "Idx": 691,
+    "Id": 17994419,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Paladin",
+    "Idx": 692,
+    "Id": 17994420,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Paladin",
+    "Idx": 693,
+    "Id": 17994421,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Ranger",
+    "Idx": 694,
+    "Id": 17994422,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Samurai",
+    "Idx": 695,
+    "Id": 17994423,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Samurai",
+    "Idx": 696,
+    "Id": 17994424,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Blue Mage",
+    "Idx": 697,
+    "Id": 17994425,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Circle",
+    "Idx": 698,
+    "Id": 17994426,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 699,
+    "Id": 17994427,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dark Knight",
+    "Idx": 700,
+    "Id": 17994428,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dark Knight",
+    "Idx": 701,
+    "Id": 17994429,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Corsair",
+    "Idx": 702,
+    "Id": 17994430,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dancer",
+    "Idx": 703,
+    "Id": 17994431,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dancer",
+    "Idx": 704,
+    "Id": 17994432,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Scholar",
+    "Idx": 705,
+    "Id": 17994433,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Water Circle",
+    "Idx": 706,
+    "Id": 17994434,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 707,
+    "Id": 17994435,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Duelist",
+    "Idx": 708,
+    "Id": 17994436,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Paladin",
+    "Idx": 709,
+    "Id": 17994437,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Ninja",
+    "Idx": 710,
+    "Id": 17994438,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Geomancer",
+    "Idx": 711,
+    "Id": 17994439,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Luopan",
+    "Idx": 712,
+    "Id": 17994440,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Rune Fencer",
+    "Idx": 713,
+    "Id": 17994441,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Rune Fencer",
+    "Idx": 714,
+    "Id": 17994442,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Geomancer",
+    "Idx": 715,
+    "Id": 17994443,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Luopan",
+    "Idx": 716,
+    "Id": 17994444,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Light Circle",
+    "Idx": 717,
+    "Id": 17994445,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 718,
+    "Id": 17994446,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Manipulator",
+    "Idx": 719,
+    "Id": 17994447,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Automaton",
+    "Idx": 720,
+    "Id": 17994448,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Puppetmaster",
+    "Idx": 721,
+    "Id": 17994449,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Automaton",
+    "Idx": 722,
+    "Id": 17994450,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Puppetmaster",
+    "Idx": 723,
+    "Id": 17994451,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Automaton",
+    "Idx": 724,
+    "Id": 17994452,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Puppetmaster",
+    "Idx": 725,
+    "Id": 17994453,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Automaton",
+    "Idx": 726,
+    "Id": 17994454,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Blue Mage",
+    "Idx": 727,
+    "Id": 17994455,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Blue Mage",
+    "Idx": 728,
+    "Id": 17994456,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Corsair",
+    "Idx": 729,
+    "Id": 17994457,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dark Circle",
+    "Idx": 730,
+    "Id": 17994458,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra ???",
+    "Idx": 731,
+    "Id": 17994459,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Sailor",
+    "Idx": 732,
+    "Id": 17994460,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte White Mage",
+    "Idx": 733,
+    "Id": 17994461,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Black Mage",
+    "Idx": 734,
+    "Id": 17994462,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Red Mage",
+    "Idx": 735,
+    "Id": 17994463,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Scholar",
+    "Idx": 736,
+    "Id": 17994464,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Bard",
+    "Idx": 737,
+    "Id": 17994465,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Geomancer",
+    "Idx": 738,
+    "Id": 17994466,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Luopan",
+    "Idx": 739,
+    "Id": 17994467,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Cleaver",
+    "Idx": 740,
+    "Id": 17994468,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Fistfighter",
+    "Idx": 741,
+    "Id": 17994469,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Priest",
+    "Idx": 742,
+    "Id": 17994470,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Incanter",
+    "Idx": 743,
+    "Id": 17994471,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Illusionist",
+    "Idx": 744,
+    "Id": 17994472,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Vagabond",
+    "Idx": 745,
+    "Id": 17994473,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Crusader",
+    "Idx": 746,
+    "Id": 17994474,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Reaper",
+    "Idx": 747,
+    "Id": 17994475,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Sniper",
+    "Idx": 748,
+    "Id": 17994476,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Mononofu",
+    "Idx": 749,
+    "Id": 17994477,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Shinobi",
+    "Idx": 750,
+    "Id": 17994478,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Highwind",
+    "Idx": 751,
+    "Id": 17994479,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Wyvern",
+    "Idx": 752,
+    "Id": 17994480,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Controller",
+    "Idx": 753,
+    "Id": 17994481,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Avatar",
+    "Idx": 754,
+    "Id": 17994482,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Joiner",
+    "Idx": 755,
+    "Id": 17994483,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Erudite",
+    "Idx": 756,
+    "Id": 17994484,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Communer",
+    "Idx": 757,
+    "Id": 17994485,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Luopan",
+    "Idx": 758,
+    "Id": 17994486,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined Mithra",
+    "Idx": 759,
+    "Id": 17994487,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Disjoined's Odin",
+    "Idx": 760,
+    "Id": 17994488,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Warrior",
+    "Idx": 761,
+    "Id": 17994489,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Monk",
+    "Idx": 762,
+    "Id": 17994490,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte White Mage",
+    "Idx": 763,
+    "Id": 17994491,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Black Mage",
+    "Idx": 764,
+    "Id": 17994492,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Red Mage",
+    "Idx": 765,
+    "Id": 17994493,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Thief",
+    "Idx": 766,
+    "Id": 17994494,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Paladin",
+    "Idx": 767,
+    "Id": 17994495,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dark Knight",
+    "Idx": 768,
+    "Id": 17994496,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Beastmaster",
+    "Idx": 769,
+    "Id": 17994497,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Bomb",
+    "Idx": 770,
+    "Id": 17994498,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Bard",
+    "Idx": 771,
+    "Id": 17994499,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Ranger",
+    "Idx": 772,
+    "Id": 17994500,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Samurai",
+    "Idx": 773,
+    "Id": 17994501,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Ninja",
+    "Idx": 774,
+    "Id": 17994502,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dragoon",
+    "Idx": 775,
+    "Id": 17994503,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Wyvern",
+    "Idx": 776,
+    "Id": 17994504,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Summoner",
+    "Idx": 777,
+    "Id": 17994505,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Avatar",
+    "Idx": 778,
+    "Id": 17994506,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Blue Mage",
+    "Idx": 779,
+    "Id": 17994507,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Corsair",
+    "Idx": 780,
+    "Id": 17994508,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Puppetmaster",
+    "Idx": 781,
+    "Id": 17994509,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Automaton",
+    "Idx": 782,
+    "Id": 17994510,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Dancer",
+    "Idx": 783,
+    "Id": 17994511,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Scholar",
+    "Idx": 784,
+    "Id": 17994512,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Geomancer",
+    "Idx": 785,
+    "Id": 17994513,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte's Luopan",
+    "Idx": 786,
+    "Id": 17994514,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Volte Rune Fencer",
+    "Idx": 787,
+    "Id": 17994515,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 789,
+    "Id": 17994517,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 795,
+    "Id": 17994523,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 796,
+    "Id": 17994524,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 797,
+    "Id": 17994525,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 798,
+    "Id": 17994526,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 799,
+    "Id": 17994527,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 800,
+    "Id": 17994528,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 801,
+    "Id": 17994529,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 802,
+    "Id": 17994530,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "dynamis_master",
+    "Idx": 803,
+    "Id": 17994531,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 804,
+    "Id": 17994532,
+    "ZoneId": 297,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

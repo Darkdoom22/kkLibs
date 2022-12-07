@@ -1,0 +1,7290 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Odontotyrannus",
+    "Idx": 1,
+    "Id": 17182721,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 2,
+    "Id": 17182722,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 3,
+    "Id": 17182723,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 4,
+    "Id": 17182724,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 5,
+    "Id": 17182725,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 6,
+    "Id": 17182726,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 7,
+    "Id": 17182727,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 8,
+    "Id": 17182728,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 9,
+    "Id": 17182729,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 10,
+    "Id": 17182730,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 11,
+    "Id": 17182731,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 12,
+    "Id": 17182732,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 13,
+    "Id": 17182733,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 14,
+    "Id": 17182734,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 15,
+    "Id": 17182735,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 16,
+    "Id": 17182736,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 17,
+    "Id": 17182737,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 18,
+    "Id": 17182738,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 19,
+    "Id": 17182739,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 20,
+    "Id": 17182740,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 21,
+    "Id": 17182741,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 22,
+    "Id": 17182742,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 23,
+    "Id": 17182743,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 24,
+    "Id": 17182744,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 25,
+    "Id": 17182745,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 26,
+    "Id": 17182746,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 27,
+    "Id": 17182747,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 28,
+    "Id": 17182748,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 29,
+    "Id": 17182749,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 30,
+    "Id": 17182750,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 31,
+    "Id": 17182751,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 32,
+    "Id": 17182752,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 33,
+    "Id": 17182753,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 34,
+    "Id": 17182754,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 35,
+    "Id": 17182755,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 36,
+    "Id": 17182756,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 37,
+    "Id": 17182757,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 38,
+    "Id": 17182758,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 39,
+    "Id": 17182759,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 40,
+    "Id": 17182760,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 41,
+    "Id": 17182761,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 42,
+    "Id": 17182762,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 43,
+    "Id": 17182763,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 44,
+    "Id": 17182764,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 45,
+    "Id": 17182765,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 46,
+    "Id": 17182766,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 47,
+    "Id": 17182767,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 48,
+    "Id": 17182768,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 49,
+    "Id": 17182769,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 50,
+    "Id": 17182770,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 51,
+    "Id": 17182771,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 52,
+    "Id": 17182772,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 53,
+    "Id": 17182773,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 54,
+    "Id": 17182774,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 55,
+    "Id": 17182775,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Blooming Rafflesia",
+    "Idx": 56,
+    "Id": 17182776,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 57,
+    "Id": 17182777,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 58,
+    "Id": 17182778,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antlion Fly",
+    "Idx": 59,
+    "Id": 17182779,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antlion Fly",
+    "Idx": 60,
+    "Id": 17182780,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antlion Fly",
+    "Idx": 61,
+    "Id": 17182781,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antlion Fly",
+    "Idx": 62,
+    "Id": 17182782,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 63,
+    "Id": 17182783,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 64,
+    "Id": 17182784,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antlion Fly",
+    "Idx": 65,
+    "Id": 17182785,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antlion Fly",
+    "Idx": 66,
+    "Id": 17182786,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Antlion Fly",
+    "Idx": 67,
+    "Id": 17182787,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Earth Elemental",
+    "Idx": 68,
+    "Id": 17182788,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fire Elemental",
+    "Idx": 69,
+    "Id": 17182789,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Duu Masa the Onecut",
+    "Idx": 70,
+    "Id": 17182790,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 71,
+    "Id": 17182791,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 72,
+    "Id": 17182792,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 73,
+    "Id": 17182793,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 74,
+    "Id": 17182794,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 75,
+    "Id": 17182795,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 76,
+    "Id": 17182796,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 77,
+    "Id": 17182797,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 78,
+    "Id": 17182798,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 79,
+    "Id": 17182799,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 80,
+    "Id": 17182800,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 81,
+    "Id": 17182801,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 82,
+    "Id": 17182802,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 83,
+    "Id": 17182803,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 84,
+    "Id": 17182804,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 85,
+    "Id": 17182805,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 86,
+    "Id": 17182806,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 87,
+    "Id": 17182807,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 88,
+    "Id": 17182808,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 89,
+    "Id": 17182809,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 90,
+    "Id": 17182810,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 91,
+    "Id": 17182811,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 92,
+    "Id": 17182812,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Zhuu Buxu the Silent",
+    "Idx": 93,
+    "Id": 17182813,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 94,
+    "Id": 17182814,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 95,
+    "Id": 17182815,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 96,
+    "Id": 17182816,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 97,
+    "Id": 17182817,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 98,
+    "Id": 17182818,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 99,
+    "Id": 17182819,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 100,
+    "Id": 17182820,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 101,
+    "Id": 17182821,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 102,
+    "Id": 17182822,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 103,
+    "Id": 17182823,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 104,
+    "Id": 17182824,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 105,
+    "Id": 17182825,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 106,
+    "Id": 17182826,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 107,
+    "Id": 17182827,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 108,
+    "Id": 17182828,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 109,
+    "Id": 17182829,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 110,
+    "Id": 17182830,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 111,
+    "Id": 17182831,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 112,
+    "Id": 17182832,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Immolatory Pugil",
+    "Idx": 113,
+    "Id": 17182833,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Immolatory Pugil",
+    "Idx": 114,
+    "Id": 17182834,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Immolatory Pugil",
+    "Idx": 115,
+    "Id": 17182835,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Immolatory Pugil",
+    "Idx": 116,
+    "Id": 17182836,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Immolatory Pugil",
+    "Idx": 117,
+    "Id": 17182837,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 118,
+    "Id": 17182838,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 119,
+    "Id": 17182839,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 120,
+    "Id": 17182840,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Earth Elemental",
+    "Idx": 121,
+    "Id": 17182841,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fire Elemental",
+    "Idx": 122,
+    "Id": 17182842,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aa Xalmo the Savage",
+    "Idx": 123,
+    "Id": 17182843,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 124,
+    "Id": 17182844,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 125,
+    "Id": 17182845,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 126,
+    "Id": 17182846,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 127,
+    "Id": 17182847,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 128,
+    "Id": 17182848,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seneschal Imp",
+    "Idx": 129,
+    "Id": 17182849,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 130,
+    "Id": 17182850,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 131,
+    "Id": 17182851,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 132,
+    "Id": 17182852,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seneschal Imp",
+    "Idx": 133,
+    "Id": 17182853,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bastion Bats",
+    "Idx": 134,
+    "Id": 17182854,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 135,
+    "Id": 17182855,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 136,
+    "Id": 17182856,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 137,
+    "Id": 17182857,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 138,
+    "Id": 17182858,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 139,
+    "Id": 17182859,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 140,
+    "Id": 17182860,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 141,
+    "Id": 17182861,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 142,
+    "Id": 17182862,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 143,
+    "Id": 17182863,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 144,
+    "Id": 17182864,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 145,
+    "Id": 17182865,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 146,
+    "Id": 17182866,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 147,
+    "Id": 17182867,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 148,
+    "Id": 17182868,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 149,
+    "Id": 17182869,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 150,
+    "Id": 17182870,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 151,
+    "Id": 17182871,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 152,
+    "Id": 17182872,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 153,
+    "Id": 17182873,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 154,
+    "Id": 17182874,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 155,
+    "Id": 17182875,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 156,
+    "Id": 17182876,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 157,
+    "Id": 17182877,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 158,
+    "Id": 17182878,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 159,
+    "Id": 17182879,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 160,
+    "Id": 17182880,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 161,
+    "Id": 17182881,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 162,
+    "Id": 17182882,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 163,
+    "Id": 17182883,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 164,
+    "Id": 17182884,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 165,
+    "Id": 17182885,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seneschal Imp",
+    "Idx": 166,
+    "Id": 17182886,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seneschal Imp",
+    "Idx": 167,
+    "Id": 17182887,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 168,
+    "Id": 17182888,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 169,
+    "Id": 17182889,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 170,
+    "Id": 17182890,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 171,
+    "Id": 17182891,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 172,
+    "Id": 17182892,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bulwark Bat",
+    "Idx": 173,
+    "Id": 17182893,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 174,
+    "Id": 17182894,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 175,
+    "Id": 17182895,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 176,
+    "Id": 17182896,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bulwark Bat",
+    "Idx": 177,
+    "Id": 17182897,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Sentinel",
+    "Idx": 178,
+    "Id": 17182898,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 179,
+    "Id": 17182899,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 180,
+    "Id": 17182900,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Knight Templar",
+    "Idx": 181,
+    "Id": 17182901,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Eradicator",
+    "Idx": 182,
+    "Id": 17182902,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 183,
+    "Id": 17182903,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 184,
+    "Id": 17182904,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 185,
+    "Id": 17182905,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 186,
+    "Id": 17182906,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 187,
+    "Id": 17182907,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 188,
+    "Id": 17182908,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 189,
+    "Id": 17182909,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 190,
+    "Id": 17182910,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Earth Elemental",
+    "Idx": 191,
+    "Id": 17182911,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fire Elemental",
+    "Idx": 192,
+    "Id": 17182912,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 193,
+    "Id": 17182913,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 194,
+    "Id": 17182914,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prioress",
+    "Idx": 195,
+    "Id": 17182915,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 196,
+    "Id": 17182916,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 197,
+    "Id": 17182917,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 198,
+    "Id": 17182918,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 199,
+    "Id": 17182919,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gnat",
+    "Idx": 200,
+    "Id": 17182920,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 201,
+    "Id": 17182921,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 202,
+    "Id": 17182922,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 203,
+    "Id": 17182923,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 204,
+    "Id": 17182924,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo High Priest",
+    "Idx": 205,
+    "Id": 17182925,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bulwark Bat",
+    "Idx": 206,
+    "Id": 17182926,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 207,
+    "Id": 17182927,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Prelate",
+    "Idx": 208,
+    "Id": 17182928,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Chanter",
+    "Idx": 209,
+    "Id": 17182929,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bulwark Bat",
+    "Idx": 210,
+    "Id": 17182930,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 211,
+    "Id": 17182931,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 212,
+    "Id": 17182932,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 213,
+    "Id": 17182933,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 214,
+    "Id": 17182934,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 215,
+    "Id": 17182935,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 216,
+    "Id": 17182936,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 217,
+    "Id": 17182937,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 218,
+    "Id": 17182938,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 219,
+    "Id": 17182939,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 220,
+    "Id": 17182940,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 221,
+    "Id": 17182941,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 222,
+    "Id": 17182942,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 223,
+    "Id": 17182943,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 224,
+    "Id": 17182944,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 225,
+    "Id": 17182945,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 226,
+    "Id": 17182946,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 227,
+    "Id": 17182947,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seneschal Imp",
+    "Idx": 228,
+    "Id": 17182948,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seneschal Imp",
+    "Idx": 229,
+    "Id": 17182949,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 230,
+    "Id": 17182950,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 231,
+    "Id": 17182951,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 232,
+    "Id": 17182952,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gnat",
+    "Idx": 233,
+    "Id": 17182953,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bulwark Bat",
+    "Idx": 234,
+    "Id": 17182954,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bulwark Bat",
+    "Idx": 235,
+    "Id": 17182955,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Seneschal Imp",
+    "Idx": 236,
+    "Id": 17182956,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 237,
+    "Id": 17182957,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 238,
+    "Id": 17182958,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 239,
+    "Id": 17182959,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gnat",
+    "Idx": 240,
+    "Id": 17182960,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 241,
+    "Id": 17182961,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 242,
+    "Id": 17182962,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 243,
+    "Id": 17182963,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 244,
+    "Id": 17182964,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 245,
+    "Id": 17182965,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 246,
+    "Id": 17182966,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 247,
+    "Id": 17182967,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 248,
+    "Id": 17182968,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 249,
+    "Id": 17182969,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 250,
+    "Id": 17182970,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 251,
+    "Id": 17182971,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 252,
+    "Id": 17182972,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 253,
+    "Id": 17182973,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 254,
+    "Id": 17182974,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 255,
+    "Id": 17182975,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 256,
+    "Id": 17182976,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 257,
+    "Id": 17182977,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 258,
+    "Id": 17182978,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 259,
+    "Id": 17182979,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 260,
+    "Id": 17182980,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 261,
+    "Id": 17182981,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 262,
+    "Id": 17182982,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 263,
+    "Id": 17182983,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 264,
+    "Id": 17182984,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 265,
+    "Id": 17182985,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 266,
+    "Id": 17182986,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 267,
+    "Id": 17182987,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 268,
+    "Id": 17182988,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 269,
+    "Id": 17182989,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 270,
+    "Id": 17182990,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Parasite",
+    "Idx": 271,
+    "Id": 17182991,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Parasite",
+    "Idx": 272,
+    "Id": 17182992,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Parasite",
+    "Idx": 273,
+    "Id": 17182993,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Parasite",
+    "Idx": 274,
+    "Id": 17182994,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 275,
+    "Id": 17182995,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 276,
+    "Id": 17182996,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gnat",
+    "Idx": 277,
+    "Id": 17182997,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 278,
+    "Id": 17182998,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 279,
+    "Id": 17182999,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 280,
+    "Id": 17183000,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 281,
+    "Id": 17183001,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 282,
+    "Id": 17183002,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 283,
+    "Id": 17183003,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gnat",
+    "Idx": 284,
+    "Id": 17183004,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 285,
+    "Id": 17183005,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 286,
+    "Id": 17183006,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 287,
+    "Id": 17183007,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 288,
+    "Id": 17183008,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 289,
+    "Id": 17183009,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gnat",
+    "Idx": 290,
+    "Id": 17183010,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 291,
+    "Id": 17183011,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 292,
+    "Id": 17183012,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 293,
+    "Id": 17183013,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 294,
+    "Id": 17183014,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Conductor",
+    "Idx": 295,
+    "Id": 17183015,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 296,
+    "Id": 17183016,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Nokizaru",
+    "Idx": 297,
+    "Id": 17183017,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 298,
+    "Id": 17183018,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 299,
+    "Id": 17183019,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 300,
+    "Id": 17183020,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Superior",
+    "Idx": 301,
+    "Id": 17183021,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo's Elemental",
+    "Idx": 302,
+    "Id": 17183022,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 303,
+    "Id": 17183023,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Flagellant",
+    "Idx": 304,
+    "Id": 17183024,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 305,
+    "Id": 17183025,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Yojimbo",
+    "Idx": 306,
+    "Id": 17183026,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 307,
+    "Id": 17183027,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Abbot",
+    "Idx": 308,
+    "Id": 17183028,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 309,
+    "Id": 17183029,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Hierogrammat",
+    "Idx": 310,
+    "Id": 17183030,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dee Zelko the Esoteric",
+    "Idx": 311,
+    "Id": 17183031,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Marquis Forneus",
+    "Idx": 312,
+    "Id": 17183032,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Loo Kutto the Pensive",
+    "Idx": 313,
+    "Id": 17183033,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fleshgnasher",
+    "Idx": 314,
+    "Id": 17183034,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Ladu the Titterer",
+    "Idx": 315,
+    "Id": 17183035,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Maa Illmu the Bestower",
+    "Idx": 316,
+    "Id": 17183036,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Asterion",
+    "Idx": 317,
+    "Id": 17183037,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Suu Xicu the Cantabile",
+    "Idx": 318,
+    "Id": 17183038,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Ladu the Titterer",
+    "Idx": 319,
+    "Id": 17183039,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Ladu the Titterer",
+    "Idx": 320,
+    "Id": 17183040,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Ladu the Titterer",
+    "Idx": 321,
+    "Id": 17183041,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Ladu the Titterer",
+    "Idx": 322,
+    "Id": 17183042,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Duu Nazo the Spryfooted",
+    "Idx": 323,
+    "Id": 17183043,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Duu Nazo the Spryfooted",
+    "Idx": 324,
+    "Id": 17183044,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Duu Nazo the Spryfooted",
+    "Idx": 325,
+    "Id": 17183045,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Duu Nazo the Spryfooted",
+    "Idx": 326,
+    "Id": 17183046,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soo Luma the Ascended",
+    "Idx": 327,
+    "Id": 17183047,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Armoury Crate",
+    "Idx": 328,
+    "Id": 17183048,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Roo Beju the Eulogizer",
+    "Idx": 329,
+    "Id": 17183049,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Zjaa Bao the Wrathherald",
+    "Idx": 330,
+    "Id": 17183050,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jii Xai the Rimebladed",
+    "Idx": 331,
+    "Id": 17183051,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soo Luma the Ascended",
+    "Idx": 332,
+    "Id": 17183052,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Armoury Crate",
+    "Idx": 333,
+    "Id": 17183053,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Roo Beju the Eulogizer",
+    "Idx": 334,
+    "Id": 17183054,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Zjaa Bao the Wrathherald",
+    "Idx": 335,
+    "Id": 17183055,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jii Xai the Rimebladed",
+    "Idx": 336,
+    "Id": 17183056,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Soo Luma the Ascended",
+    "Idx": 337,
+    "Id": 17183057,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Armoury Crate",
+    "Idx": 338,
+    "Id": 17183058,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Roo Beju the Eulogizer",
+    "Idx": 339,
+    "Id": 17183059,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Zjaa Bao the Wrathherald",
+    "Idx": 340,
+    "Id": 17183060,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jii Xai the Rimebladed",
+    "Idx": 341,
+    "Id": 17183061,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu the Manifest",
+    "Idx": 342,
+    "Id": 17183062,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 343,
+    "Id": 17183063,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 344,
+    "Id": 17183064,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 345,
+    "Id": 17183065,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 346,
+    "Id": 17183066,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Armoury Crate",
+    "Idx": 347,
+    "Id": 17183067,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu the Manifest",
+    "Idx": 348,
+    "Id": 17183068,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 349,
+    "Id": 17183069,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 350,
+    "Id": 17183070,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 351,
+    "Id": 17183071,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 352,
+    "Id": 17183072,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Armoury Crate",
+    "Idx": 353,
+    "Id": 17183073,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu the Manifest",
+    "Idx": 354,
+    "Id": 17183074,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 355,
+    "Id": 17183075,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 356,
+    "Id": 17183076,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 357,
+    "Id": 17183077,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 358,
+    "Id": 17183078,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Armoury Crate",
+    "Idx": 359,
+    "Id": 17183079,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kayeel-Payeel",
+    "Idx": 360,
+    "Id": 17183080,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ice Fiend",
+    "Idx": 361,
+    "Id": 17183081,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Fiend",
+    "Idx": 362,
+    "Id": 17183082,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 363,
+    "Id": 17183083,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 364,
+    "Id": 17183084,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 365,
+    "Id": 17183085,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 366,
+    "Id": 17183086,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 367,
+    "Id": 17183087,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 368,
+    "Id": 17183088,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 369,
+    "Id": 17183089,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 370,
+    "Id": 17183090,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Aquarian Caster",
+    "Idx": 371,
+    "Id": 17183091,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gariri",
+    "Idx": 372,
+    "Id": 17183092,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Flame Giant",
+    "Idx": 373,
+    "Id": 17183093,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 374,
+    "Id": 17183094,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 375,
+    "Id": 17183095,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 376,
+    "Id": 17183096,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 377,
+    "Id": 17183097,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 378,
+    "Id": 17183098,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 379,
+    "Id": 17183099,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 380,
+    "Id": 17183100,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 381,
+    "Id": 17183101,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Scorpion Caster",
+    "Idx": 382,
+    "Id": 17183102,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Zolku-Azolku",
+    "Idx": 383,
+    "Id": 17183103,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 384,
+    "Id": 17183104,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 385,
+    "Id": 17183105,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 386,
+    "Id": 17183106,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 387,
+    "Id": 17183107,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 388,
+    "Id": 17183108,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 389,
+    "Id": 17183109,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 390,
+    "Id": 17183110,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 391,
+    "Id": 17183111,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Libran Caster",
+    "Idx": 392,
+    "Id": 17183112,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lhu Mhakaracca",
+    "Idx": 393,
+    "Id": 17183113,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Pya",
+    "Idx": 394,
+    "Id": 17183114,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kyo",
+    "Idx": 395,
+    "Id": 17183115,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 396,
+    "Id": 17183116,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 397,
+    "Id": 17183117,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 398,
+    "Id": 17183118,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 399,
+    "Id": 17183119,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 400,
+    "Id": 17183120,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 401,
+    "Id": 17183121,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 402,
+    "Id": 17183122,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 403,
+    "Id": 17183123,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Python Mercenary",
+    "Idx": 404,
+    "Id": 17183124,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Haja Zhwan",
+    "Idx": 405,
+    "Id": 17183125,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 406,
+    "Id": 17183126,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 407,
+    "Id": 17183127,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 408,
+    "Id": 17183128,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 409,
+    "Id": 17183129,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 410,
+    "Id": 17183130,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 411,
+    "Id": 17183131,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 412,
+    "Id": 17183132,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 413,
+    "Id": 17183133,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Volunteer",
+    "Idx": 414,
+    "Id": 17183134,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Piscean Caster",
+    "Idx": 415,
+    "Id": 17183135,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Piscean Caster",
+    "Idx": 416,
+    "Id": 17183136,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Piscean Caster",
+    "Idx": 417,
+    "Id": 17183137,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Piscean Caster",
+    "Idx": 418,
+    "Id": 17183138,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Piscean Caster",
+    "Idx": 419,
+    "Id": 17183139,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Piscean Caster",
+    "Idx": 420,
+    "Id": 17183140,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Mantelet",
+    "Idx": 421,
+    "Id": 17183141,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Mantelet",
+    "Idx": 422,
+    "Id": 17183142,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Mantelet",
+    "Idx": 423,
+    "Id": 17183143,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Mantelet",
+    "Idx": 424,
+    "Id": 17183144,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Mantelet",
+    "Idx": 425,
+    "Id": 17183145,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Mantelet",
+    "Idx": 426,
+    "Id": 17183146,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nail Bomb",
+    "Idx": 427,
+    "Id": 17183147,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nail Bomb",
+    "Idx": 428,
+    "Id": 17183148,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nail Bomb",
+    "Idx": 429,
+    "Id": 17183149,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nail Bomb",
+    "Idx": 430,
+    "Id": 17183150,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nail Bomb",
+    "Idx": 431,
+    "Id": 17183151,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nail Bomb",
+    "Idx": 432,
+    "Id": 17183152,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Belfry",
+    "Idx": 433,
+    "Id": 17183153,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Vanguard",
+    "Idx": 434,
+    "Id": 17183154,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Vanguard",
+    "Idx": 435,
+    "Id": 17183155,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Vanguard",
+    "Idx": 436,
+    "Id": 17183156,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Vanguard",
+    "Idx": 437,
+    "Id": 17183157,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Vanguard",
+    "Idx": 438,
+    "Id": 17183158,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wildcat Vanguard",
+    "Idx": 439,
+    "Id": 17183159,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Armored Belfry",
+    "Idx": 440,
+    "Id": 17183160,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cardian Prototype",
+    "Idx": 441,
+    "Id": 17183161,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cardian Prototype",
+    "Idx": 442,
+    "Id": 17183162,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cardian Prototype",
+    "Idx": 443,
+    "Id": 17183163,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cardian Prototype",
+    "Idx": 444,
+    "Id": 17183164,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cardian Prototype",
+    "Idx": 445,
+    "Id": 17183165,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Cardian Prototype",
+    "Idx": 446,
+    "Id": 17183166,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Combat Salvemixer",
+    "Idx": 447,
+    "Id": 17183167,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Combat Salvemixer",
+    "Idx": 448,
+    "Id": 17183168,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Combat Salvemixer",
+    "Idx": 449,
+    "Id": 17183169,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Combat Salvemixer",
+    "Idx": 450,
+    "Id": 17183170,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Combat Salvemixer",
+    "Idx": 451,
+    "Id": 17183171,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Combat Salvemixer",
+    "Idx": 452,
+    "Id": 17183172,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Qiqa the Decreer",
+    "Idx": 453,
+    "Id": 17183173,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Qiqa's Elemental",
+    "Idx": 454,
+    "Id": 17183174,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Qiqa's Elemental",
+    "Idx": 455,
+    "Id": 17183175,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Qiqa's Elemental",
+    "Idx": 456,
+    "Id": 17183176,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Qiqa's Elemental",
+    "Idx": 457,
+    "Id": 17183177,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 458,
+    "Id": 17183178,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 459,
+    "Id": 17183179,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 460,
+    "Id": 17183180,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 461,
+    "Id": 17183181,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 462,
+    "Id": 17183182,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 463,
+    "Id": 17183183,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 464,
+    "Id": 17183184,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 465,
+    "Id": 17183185,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Templar",
+    "Idx": 466,
+    "Id": 17183186,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moo Ouzi the Swiftblade",
+    "Idx": 467,
+    "Id": 17183187,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 468,
+    "Id": 17183188,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 469,
+    "Id": 17183189,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 470,
+    "Id": 17183190,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 471,
+    "Id": 17183191,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 472,
+    "Id": 17183192,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 473,
+    "Id": 17183193,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 474,
+    "Id": 17183194,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 475,
+    "Id": 17183195,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Disseminator",
+    "Idx": 476,
+    "Id": 17183196,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Muu Buxu the Elusive",
+    "Idx": 477,
+    "Id": 17183197,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 478,
+    "Id": 17183198,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 479,
+    "Id": 17183199,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 480,
+    "Id": 17183200,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 481,
+    "Id": 17183201,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 482,
+    "Id": 17183202,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 483,
+    "Id": 17183203,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 484,
+    "Id": 17183204,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 485,
+    "Id": 17183205,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Assassin",
+    "Idx": 486,
+    "Id": 17183206,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dee Xalmo the Grim",
+    "Idx": 487,
+    "Id": 17183207,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 488,
+    "Id": 17183208,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 489,
+    "Id": 17183209,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 490,
+    "Id": 17183210,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 491,
+    "Id": 17183211,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 492,
+    "Id": 17183212,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 493,
+    "Id": 17183213,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 494,
+    "Id": 17183214,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 495,
+    "Id": 17183215,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Ascetic",
+    "Idx": 496,
+    "Id": 17183216,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kazan the Peerless",
+    "Idx": 497,
+    "Id": 17183217,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 498,
+    "Id": 17183218,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 499,
+    "Id": 17183219,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 500,
+    "Id": 17183220,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 501,
+    "Id": 17183221,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 502,
+    "Id": 17183222,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 503,
+    "Id": 17183223,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 504,
+    "Id": 17183224,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 505,
+    "Id": 17183225,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Plenilune Ronin",
+    "Idx": 506,
+    "Id": 17183226,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vuu Puqu the Beguiler",
+    "Idx": 507,
+    "Id": 17183227,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 508,
+    "Id": 17183228,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 509,
+    "Id": 17183229,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 510,
+    "Id": 17183230,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 511,
+    "Id": 17183231,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 512,
+    "Id": 17183232,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 513,
+    "Id": 17183233,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 514,
+    "Id": 17183234,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 515,
+    "Id": 17183235,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inspirer",
+    "Idx": 516,
+    "Id": 17183236,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yuu Mjuu the Awakened",
+    "Idx": 517,
+    "Id": 17183237,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yuu Mjuu's Elemental",
+    "Idx": 518,
+    "Id": 17183238,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yuu Mjuu's Elemental",
+    "Idx": 519,
+    "Id": 17183239,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 520,
+    "Id": 17183240,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 521,
+    "Id": 17183241,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 522,
+    "Id": 17183242,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 523,
+    "Id": 17183243,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 524,
+    "Id": 17183244,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 525,
+    "Id": 17183245,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 526,
+    "Id": 17183246,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 527,
+    "Id": 17183247,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Sentinel",
+    "Idx": 528,
+    "Id": 17183248,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vaa Oozu the Redolent",
+    "Idx": 529,
+    "Id": 17183249,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vaa Oozu's Scolopendrid",
+    "Idx": 530,
+    "Id": 17183250,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vaa Oozu's Scolopendrid",
+    "Idx": 531,
+    "Id": 17183251,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 532,
+    "Id": 17183252,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 533,
+    "Id": 17183253,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 534,
+    "Id": 17183254,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 535,
+    "Id": 17183255,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 536,
+    "Id": 17183256,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 537,
+    "Id": 17183257,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 538,
+    "Id": 17183258,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 539,
+    "Id": 17183259,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Inciter",
+    "Idx": 540,
+    "Id": 17183260,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yaa Haqa the Pious",
+    "Idx": 541,
+    "Id": 17183261,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 542,
+    "Id": 17183262,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 543,
+    "Id": 17183263,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 544,
+    "Id": 17183264,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 545,
+    "Id": 17183265,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 546,
+    "Id": 17183266,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 547,
+    "Id": 17183267,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 548,
+    "Id": 17183268,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 549,
+    "Id": 17183269,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Liturgist",
+    "Idx": 550,
+    "Id": 17183270,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Seju the Consumed",
+    "Idx": 551,
+    "Id": 17183271,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Seju's Elemental",
+    "Idx": 552,
+    "Id": 17183272,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vee Seju's Elemental",
+    "Idx": 553,
+    "Id": 17183273,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 554,
+    "Id": 17183274,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 555,
+    "Id": 17183275,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 556,
+    "Id": 17183276,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 557,
+    "Id": 17183277,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 558,
+    "Id": 17183278,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 559,
+    "Id": 17183279,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 560,
+    "Id": 17183280,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 561,
+    "Id": 17183281,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Martyr",
+    "Idx": 562,
+    "Id": 17183282,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Pilgrim",
+    "Idx": 563,
+    "Id": 17183283,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Pilgrim",
+    "Idx": 564,
+    "Id": 17183284,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Pilgrim",
+    "Idx": 565,
+    "Id": 17183285,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Pilgrim",
+    "Idx": 566,
+    "Id": 17183286,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Pilgrim",
+    "Idx": 567,
+    "Id": 17183287,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Divine Pilgrim",
+    "Idx": 568,
+    "Id": 17183288,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Confederate Mantelet",
+    "Idx": 569,
+    "Id": 17183289,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Confederate Mantelet",
+    "Idx": 570,
+    "Id": 17183290,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Confederate Mantelet",
+    "Idx": 571,
+    "Id": 17183291,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Confederate Mantelet",
+    "Idx": 572,
+    "Id": 17183292,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Confederate Mantelet",
+    "Idx": 573,
+    "Id": 17183293,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Confederate Mantelet",
+    "Idx": 574,
+    "Id": 17183294,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Bomb",
+    "Idx": 575,
+    "Id": 17183295,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Bomb",
+    "Idx": 576,
+    "Id": 17183296,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Bomb",
+    "Idx": 577,
+    "Id": 17183297,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Bomb",
+    "Idx": 578,
+    "Id": 17183298,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Bomb",
+    "Idx": 579,
+    "Id": 17183299,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Bomb",
+    "Idx": 580,
+    "Id": 17183300,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Confederate Belfry",
+    "Idx": 581,
+    "Id": 17183301,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Genja",
+    "Idx": 582,
+    "Id": 17183302,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Genja",
+    "Idx": 583,
+    "Id": 17183303,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Genja",
+    "Idx": 584,
+    "Id": 17183304,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Genja",
+    "Idx": 585,
+    "Id": 17183305,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Genja",
+    "Idx": 586,
+    "Id": 17183306,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Genja",
+    "Idx": 587,
+    "Id": 17183307,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagudo Turret",
+    "Idx": 588,
+    "Id": 17183308,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 589,
+    "Id": 17183309,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 590,
+    "Id": 17183310,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 591,
+    "Id": 17183311,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 592,
+    "Id": 17183312,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 593,
+    "Id": 17183313,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "War Lynx",
+    "Idx": 594,
+    "Id": 17183314,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fiendish Leechkeeper",
+    "Idx": 595,
+    "Id": 17183315,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fiendish Leechkeeper",
+    "Idx": 596,
+    "Id": 17183316,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fiendish Leechkeeper",
+    "Idx": 597,
+    "Id": 17183317,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fiendish Leechkeeper",
+    "Idx": 598,
+    "Id": 17183318,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fiendish Leechkeeper",
+    "Idx": 599,
+    "Id": 17183319,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fiendish Leechkeeper",
+    "Idx": 600,
+    "Id": 17183320,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn",
+    "Idx": 601,
+    "Id": 17183321,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 602,
+    "Id": 17183322,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 603,
+    "Id": 17183323,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 604,
+    "Id": 17183324,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 605,
+    "Id": 17183325,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 606,
+    "Id": 17183326,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 607,
+    "Id": 17183327,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 608,
+    "Id": 17183328,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 609,
+    "Id": 17183329,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhorn Stormer",
+    "Idx": 610,
+    "Id": 17183330,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand",
+    "Idx": 611,
+    "Id": 17183331,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 612,
+    "Id": 17183332,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 613,
+    "Id": 17183333,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 614,
+    "Id": 17183334,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 615,
+    "Id": 17183335,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 616,
+    "Id": 17183336,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 617,
+    "Id": 17183337,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 618,
+    "Id": 17183338,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 619,
+    "Id": 17183339,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowhand Cuirassier",
+    "Idx": 620,
+    "Id": 17183340,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang",
+    "Idx": 621,
+    "Id": 17183341,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 622,
+    "Id": 17183342,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 623,
+    "Id": 17183343,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 624,
+    "Id": 17183344,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 625,
+    "Id": 17183345,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 626,
+    "Id": 17183346,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 627,
+    "Id": 17183347,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 628,
+    "Id": 17183348,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 629,
+    "Id": 17183349,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadowfang Void",
+    "Idx": 630,
+    "Id": 17183350,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye",
+    "Idx": 631,
+    "Id": 17183351,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 632,
+    "Id": 17183352,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 633,
+    "Id": 17183353,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 634,
+    "Id": 17183354,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 635,
+    "Id": 17183355,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 636,
+    "Id": 17183356,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 637,
+    "Id": 17183357,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 638,
+    "Id": 17183358,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 639,
+    "Id": 17183359,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shadoweye Gnat",
+    "Idx": 640,
+    "Id": 17183360,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fortification",
+    "Idx": 641,
+    "Id": 17183361,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fortification",
+    "Idx": 642,
+    "Id": 17183362,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fortification",
+    "Idx": 643,
+    "Id": 17183363,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fortification",
+    "Idx": 644,
+    "Id": 17183364,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rikoh Wahcondalo",
+    "Idx": 645,
+    "Id": 17183365,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kagetora",
+    "Idx": 646,
+    "Id": 17183366,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kagetora",
+    "Idx": 647,
+    "Id": 17183367,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kagetora",
+    "Idx": 648,
+    "Id": 17183368,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kagetora",
+    "Idx": 649,
+    "Id": 17183369,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kagetora",
+    "Idx": 650,
+    "Id": 17183370,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kagetora",
+    "Idx": 651,
+    "Id": 17183371,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dalzakk",
+    "Idx": 652,
+    "Id": 17183372,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Oggbi",
+    "Idx": 653,
+    "Id": 17183373,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rainemard",
+    "Idx": 654,
+    "Id": 17183374,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Maat",
+    "Idx": 655,
+    "Id": 17183375,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Degenhard",
+    "Idx": 656,
+    "Id": 17183376,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Azima",
+    "Idx": 657,
+    "Id": 17183377,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Choh Moui",
+    "Idx": 658,
+    "Id": 17183378,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 659,
+    "Id": 17183379,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 660,
+    "Id": 17183380,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 661,
+    "Id": 17183381,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 662,
+    "Id": 17183382,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 663,
+    "Id": 17183383,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 664,
+    "Id": 17183384,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 665,
+    "Id": 17183385,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Chigoe",
+    "Idx": 666,
+    "Id": 17183386,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Azo",
+    "Idx": 667,
+    "Id": 17183387,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vahi",
+    "Idx": 668,
+    "Id": 17183388,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Rongo-Nango",
+    "Idx": 669,
+    "Id": 17183389,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lerren",
+    "Idx": 670,
+    "Id": 17183390,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Jajaro",
+    "Idx": 671,
+    "Id": 17183391,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Popochu",
+    "Idx": 672,
+    "Id": 17183392,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Papako",
+    "Idx": 673,
+    "Id": 17183393,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Momowa",
+    "Idx": 674,
+    "Id": 17183394,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ulla",
+    "Idx": 675,
+    "Id": 17183395,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kilhwch",
+    "Idx": 676,
+    "Id": 17183396,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Alfons",
+    "Idx": 677,
+    "Id": 17183397,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achtelle",
+    "Idx": 678,
+    "Id": 17183398,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bravo",
+    "Idx": 679,
+    "Id": 17183399,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Duskraven",
+    "Idx": 680,
+    "Id": 17183400,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dusk Raider",
+    "Idx": 681,
+    "Id": 17183401,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dusk Raider",
+    "Idx": 682,
+    "Id": 17183402,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dusk Raider",
+    "Idx": 683,
+    "Id": 17183403,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dusk Raider",
+    "Idx": 684,
+    "Id": 17183404,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dusk Raider",
+    "Idx": 685,
+    "Id": 17183405,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Areuhat",
+    "Idx": 686,
+    "Id": 17183406,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Odzmanouk",
+    "Idx": 687,
+    "Id": 17183407,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Boodlix",
+    "Idx": 688,
+    "Id": 17183408,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lansquenet",
+    "Idx": 689,
+    "Id": 17183409,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lansquenet",
+    "Idx": 690,
+    "Id": 17183410,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lansquenet",
+    "Idx": 691,
+    "Id": 17183411,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Titania",
+    "Idx": 692,
+    "Id": 17183412,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 693,
+    "Id": 17183413,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 694,
+    "Id": 17183414,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 695,
+    "Id": 17183415,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 696,
+    "Id": 17183416,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 697,
+    "Id": 17183417,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 698,
+    "Id": 17183418,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 699,
+    "Id": 17183419,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 700,
+    "Id": 17183420,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Faerie",
+    "Idx": 701,
+    "Id": 17183421,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Babban Ny Mheillea",
+    "Idx": 702,
+    "Id": 17183422,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Abenzio",
+    "Idx": 703,
+    "Id": 17183423,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bryher",
+    "Idx": 704,
+    "Id": 17183424,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Camlin",
+    "Idx": 705,
+    "Id": 17183425,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Darach",
+    "Idx": 706,
+    "Id": 17183426,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Raigegue R d'Oraguille",
+    "Idx": 707,
+    "Id": 17183427,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Royal Knight",
+    "Idx": 708,
+    "Id": 17183428,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Royal Knight",
+    "Idx": 709,
+    "Id": 17183429,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Royal Knight",
+    "Idx": 710,
+    "Id": 17183430,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ancient Royal Knight",
+    "Idx": 711,
+    "Id": 17183431,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eurytos",
+    "Idx": 712,
+    "Id": 17183432,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gigas Mercenary",
+    "Idx": 713,
+    "Id": 17183433,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Gigas Mercenary",
+    "Idx": 714,
+    "Id": 17183434,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poroggo Prince",
+    "Idx": 715,
+    "Id": 17183435,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poroggo Servant",
+    "Idx": 716,
+    "Id": 17183436,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poroggo Servant",
+    "Idx": 717,
+    "Id": 17183437,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Poroggo Servant",
+    "Idx": 718,
+    "Id": 17183438,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kaiser Behemoth",
+    "Idx": 719,
+    "Id": 17183439,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ferreous Coffin",
+    "Idx": 720,
+    "Id": 17183440,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lewenhart",
+    "Idx": 721,
+    "Id": 17183441,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Auroral Alicorn",
+    "Idx": 722,
+    "Id": 17183442,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu the Manifest",
+    "Idx": 723,
+    "Id": 17183443,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 724,
+    "Id": 17183444,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 725,
+    "Id": 17183445,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu the Manifest",
+    "Idx": 726,
+    "Id": 17183446,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 727,
+    "Id": 17183447,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 728,
+    "Id": 17183448,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu the Manifest",
+    "Idx": 729,
+    "Id": 17183449,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 730,
+    "Id": 17183450,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu's Elemental",
+    "Idx": 731,
+    "Id": 17183451,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fenrir",
+    "Idx": 732,
+    "Id": 17183452,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Karaha-Baruha",
+    "Idx": 733,
+    "Id": 17183453,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Robel-Akbel",
+    "Idx": 734,
+    "Id": 17183454,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lehko Habhoka",
+    "Idx": 735,
+    "Id": 17183455,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fenrir",
+    "Idx": 736,
+    "Id": 17183456,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Karaha-Baruha",
+    "Idx": 737,
+    "Id": 17183457,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Robel-Akbel",
+    "Idx": 738,
+    "Id": 17183458,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lehko Habhoka",
+    "Idx": 739,
+    "Id": 17183459,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fenrir",
+    "Idx": 740,
+    "Id": 17183460,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Karaha-Baruha",
+    "Idx": 741,
+    "Id": 17183461,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Robel-Akbel",
+    "Idx": 742,
+    "Id": 17183462,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lehko Habhoka",
+    "Idx": 743,
+    "Id": 17183463,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 746,
+    "Id": 17183466,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 747,
+    "Id": 17183467,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 748,
+    "Id": 17183468,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 749,
+    "Id": 17183469,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 752,
+    "Id": 17183472,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adder Coffer",
+    "Idx": 753,
+    "Id": 17183473,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bison Coffer",
+    "Idx": 754,
+    "Id": 17183474,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Coyote Coffer",
+    "Idx": 755,
+    "Id": 17183475,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dhole Coffer",
+    "Idx": 756,
+    "Id": 17183476,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eland Coffer",
+    "Idx": 757,
+    "Id": 17183477,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adder Coffer",
+    "Idx": 758,
+    "Id": 17183478,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bison Coffer",
+    "Idx": 759,
+    "Id": 17183479,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Coyote Coffer",
+    "Idx": 760,
+    "Id": 17183480,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dhole Coffer",
+    "Idx": 761,
+    "Id": 17183481,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eland Coffer",
+    "Idx": 762,
+    "Id": 17183482,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Adder Coffer",
+    "Idx": 763,
+    "Id": 17183483,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bison Coffer",
+    "Idx": 764,
+    "Id": 17183484,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Coyote Coffer",
+    "Idx": 765,
+    "Id": 17183485,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dhole Coffer",
+    "Idx": 766,
+    "Id": 17183486,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Eland Coffer",
+    "Idx": 767,
+    "Id": 17183487,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Infomation",
+    "Idx": 768,
+    "Id": 17183488,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Infomation2",
+    "Idx": 769,
+    "Id": 17183489,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yaibroux, T.K.",
+    "Idx": 783,
+    "Id": 17183503,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ortwin, I.M.",
+    "Idx": 784,
+    "Id": 17183504,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ringu-Tangu, C.C.",
+    "Idx": 785,
+    "Id": 17183505,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 786,
+    "Id": 17183506,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 787,
+    "Id": 17183507,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 788,
+    "Id": 17183508,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 789,
+    "Id": 17183509,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ulmer, C.A.",
+    "Idx": 790,
+    "Id": 17183510,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 791,
+    "Id": 17183511,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 792,
+    "Id": 17183512,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 793,
+    "Id": 17183513,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "_2ra",
+    "Idx": 794,
+    "Id": 17183514,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 795,
+    "Id": 17183515,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 796,
+    "Id": 17183516,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 797,
+    "Id": 17183517,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 798,
+    "Id": 17183518,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 799,
+    "Id": 17183519,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 800,
+    "Id": 17183520,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "A_2ry",
+    "Idx": 801,
+    "Id": 17183521,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 802,
+    "Id": 17183522,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 803,
+    "Id": 17183523,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "B_2rz",
+    "Idx": 804,
+    "Id": 17183524,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 805,
+    "Id": 17183525,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 806,
+    "Id": 17183526,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "C_kr0",
+    "Idx": 807,
+    "Id": 17183527,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 808,
+    "Id": 17183528,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 809,
+    "Id": 17183529,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "D_kr1",
+    "Idx": 810,
+    "Id": 17183530,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 811,
+    "Id": 17183531,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 812,
+    "Id": 17183532,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 813,
+    "Id": 17183533,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 814,
+    "Id": 17183534,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 815,
+    "Id": 17183535,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 816,
+    "Id": 17183536,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 817,
+    "Id": 17183537,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 818,
+    "Id": 17183538,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 819,
+    "Id": 17183539,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 820,
+    "Id": 17183540,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 821,
+    "Id": 17183541,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Collapsing Floor",
+    "Idx": 826,
+    "Id": 17183546,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ethereal Spout",
+    "Idx": 827,
+    "Id": 17183547,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ethereal Spout",
+    "Idx": 828,
+    "Id": 17183548,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ethereal Spout",
+    "Idx": 829,
+    "Id": 17183549,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "_kr6",
+    "Idx": 830,
+    "Id": 17183550,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "_kr7",
+    "Idx": 831,
+    "Id": 17183551,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "_2r9",
+    "Idx": 832,
+    "Id": 17183552,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "_2rm",
+    "Idx": 833,
+    "Id": 17183553,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "_2ro",
+    "Idx": 834,
+    "Id": 17183554,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "_2ru",
+    "Idx": 835,
+    "Id": 17183555,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Brass Door",
+    "Idx": 836,
+    "Id": 17183556,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Handle",
+    "Idx": 837,
+    "Id": 17183557,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Torch Stand",
+    "Idx": 838,
+    "Id": 17183558,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Torch Stand",
+    "Idx": 839,
+    "Id": 17183559,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Torch Stand",
+    "Idx": 840,
+    "Id": 17183560,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Torch Stand",
+    "Idx": 841,
+    "Id": 17183561,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 842,
+    "Id": 17183562,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Writhing Flame",
+    "Idx": 843,
+    "Id": 17183563,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 844,
+    "Id": 17183564,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Robel-Akbel",
+    "Idx": 845,
+    "Id": 17183565,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ghyo Molkot",
+    "Idx": 846,
+    "Id": 17183566,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nhiko Rhaabel",
+    "Idx": 847,
+    "Id": 17183567,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Romaa Mihgo",
+    "Idx": 848,
+    "Id": 17183568,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Prido-Homildo",
+    "Idx": 849,
+    "Id": 17183569,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Boo Kyeko the Ironfaith",
+    "Idx": 850,
+    "Id": 17183570,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Kaa Toru the Just",
+    "Idx": 851,
+    "Id": 17183571,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Allied Commissary",
+    "Idx": 852,
+    "Id": 17183572,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 853,
+    "Id": 17183573,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 854,
+    "Id": 17183574,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 855,
+    "Id": 17183575,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 856,
+    "Id": 17183576,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 857,
+    "Id": 17183577,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 858,
+    "Id": 17183578,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 860,
+    "Id": 17183580,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 861,
+    "Id": 17183581,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 862,
+    "Id": 17183582,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 863,
+    "Id": 17183583,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 864,
+    "Id": 17183584,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 865,
+    "Id": 17183585,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 866,
+    "Id": 17183586,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 867,
+    "Id": 17183587,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ramblix",
+    "Idx": 868,
+    "Id": 17183588,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Footprint",
+    "Idx": 869,
+    "Id": 17183589,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 870,
+    "Id": 17183590,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 871,
+    "Id": 17183591,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 872,
+    "Id": 17183592,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 873,
+    "Id": 17183593,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 874,
+    "Id": 17183594,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 875,
+    "Id": 17183595,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 876,
+    "Id": 17183596,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 877,
+    "Id": 17183597,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 878,
+    "Id": 17183598,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lehko Habhoka",
+    "Idx": 879,
+    "Id": 17183599,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lehko Habhoka",
+    "Idx": 880,
+    "Id": 17183600,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Lehko Habhoka",
+    "Idx": 881,
+    "Id": 17183601,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Perih Vashai",
+    "Idx": 882,
+    "Id": 17183602,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Syu Befrathi",
+    "Idx": 883,
+    "Id": 17183603,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shikaree G",
+    "Idx": 884,
+    "Id": 17183604,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Shikaree G",
+    "Idx": 885,
+    "Id": 17183605,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fenrir",
+    "Idx": 886,
+    "Id": 17183606,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu the Manifest",
+    "Idx": 887,
+    "Id": 17183607,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "01",
+    "Idx": 888,
+    "Id": 17183608,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "02",
+    "Idx": 889,
+    "Id": 17183609,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "03",
+    "Idx": 890,
+    "Id": 17183610,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "04",
+    "Idx": 891,
+    "Id": 17183611,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagu 01",
+    "Idx": 892,
+    "Id": 17183612,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagu 02",
+    "Idx": 893,
+    "Id": 17183613,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagu 03",
+    "Idx": 894,
+    "Id": 17183614,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagu 04",
+    "Idx": 895,
+    "Id": 17183615,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagu 05",
+    "Idx": 896,
+    "Id": 17183616,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Yagu 06",
+    "Idx": 897,
+    "Id": 17183617,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Imp",
+    "Idx": 898,
+    "Id": 17183618,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 899,
+    "Id": 17183619,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 900,
+    "Id": 17183620,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 901,
+    "Id": 17183621,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 902,
+    "Id": 17183622,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 903,
+    "Id": 17183623,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 904,
+    "Id": 17183624,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 905,
+    "Id": 17183625,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 906,
+    "Id": 17183626,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 907,
+    "Id": 17183627,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 908,
+    "Id": 17183628,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 909,
+    "Id": 17183629,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 910,
+    "Id": 17183630,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 911,
+    "Id": 17183631,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 912,
+    "Id": 17183632,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 913,
+    "Id": 17183633,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 914,
+    "Id": 17183634,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 915,
+    "Id": 17183635,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 916,
+    "Id": 17183636,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Iron Grille",
+    "Idx": 917,
+    "Id": 17183637,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 918,
+    "Id": 17183638,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 919,
+    "Id": 17183639,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Pedh Zhkek",
+    "Idx": 920,
+    "Id": 17183640,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Ruah Chodran",
+    "Idx": 921,
+    "Id": 17183641,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sooph Mreeblih",
+    "Idx": 922,
+    "Id": 17183642,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Koh Lenbalalako",
+    "Idx": 923,
+    "Id": 17183643,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "05",
+    "Idx": 924,
+    "Id": 17183644,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "06",
+    "Idx": 925,
+    "Id": 17183645,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mahk Rhyonja",
+    "Idx": 926,
+    "Id": 17183646,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "08",
+    "Idx": 927,
+    "Id": 17183647,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "hei01",
+    "Idx": 928,
+    "Id": 17183648,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "hei02",
+    "Idx": 929,
+    "Id": 17183649,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "p01",
+    "Idx": 930,
+    "Id": 17183650,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fenrir",
+    "Idx": 931,
+    "Id": 17183651,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Debug NPC",
+    "Idx": 932,
+    "Id": 17183652,
+    "ZoneId": 99,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

@@ -1,0 +1,2562 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tzee Xicu Idol",
+    "Idx": 1,
+    "Id": 17543169,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Maa Febi the Steadfast",
+    "Idx": 2,
+    "Id": 17543170,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Muu Febi the Steadfast",
+    "Idx": 3,
+    "Id": 17543171,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 4,
+    "Id": 17543172,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 5,
+    "Id": 17543173,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 6,
+    "Id": 17543174,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 7,
+    "Id": 17543175,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 8,
+    "Id": 17543176,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 9,
+    "Id": 17543177,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 10,
+    "Id": 17543178,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 11,
+    "Id": 17543179,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 12,
+    "Id": 17543180,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 13,
+    "Id": 17543181,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 14,
+    "Id": 17543182,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 15,
+    "Id": 17543183,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 16,
+    "Id": 17543184,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 17,
+    "Id": 17543185,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 18,
+    "Id": 17543186,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 19,
+    "Id": 17543187,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 20,
+    "Id": 17543188,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 21,
+    "Id": 17543189,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 22,
+    "Id": 17543190,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 23,
+    "Id": 17543191,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 24,
+    "Id": 17543192,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 25,
+    "Id": 17543193,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 26,
+    "Id": 17543194,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 27,
+    "Id": 17543195,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 28,
+    "Id": 17543196,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 29,
+    "Id": 17543197,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 30,
+    "Id": 17543198,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 31,
+    "Id": 17543199,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 32,
+    "Id": 17543200,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 33,
+    "Id": 17543201,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 34,
+    "Id": 17543202,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 35,
+    "Id": 17543203,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 36,
+    "Id": 17543204,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 37,
+    "Id": 17543205,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 38,
+    "Id": 17543206,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 39,
+    "Id": 17543207,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 40,
+    "Id": 17543208,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 41,
+    "Id": 17543209,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 42,
+    "Id": 17543210,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 43,
+    "Id": 17543211,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 44,
+    "Id": 17543212,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 45,
+    "Id": 17543213,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 46,
+    "Id": 17543214,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 47,
+    "Id": 17543215,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 48,
+    "Id": 17543216,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 49,
+    "Id": 17543217,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 50,
+    "Id": 17543218,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 51,
+    "Id": 17543219,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 52,
+    "Id": 17543220,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 53,
+    "Id": 17543221,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 54,
+    "Id": 17543222,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 55,
+    "Id": 17543223,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 56,
+    "Id": 17543224,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 57,
+    "Id": 17543225,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 58,
+    "Id": 17543226,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 59,
+    "Id": 17543227,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 60,
+    "Id": 17543228,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 61,
+    "Id": 17543229,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 62,
+    "Id": 17543230,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 63,
+    "Id": 17543231,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 64,
+    "Id": 17543232,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 65,
+    "Id": 17543233,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 66,
+    "Id": 17543234,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 67,
+    "Id": 17543235,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 68,
+    "Id": 17543236,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 69,
+    "Id": 17543237,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 70,
+    "Id": 17543238,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 71,
+    "Id": 17543239,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 72,
+    "Id": 17543240,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 73,
+    "Id": 17543241,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 74,
+    "Id": 17543242,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 75,
+    "Id": 17543243,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 76,
+    "Id": 17543244,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 77,
+    "Id": 17543245,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 78,
+    "Id": 17543246,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 79,
+    "Id": 17543247,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 80,
+    "Id": 17543248,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 81,
+    "Id": 17543249,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 82,
+    "Id": 17543250,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 83,
+    "Id": 17543251,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 84,
+    "Id": 17543252,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 85,
+    "Id": 17543253,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 86,
+    "Id": 17543254,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 87,
+    "Id": 17543255,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 88,
+    "Id": 17543256,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 89,
+    "Id": 17543257,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 90,
+    "Id": 17543258,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 91,
+    "Id": 17543259,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 92,
+    "Id": 17543260,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 93,
+    "Id": 17543261,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 94,
+    "Id": 17543262,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 95,
+    "Id": 17543263,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 96,
+    "Id": 17543264,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 97,
+    "Id": 17543265,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 98,
+    "Id": 17543266,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 99,
+    "Id": 17543267,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 100,
+    "Id": 17543268,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 101,
+    "Id": 17543269,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 102,
+    "Id": 17543270,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 103,
+    "Id": 17543271,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 104,
+    "Id": 17543272,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 105,
+    "Id": 17543273,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 106,
+    "Id": 17543274,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 107,
+    "Id": 17543275,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 108,
+    "Id": 17543276,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 109,
+    "Id": 17543277,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 110,
+    "Id": 17543278,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 111,
+    "Id": 17543279,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 112,
+    "Id": 17543280,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 113,
+    "Id": 17543281,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 114,
+    "Id": 17543282,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 115,
+    "Id": 17543283,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 116,
+    "Id": 17543284,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 117,
+    "Id": 17543285,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 118,
+    "Id": 17543286,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 119,
+    "Id": 17543287,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 120,
+    "Id": 17543288,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 121,
+    "Id": 17543289,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 122,
+    "Id": 17543290,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 123,
+    "Id": 17543291,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 124,
+    "Id": 17543292,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 125,
+    "Id": 17543293,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Haa Pevi the Stentorian",
+    "Idx": 126,
+    "Id": 17543294,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 127,
+    "Id": 17543295,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 128,
+    "Id": 17543296,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 129,
+    "Id": 17543297,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 130,
+    "Id": 17543298,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 131,
+    "Id": 17543299,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 132,
+    "Id": 17543300,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 133,
+    "Id": 17543301,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 134,
+    "Id": 17543302,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 135,
+    "Id": 17543303,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 136,
+    "Id": 17543304,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 137,
+    "Id": 17543305,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 138,
+    "Id": 17543306,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 139,
+    "Id": 17543307,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 140,
+    "Id": 17543308,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 141,
+    "Id": 17543309,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 142,
+    "Id": 17543310,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 143,
+    "Id": 17543311,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 144,
+    "Id": 17543312,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 145,
+    "Id": 17543313,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 146,
+    "Id": 17543314,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 147,
+    "Id": 17543315,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 148,
+    "Id": 17543316,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 149,
+    "Id": 17543317,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 150,
+    "Id": 17543318,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 151,
+    "Id": 17543319,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 152,
+    "Id": 17543320,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 153,
+    "Id": 17543321,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 154,
+    "Id": 17543322,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 155,
+    "Id": 17543323,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 156,
+    "Id": 17543324,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 157,
+    "Id": 17543325,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 158,
+    "Id": 17543326,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 159,
+    "Id": 17543327,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 160,
+    "Id": 17543328,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 161,
+    "Id": 17543329,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 162,
+    "Id": 17543330,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 163,
+    "Id": 17543331,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 164,
+    "Id": 17543332,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 165,
+    "Id": 17543333,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 166,
+    "Id": 17543334,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 167,
+    "Id": 17543335,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 168,
+    "Id": 17543336,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 169,
+    "Id": 17543337,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 170,
+    "Id": 17543338,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 171,
+    "Id": 17543339,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 172,
+    "Id": 17543340,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 173,
+    "Id": 17543341,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 174,
+    "Id": 17543342,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 175,
+    "Id": 17543343,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 176,
+    "Id": 17543344,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Loo Hepe the Eyepiercer",
+    "Idx": 177,
+    "Id": 17543345,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 178,
+    "Id": 17543346,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 179,
+    "Id": 17543347,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 180,
+    "Id": 17543348,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 181,
+    "Id": 17543349,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 182,
+    "Id": 17543350,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 183,
+    "Id": 17543351,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 184,
+    "Id": 17543352,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 185,
+    "Id": 17543353,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 186,
+    "Id": 17543354,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 187,
+    "Id": 17543355,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 188,
+    "Id": 17543356,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Wuu Qoho the Razorclaw",
+    "Idx": 189,
+    "Id": 17543357,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 190,
+    "Id": 17543358,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 191,
+    "Id": 17543359,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 192,
+    "Id": 17543360,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 193,
+    "Id": 17543361,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 194,
+    "Id": 17543362,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 195,
+    "Id": 17543363,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 196,
+    "Id": 17543364,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 197,
+    "Id": 17543365,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 198,
+    "Id": 17543366,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 199,
+    "Id": 17543367,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 200,
+    "Id": 17543368,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 201,
+    "Id": 17543369,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 202,
+    "Id": 17543370,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 203,
+    "Id": 17543371,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 204,
+    "Id": 17543372,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 205,
+    "Id": 17543373,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 206,
+    "Id": 17543374,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Xoo Kaza the Solemn",
+    "Idx": 207,
+    "Id": 17543375,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 208,
+    "Id": 17543376,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 209,
+    "Id": 17543377,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 210,
+    "Id": 17543378,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 211,
+    "Id": 17543379,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 212,
+    "Id": 17543380,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 213,
+    "Id": 17543381,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 214,
+    "Id": 17543382,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 215,
+    "Id": 17543383,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 216,
+    "Id": 17543384,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 217,
+    "Id": 17543385,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 218,
+    "Id": 17543386,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 219,
+    "Id": 17543387,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 220,
+    "Id": 17543388,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 221,
+    "Id": 17543389,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 222,
+    "Id": 17543390,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 223,
+    "Id": 17543391,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 224,
+    "Id": 17543392,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 225,
+    "Id": 17543393,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 226,
+    "Id": 17543394,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 227,
+    "Id": 17543395,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 228,
+    "Id": 17543396,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 229,
+    "Id": 17543397,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 230,
+    "Id": 17543398,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 231,
+    "Id": 17543399,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 232,
+    "Id": 17543400,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 233,
+    "Id": 17543401,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 234,
+    "Id": 17543402,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 235,
+    "Id": 17543403,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 236,
+    "Id": 17543404,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 237,
+    "Id": 17543405,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Ogresoother",
+    "Idx": 238,
+    "Id": 17543406,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Crow",
+    "Idx": 239,
+    "Id": 17543407,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 240,
+    "Id": 17543408,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 241,
+    "Id": 17543409,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 242,
+    "Id": 17543410,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 243,
+    "Id": 17543411,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 244,
+    "Id": 17543412,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 245,
+    "Id": 17543413,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 246,
+    "Id": 17543414,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 247,
+    "Id": 17543415,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 248,
+    "Id": 17543416,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 249,
+    "Id": 17543417,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 250,
+    "Id": 17543418,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 251,
+    "Id": 17543419,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 252,
+    "Id": 17543420,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 253,
+    "Id": 17543421,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 254,
+    "Id": 17543422,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 255,
+    "Id": 17543423,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 256,
+    "Id": 17543424,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 257,
+    "Id": 17543425,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 258,
+    "Id": 17543426,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 259,
+    "Id": 17543427,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 260,
+    "Id": 17543428,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 261,
+    "Id": 17543429,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 262,
+    "Id": 17543430,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Partisan",
+    "Idx": 263,
+    "Id": 17543431,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Wyvern",
+    "Idx": 264,
+    "Id": 17543432,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 265,
+    "Id": 17543433,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 266,
+    "Id": 17543434,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 267,
+    "Id": 17543435,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 268,
+    "Id": 17543436,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 269,
+    "Id": 17543437,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 270,
+    "Id": 17543438,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 271,
+    "Id": 17543439,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 272,
+    "Id": 17543440,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 273,
+    "Id": 17543441,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 274,
+    "Id": 17543442,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 275,
+    "Id": 17543443,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 276,
+    "Id": 17543444,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 277,
+    "Id": 17543445,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Idol",
+    "Idx": 278,
+    "Id": 17543446,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Skirmisher",
+    "Idx": 279,
+    "Id": 17543447,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Sentinel",
+    "Idx": 280,
+    "Id": 17543448,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Priest",
+    "Idx": 281,
+    "Id": 17543449,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Prelate",
+    "Idx": 282,
+    "Id": 17543450,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Visionary",
+    "Idx": 283,
+    "Id": 17543451,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Liberator",
+    "Idx": 284,
+    "Id": 17543452,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Exemplar",
+    "Idx": 285,
+    "Id": 17543453,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Inciter",
+    "Idx": 286,
+    "Id": 17543454,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Chanter",
+    "Idx": 287,
+    "Id": 17543455,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Salvager",
+    "Idx": 288,
+    "Id": 17543456,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Persecutor",
+    "Idx": 289,
+    "Id": 17543457,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Assassin",
+    "Idx": 290,
+    "Id": 17543458,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard Oracle",
+    "Idx": 291,
+    "Id": 17543459,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Vanguard's Avatar",
+    "Idx": 292,
+    "Id": 17543460,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 293,
+    "Id": 17543461,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 294,
+    "Id": 17543462,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Avatar Icon",
+    "Idx": 295,
+    "Id": 17543463,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Xuu Bhoqa the Enigma",
+    "Idx": 296,
+    "Id": 17543464,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Xuu Bhoqa's Avatar",
+    "Idx": 297,
+    "Id": 17543465,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Fuu Tzapo the Blessed",
+    "Idx": 298,
+    "Id": 17543466,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Naa Yixo the Stillrage",
+    "Idx": 299,
+    "Id": 17543467,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Tee Zaksa the Ceaseless",
+    "Idx": 300,
+    "Id": 17543468,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Arch Tzee Xicu Idol",
+    "Idx": 301,
+    "Id": 17543469,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 303,
+    "Id": 17543471,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 304,
+    "Id": 17543472,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 309,
+    "Id": 17543477,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Somnial Threshold",
+    "Idx": 310,
+    "Id": 17543478,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 311,
+    "Id": 17543479,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 312,
+    "Id": 17543480,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 313,
+    "Id": 17543481,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 314,
+    "Id": 17543482,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 315,
+    "Id": 17543483,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 316,
+    "Id": 17543484,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 318,
+    "Id": 17543486,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 319,
+    "Id": 17543487,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 320,
+    "Id": 17543488,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 321,
+    "Id": 17543489,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 322,
+    "Id": 17543490,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 323,
+    "Id": 17543491,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 324,
+    "Id": 17543492,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 325,
+    "Id": 17543493,
+    "ZoneId": 187,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

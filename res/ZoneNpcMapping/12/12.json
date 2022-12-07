@@ -1,0 +1,2066 @@
+[
+  {
+    "Name": "none",
+    "Idx": 0,
+    "Id": 0,
+    "ZoneId": 61440,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 1,
+    "Id": 16826369,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 2,
+    "Id": 16826370,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 3,
+    "Id": 16826371,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 4,
+    "Id": 16826372,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 5,
+    "Id": 16826373,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 6,
+    "Id": 16826374,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 7,
+    "Id": 16826375,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 8,
+    "Id": 16826376,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 9,
+    "Id": 16826377,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 10,
+    "Id": 16826378,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Watchman",
+    "Idx": 11,
+    "Id": 16826379,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Watchman",
+    "Idx": 12,
+    "Id": 16826380,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 13,
+    "Id": 16826381,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 14,
+    "Id": 16826382,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 15,
+    "Id": 16826383,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 16,
+    "Id": 16826384,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 17,
+    "Id": 16826385,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 18,
+    "Id": 16826386,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Tankman",
+    "Idx": 19,
+    "Id": 16826387,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 20,
+    "Id": 16826388,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 21,
+    "Id": 16826389,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 22,
+    "Id": 16826390,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 23,
+    "Id": 16826391,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 24,
+    "Id": 16826392,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 25,
+    "Id": 16826393,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 26,
+    "Id": 16826394,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 27,
+    "Id": 16826395,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 28,
+    "Id": 16826396,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 29,
+    "Id": 16826397,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 30,
+    "Id": 16826398,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 31,
+    "Id": 16826399,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 32,
+    "Id": 16826400,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Yardman",
+    "Idx": 33,
+    "Id": 16826401,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 34,
+    "Id": 16826402,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 35,
+    "Id": 16826403,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 36,
+    "Id": 16826404,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 37,
+    "Id": 16826405,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 38,
+    "Id": 16826406,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 39,
+    "Id": 16826407,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Succubus Bats",
+    "Idx": 40,
+    "Id": 16826408,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Succubus Bats",
+    "Idx": 41,
+    "Id": 16826409,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Yardman",
+    "Idx": 42,
+    "Id": 16826410,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Tankman",
+    "Idx": 43,
+    "Id": 16826411,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Tankman",
+    "Idx": 44,
+    "Id": 16826412,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 45,
+    "Id": 16826413,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 46,
+    "Id": 16826414,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 47,
+    "Id": 16826415,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 48,
+    "Id": 16826416,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 49,
+    "Id": 16826417,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 50,
+    "Id": 16826418,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 51,
+    "Id": 16826419,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 52,
+    "Id": 16826420,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 53,
+    "Id": 16826421,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 54,
+    "Id": 16826422,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Yardman",
+    "Idx": 55,
+    "Id": 16826423,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 56,
+    "Id": 16826424,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 57,
+    "Id": 16826425,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Tankman",
+    "Idx": 58,
+    "Id": 16826426,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Dire Bat",
+    "Idx": 59,
+    "Id": 16826427,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 60,
+    "Id": 16826428,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 61,
+    "Id": 16826429,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Succubus Bats",
+    "Idx": 62,
+    "Id": 16826430,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 63,
+    "Id": 16826431,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Tankman",
+    "Idx": 64,
+    "Id": 16826432,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Succubus Bats",
+    "Idx": 65,
+    "Id": 16826433,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 66,
+    "Id": 16826434,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Earth Elemental",
+    "Idx": 67,
+    "Id": 16826435,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 68,
+    "Id": 16826436,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 69,
+    "Id": 16826437,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 70,
+    "Id": 16826438,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 71,
+    "Id": 16826439,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Watchman",
+    "Idx": 72,
+    "Id": 16826440,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Watchman",
+    "Idx": 73,
+    "Id": 16826441,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 74,
+    "Id": 16826442,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 75,
+    "Id": 16826443,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 76,
+    "Id": 16826444,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 77,
+    "Id": 16826445,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 78,
+    "Id": 16826446,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 79,
+    "Id": 16826447,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Yardman",
+    "Idx": 80,
+    "Id": 16826448,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 81,
+    "Id": 16826449,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 82,
+    "Id": 16826450,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 83,
+    "Id": 16826451,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Tankman",
+    "Idx": 84,
+    "Id": 16826452,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 85,
+    "Id": 16826453,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 86,
+    "Id": 16826454,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 87,
+    "Id": 16826455,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Yardman",
+    "Idx": 88,
+    "Id": 16826456,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Succubus Bats",
+    "Idx": 89,
+    "Id": 16826457,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 90,
+    "Id": 16826458,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 91,
+    "Id": 16826459,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 92,
+    "Id": 16826460,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Succubus Bats",
+    "Idx": 93,
+    "Id": 16826461,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 94,
+    "Id": 16826462,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Earth Elemental",
+    "Idx": 95,
+    "Id": 16826463,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 96,
+    "Id": 16826464,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Tankman",
+    "Idx": 97,
+    "Id": 16826465,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 98,
+    "Id": 16826466,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Workman",
+    "Idx": 99,
+    "Id": 16826467,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Yardman",
+    "Idx": 100,
+    "Id": 16826468,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 101,
+    "Id": 16826469,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Fireman",
+    "Idx": 102,
+    "Id": 16826470,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Packman",
+    "Idx": 103,
+    "Id": 16826471,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 104,
+    "Id": 16826472,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Draftsman",
+    "Idx": 105,
+    "Id": 16826473,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sword Sorcerer Solisoq",
+    "Idx": 106,
+    "Id": 16826474,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Foreman",
+    "Idx": 107,
+    "Id": 16826475,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 108,
+    "Id": 16826476,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Lengthman",
+    "Idx": 109,
+    "Id": 16826477,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Trashman",
+    "Idx": 110,
+    "Id": 16826478,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Watchman",
+    "Idx": 111,
+    "Id": 16826479,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Headman",
+    "Idx": 112,
+    "Id": 16826480,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 113,
+    "Id": 16826481,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 114,
+    "Id": 16826482,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Junkman",
+    "Idx": 115,
+    "Id": 16826483,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 116,
+    "Id": 16826484,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Purgatory Bat",
+    "Idx": 117,
+    "Id": 16826485,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Junkman",
+    "Idx": 118,
+    "Id": 16826486,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Topsman",
+    "Idx": 119,
+    "Id": 16826487,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Deathsman",
+    "Idx": 120,
+    "Id": 16826488,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Watchman",
+    "Idx": 121,
+    "Id": 16826489,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Watchman",
+    "Idx": 122,
+    "Id": 16826490,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Marksman",
+    "Idx": 123,
+    "Id": 16826491,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Headman",
+    "Idx": 124,
+    "Id": 16826492,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 125,
+    "Id": 16826493,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Deathsman",
+    "Idx": 126,
+    "Id": 16826494,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 127,
+    "Id": 16826495,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 128,
+    "Id": 16826496,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Roadman",
+    "Idx": 129,
+    "Id": 16826497,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 130,
+    "Id": 16826498,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 131,
+    "Id": 16826499,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Hangman",
+    "Idx": 132,
+    "Id": 16826500,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Junkman",
+    "Idx": 133,
+    "Id": 16826501,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Purgatory Bat",
+    "Idx": 134,
+    "Id": 16826502,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Purgatory Bat",
+    "Idx": 135,
+    "Id": 16826503,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 136,
+    "Id": 16826504,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 137,
+    "Id": 16826505,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Nightmare Bats",
+    "Idx": 138,
+    "Id": 16826506,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Swordsman",
+    "Idx": 139,
+    "Id": 16826507,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 140,
+    "Id": 16826508,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 141,
+    "Id": 16826509,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swashstox Beadblinker",
+    "Idx": 142,
+    "Id": 16826510,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 143,
+    "Id": 16826511,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 144,
+    "Id": 16826512,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Groundman",
+    "Idx": 145,
+    "Id": 16826513,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Swordsman",
+    "Idx": 146,
+    "Id": 16826514,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 147,
+    "Id": 16826515,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 148,
+    "Id": 16826516,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Swashstox Beadblinker",
+    "Idx": 149,
+    "Id": 16826517,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 150,
+    "Id": 16826518,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 151,
+    "Id": 16826519,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Groundman",
+    "Idx": 152,
+    "Id": 16826520,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Junkman",
+    "Idx": 153,
+    "Id": 16826521,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Roadman",
+    "Idx": 154,
+    "Id": 16826522,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Headman",
+    "Idx": 155,
+    "Id": 16826523,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 156,
+    "Id": 16826524,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Deathsman",
+    "Idx": 157,
+    "Id": 16826525,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Marksman",
+    "Idx": 158,
+    "Id": 16826526,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Junkman",
+    "Idx": 159,
+    "Id": 16826527,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Headman",
+    "Idx": 160,
+    "Id": 16826528,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 161,
+    "Id": 16826529,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 162,
+    "Id": 16826530,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 163,
+    "Id": 16826531,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Hangman",
+    "Idx": 164,
+    "Id": 16826532,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Deathsman",
+    "Idx": 165,
+    "Id": 16826533,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Hangman",
+    "Idx": 166,
+    "Id": 16826534,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Topsman",
+    "Idx": 167,
+    "Id": 16826535,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Deathsman",
+    "Idx": 168,
+    "Id": 16826536,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 169,
+    "Id": 16826537,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 170,
+    "Id": 16826538,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Topsman",
+    "Idx": 171,
+    "Id": 16826539,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Headman",
+    "Idx": 172,
+    "Id": 16826540,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin's Bat",
+    "Idx": 173,
+    "Id": 16826541,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Hangman",
+    "Idx": 174,
+    "Id": 16826542,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Marksman",
+    "Idx": 175,
+    "Id": 16826543,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Roadman",
+    "Idx": 176,
+    "Id": 16826544,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Marksman",
+    "Idx": 177,
+    "Id": 16826545,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 178,
+    "Id": 16826546,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Swordsman",
+    "Idx": 179,
+    "Id": 16826547,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 180,
+    "Id": 16826548,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Topsman",
+    "Idx": 181,
+    "Id": 16826549,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 182,
+    "Id": 16826550,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Roadman",
+    "Idx": 183,
+    "Id": 16826551,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Roadman",
+    "Idx": 184,
+    "Id": 16826552,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Topsman",
+    "Idx": 185,
+    "Id": 16826553,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Roadman",
+    "Idx": 186,
+    "Id": 16826554,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Roadman",
+    "Idx": 187,
+    "Id": 16826555,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Topsman",
+    "Idx": 188,
+    "Id": 16826556,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Topsman",
+    "Idx": 189,
+    "Id": 16826557,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 190,
+    "Id": 16826558,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Aidman",
+    "Idx": 191,
+    "Id": 16826559,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 192,
+    "Id": 16826560,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Engineman",
+    "Idx": 193,
+    "Id": 16826561,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Thunder Elemental",
+    "Idx": 194,
+    "Id": 16826562,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Earth Elemental",
+    "Idx": 195,
+    "Id": 16826563,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mimic",
+    "Idx": 196,
+    "Id": 16826564,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Scalpelman",
+    "Idx": 197,
+    "Id": 16826565,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Scalpelman",
+    "Idx": 198,
+    "Id": 16826566,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Scalpelman",
+    "Idx": 199,
+    "Id": 16826567,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Scalpelman",
+    "Idx": 200,
+    "Id": 16826568,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Goblin Collector",
+    "Idx": 201,
+    "Id": 16826569,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bugbear Matman",
+    "Idx": 202,
+    "Id": 16826570,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "???",
+    "Idx": 204,
+    "Id": 16826572,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moblin Showman",
+    "Idx": 205,
+    "Id": 16826573,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
+    "Idx": 206,
+    "Id": 16826574,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Unity Master",
+    "Idx": 207,
+    "Id": 16826575,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_master",
+    "Idx": 213,
+    "Id": 16826581,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_00",
+    "Idx": 214,
+    "Id": 16826582,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_01",
+    "Idx": 215,
+    "Id": 16826583,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_02",
+    "Idx": 216,
+    "Id": 16826584,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_03",
+    "Idx": 217,
+    "Id": 16826585,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_04",
+    "Idx": 218,
+    "Id": 16826586,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_05",
+    "Idx": 219,
+    "Id": 16826587,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_06",
+    "Idx": 220,
+    "Id": 16826588,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_07",
+    "Idx": 221,
+    "Id": 16826589,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_08",
+    "Idx": 222,
+    "Id": 16826590,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_09",
+    "Idx": 223,
+    "Id": 16826591,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_10",
+    "Idx": 224,
+    "Id": 16826592,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "door_11",
+    "Idx": 225,
+    "Id": 16826593,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cc",
+    "Idx": 226,
+    "Id": 16826594,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cd",
+    "Idx": 227,
+    "Id": 16826595,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0ce",
+    "Idx": 228,
+    "Id": 16826596,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cf",
+    "Idx": 229,
+    "Id": 16826597,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cg",
+    "Idx": 230,
+    "Id": 16826598,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0ch",
+    "Idx": 231,
+    "Id": 16826599,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0ci",
+    "Idx": 232,
+    "Id": 16826600,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cj",
+    "Idx": 233,
+    "Id": 16826601,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0ck",
+    "Idx": 234,
+    "Id": 16826602,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cl",
+    "Idx": 235,
+    "Id": 16826603,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cm",
+    "Idx": 236,
+    "Id": 16826604,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "FX_0cn",
+    "Idx": 237,
+    "Id": 16826605,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Sleakachiq",
+    "Idx": 238,
+    "Id": 16826606,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Furnace Hatch",
+    "Idx": 239,
+    "Id": 16826607,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Furnace Hatch",
+    "Idx": 240,
+    "Id": 16826608,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Furnace Hatch",
+    "Idx": 241,
+    "Id": 16826609,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Furnace Hatch",
+    "Idx": 242,
+    "Id": 16826610,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Furnace Hatch",
+    "Idx": 243,
+    "Id": 16826611,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 245,
+    "Id": 16826613,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 246,
+    "Id": 16826614,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 247,
+    "Id": 16826615,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 248,
+    "Id": 16826616,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 249,
+    "Id": 16826617,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 250,
+    "Id": 16826618,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 251,
+    "Id": 16826619,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 252,
+    "Id": 16826620,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 253,
+    "Id": 16826621,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 254,
+    "Id": 16826622,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 255,
+    "Id": 16826623,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 256,
+    "Id": 16826624,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 257,
+    "Id": 16826625,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Mining Point",
+    "Idx": 258,
+    "Id": 16826626,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Treasure Coffer",
+    "Idx": 259,
+    "Id": 16826627,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #1",
+    "Idx": 260,
+    "Id": 16826628,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #2",
+    "Idx": 261,
+    "Id": 16826629,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #3",
+    "Idx": 262,
+    "Id": 16826630,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #4",
+    "Idx": 263,
+    "Id": 16826631,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #5",
+    "Idx": 264,
+    "Id": 16826632,
+    "ZoneId": 12,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  }
+]

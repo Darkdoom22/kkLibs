@@ -1,0 +1,11 @@
+return {{name="none", id=0, index=0, zoneId=61440},
+{name="Achieve Master", id=17321985, index=1, zoneId=133},
+{name="Moogle", id=17321992, index=8, zoneId=133},
+{name="Moogle", id=17321993, index=9, zoneId=133},
+{name="Moogle", id=17321994, index=10, zoneId=133},
+{name="Moogle", id=17321995, index=11, zoneId=133},
+{name="Moogle", id=17321996, index=12, zoneId=133},
+{name="Moogle", id=17321997, index=13, zoneId=133},
+{name="Moogle", id=17321998, index=14, zoneId=133},
+{name="Moogle", id=17321999, index=15, zoneId=133},
+}
