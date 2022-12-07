@@ -11,7 +11,6 @@ local Vector3 = {
 }
 
 local MetaTable = {
-    __call = Vec3,
     __index = Vector3,
     __class = "Vector3",
     __tostring = function(self)
@@ -74,6 +73,11 @@ function Vector3:New(x, z, y)
     self.z = z
     self.y = y
     return self
+end
+
+function Vector3:CalculateFacingAngle(other)
+   local deg = (math.atan2(other.y - self.y, other.x - self.x) * 180 / math.pi) * -1;
+   return math.rad(deg)
 end
 
 function Vector3:Distance(other)

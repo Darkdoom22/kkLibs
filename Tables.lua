@@ -11,7 +11,6 @@ local Tables = {
 }
 
 local MetaTable = {
-    __call = T,
     __index = Tables,
 }
 
