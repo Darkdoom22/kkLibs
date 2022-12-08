@@ -57,8 +57,6 @@ function Navigation:TryLoadMesh()
             local success = LoadMesh(path)
             if(success > 0)then
                 print("Mesh loaded for zone "..zoneName.."\n")
-                self.CurrentPath = T{}
-                self.BestWaypoint = Vec3{}
                 return true
             end
             print("Failed to load mesh for zone "..zoneName.."\n")
