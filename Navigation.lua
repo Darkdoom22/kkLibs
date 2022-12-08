@@ -29,6 +29,7 @@ local Navigation = {
     BestWaypoint = Vec3{},
     CurrentGoal = Vec3{},
     NumWaypointsLeftBeforeUpdatingPath = 3,
+    LastPathUpdate = os.clock(),
 }
 
 local MetaTable = {
@@ -68,12 +69,13 @@ end
 --nav dll expects y and z flipped
 function Navigation:FindPath(dest)
     local localActor = GetLocalActor()
-    if(localActor and self.CurrentPath and self.CurrentPath:Length() == 0)then 
+    if(localActor and self.CurrentPath and os.clock() - self.LastPathUpdate > 1)then
+        local flipDest = {x = dest.x, y = dest.z, z = dest.y}
         local ourPos = {x = localActor.X, y = localActor.Z, z = localActor.Y}
-        local waypoints = T(FindPath(ourPos, dest))
-       -- print("Found "..waypoints:Length().." waypoints\n")
+        local waypoints = T(FindPath(ourPos, flipDest))
         self.CurrentPath = waypoints
         self.CurrentGoal = dest
+        self.LastPathUpdate = os.clock()
         return waypoints:Length()
     end
 end
@@ -84,27 +86,22 @@ function Navigation:MoveToBestWaypoint()
         local ourPos = Vec3{localActor.X, localActor.Y, localActor.Z}
         local nextWp = self.CurrentPath:First()
         if(nextWp)then
-            --print("Best waypoint found\n")
-            local dist = ourPos:Distance(nextWp)
-            --print("Distance to waypoint: "..dist.."\n")
-            --print("wp: "..nextWp.x..", "..nextWp.z..", "..nextWp.y.."\n")
-            if(dist > 2.5)then
-                self.BestWaypoint = Vec3{nextWp.x, nextWp.y, nextWp.z}
-                --print(string.format("Moving to waypoint: %s, %s, %s\n", nextWp.x, nextWp.z, nextWp.y))
+            local dist = ourPos:Distance(Vec3(nextWp.x, nextWp.z, nextWp.y))
+            if(dist > 2.9)then
                 GameManager:GetMovementManager():MoveTo(nextWp.x, nextWp.y, nextWp.z)--todo standardize capitalization
             else
-                --print("Waypoint reached\n")
                 self.CurrentPath:Remove(nextWp)
             end
         else
-            print("No best waypoint found\n")
+            self.CurrentPath = T{}
+            GameManager:GetMovementManager():CancelMovement()
         end
     end
 end
 
 --NOTE: only call this method from addon["Present"]
 function Navigation:DrawWaypointsWS()
-    local count = 0
+    local count = 1
     for wp in self.CurrentPath:It() do
         DrawOutlinedTextWS(string.format("Waypoint: %s", count), 50, 200, 50, wp.x, wp.y, wp.z)
         count = count + 1
