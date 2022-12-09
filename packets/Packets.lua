@@ -9,6 +9,22 @@ local ffi = require("ffi")
 local reflect = require("libs.reflect")
 
 ffi.cdef[[
+    /*Outgoing*/
+    struct ActionPacket
+    {
+        uint32_t Header;
+        uint32_t TargetId;
+        uint16_t TargetIndex;
+        uint16_t Category;
+        uint16_t Parameter;
+        uint16_t Unk1;
+        float XOffset; //for geo bubble positioning system
+        float ZOffset;
+        float YOffset;
+    }
+
+    /*Incoming*/       
+
     struct RecvCharNpc          //incoming 0x00E
     {
         uint32_t Header;
