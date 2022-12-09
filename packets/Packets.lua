@@ -10,7 +10,7 @@ local reflect = require("libs.reflect")
 
 ffi.cdef[[
     /*Outgoing*/
-    struct ActionPacket
+    struct ActionPacket         //outgoing 0x01A
     {
         uint32_t Header;
         uint32_t TargetId;
@@ -21,7 +21,22 @@ ffi.cdef[[
         float XOffset; //for geo bubble positioning system
         float ZOffset;
         float YOffset;
-    }
+    };
+
+    struct SendCharPos          //outgoing 0x015
+    {
+        uint32_t Header;
+        float X;
+        float Z;
+        float Y;
+        uint16_t pad;
+        uint16_t RunCount;
+        uint8_t EncodedRotation;
+        uint8_t Flags;
+        uint16_t TargetIndex;
+        uint32_t Timestamp;
+        uint32_t junk; //this and pad are never set in XiAtelBuff::SendCharPos
+    };
 
     /*Incoming*/       
 
@@ -48,7 +63,20 @@ ffi.cdef[[
         char Name[18];
     };
 
-    struct RecvEventCalc         //incoming 0x032
+    struct RecvBattleMessage    //incoming 0x029
+    {
+        uint32_t Header;
+        uint32_t ActorId;
+        uint32_t TargetId;
+        uint16_t CommandMessWork;   //_CommandMessWork = localActionmsg->Param1;
+        uint16_t CommandMessWork2;  //DAT_10474a9c = localActionmsg->Param2;
+        uint16_t ActorIndex;        //_MESCASNAMEINDEX = localActionmsg->ActorIndex;
+        uint16_t TargetIndex;       //_MESTARNAMEINDEX = localActionmsg->TargetIndex;
+        uint16_t Message;
+        uint16_t Unk1;
+    };
+
+    struct RecvEventCalc        //incoming 0x032
     {
         uint32_t Header;
         uint32_t NpcId;         //_CliEventUniqueNo_NpcId = pEVar1->field4_0x4;
@@ -88,22 +116,26 @@ local Packets = {
 Packets.strDefs = {
     incoming = {
         [0x0E] = {type=ffi.typeof("struct RecvCharNpc"), name="RecvCharNpc"},
+        [0x29] = {type=ffi.typeof("struct RecvBattleMessage"), name="RecvBattleMessage"},
         [0x32] = {type=ffi.typeof("struct RecvEventCalc"), name="RecvEventCalc"},
-        [0x34] = {type=ffi.typeof("struct RecvEventCalcNum", name="RecvEventCalcNum")}
+        [0x34] = {type=ffi.typeof("struct RecvEventCalcNum"), name="RecvEventCalcNum"},
     },
     outgoing = {
-
+        [0x15] = {type=ffi.typeof("struct SendCharPos"), name="SendCharPos"},
+        [0x1A] = {type=ffi.typeof("struct ActionPacket"), name="ActionPacket"}
     },
 }
 
 Packets.defs = {
     incoming = { 
         [0x0E] = ffi.typeof("struct RecvCharNpc*"),
+        [0x29] = ffi.typeof("struct RecvBattleMessage*"),
         [0x32] = ffi.typeof("struct RecvEventCalc*"),
         [0x34] = ffi.typeof("struct RecvEventCalcNum*")
     },
     outgoing = {
-
+        [0x15] = ffi.typeof("struct SendCharPos*"),
+        [0x1A] = ffi.typeof("struct ActionPacket*")
     },
 }
 
@@ -111,7 +143,7 @@ local MetaTable = {
     __index = Packets,
 }
 
-local function ToBits(num)
+local function ToBits(num) --todo: this has a bug with floats, need to fix
     local t = {}
     while num > 0 do
         rest = math.fmod(num,2)
