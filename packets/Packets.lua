@@ -4,27 +4,12 @@
     Notes: This is a work in progress, lot to do
 ]]
 
---package.loaded["ffi"] = nil
+package.loaded["ffi"] = nil
 local ffi = require("ffi")
 local reflect = require("libs.reflect")
 
 ffi.cdef[[
-    struct RecvMenuCalc         //incoming 0x032
-    {
-        uint32_t Header;
-        uint32_t NpcId;         //_CliEventUniqueNo_NpcId = pEVar1->field4_0x4;
-        uint16_t NpcIndex;      //_CliEventIndex_NpcIndex = pEVar1->field5_0x8;
-        uint16_t ZoneId;        //_CliEventNum_ZoneId = pEVar1->field6_0xa;
-        uint16_t MenuId;        //_CliEventParam_MenuId = pEVar1->field7_0xc;
-        uint16_t CliEventMode;  //__CliEventMode = param_3->field8_0xe | 0x2000; not sure what this is used for
-        uint16_t SubZoneId;     /*if ((subZoneId < 1000) || (0x513 < subZoneId)) {
-                                    subZoneId = pktSubZoneId;
-                                    if (zoneId == pktSubZoneId) goto LAB_100ad3dd;
-                                }
-                                zoneId = subZoneId + 1000*/
-        uint16_t unk;           //set from each flavor of menu interaction packets, only used in one place (possibly related to menu ui)
-    }; 
-    struct RecvCharNpc//incoming 0x00E
+    struct RecvCharNpc          //incoming 0x00E
     {
         uint32_t Header;
         uint32_t NpcId;
@@ -46,6 +31,37 @@ ffi.cdef[[
         uint16_t Model;
         char Name[18];
     };
+
+    struct RecvEventCalc         //incoming 0x032
+    {
+        uint32_t Header;
+        uint32_t NpcId;         //_CliEventUniqueNo_NpcId = pEVar1->field4_0x4;
+        uint16_t NpcIndex;      //_CliEventIndex_NpcIndex = pEVar1->field5_0x8;
+        uint16_t ZoneId;        //_CliEventNum_ZoneId = pEVar1->field6_0xa;
+        uint16_t MenuId;        //_CliEventParam_MenuId = pEVar1->field7_0xc;
+        uint16_t CliEventMode;  //__CliEventMode = param_3->field8_0xe | 0x2000; not sure what this is used for
+        uint16_t SubZoneId;     /*if ((subZoneId < 1000) || (0x513 < subZoneId)) {
+                                    subZoneId = pktSubZoneId;
+                                    if (zoneId == pktSubZoneId) goto LAB_100ad3dd;
+                                }
+                                zoneId = subZoneId + 1000*/
+        uint16_t unk;           //set from each flavor of menu interaction packets, only used in one place (possibly related to menu ui)
+    }; 
+
+                                //incoming 0x033 - RecvEventCalcStr
+                                
+    struct RecvEventCalcNum     //incoming 0x034 - RecvEventCalcNum
+    {
+        uint32_t Header;
+        uint32_t NpcId;         //_CliEventUniqueNo_NpcId = pkt->field4_0x4;
+        uint8_t MenuParams[32]; //Menu34Params = memcpy(Menu34Params, pkt->field5_0x8, 0x20);~psuedo
+        uint16_t NpcIndex;      //_CliEventIndex_NpcIndex = pkt->field34_0x28;
+        uint16_t ZoneId;        //_CliEventNum_ZoneId = pkt->field35_0x2a;
+        uint16_t MenuId;        //_CliEventParam_MenuId = pkt->field36_0x2c;
+        uint16_t CliEventMode;  //__CliEventMode = param_3->field37_0x2e & 0xff | (ushort)(byte)((uint)param_3->field37_0x2e >> 8) << 8 | 0x2000;
+        uint16_t SubZoneId;     //same as 32, these get passed to InitEvent() along with the current SubZoneId in memory and the other zone Id in the packet and the menu id
+        uint16_t unk;           //same as 32
+    };                    
 ]]
 
 local Packets = {
@@ -56,7 +72,8 @@ local Packets = {
 Packets.strDefs = {
     incoming = {
         [0x0E] = {type=ffi.typeof("struct RecvCharNpc"), name="RecvCharNpc"},
-        [0x32] = {type=ffi.typeof("struct RecvMenuCalc"), name="RecvMenuCalc"},
+        [0x32] = {type=ffi.typeof("struct RecvEventCalc"), name="RecvEventCalc"},
+        [0x34] = {type=ffi.typeof("struct RecvEventCalcNum", name="RecvEventCalcNum")}
     },
     outgoing = {
 
@@ -66,7 +83,8 @@ Packets.strDefs = {
 Packets.defs = {
     incoming = { 
         [0x0E] = ffi.typeof("struct RecvCharNpc*"),
-        [0x32] = ffi.typeof("struct RecvMenuCalc*"),
+        [0x32] = ffi.typeof("struct RecvEventCalc*"),
+        [0x34] = ffi.typeof("struct RecvEventCalcNum*")
     },
     outgoing = {
 
