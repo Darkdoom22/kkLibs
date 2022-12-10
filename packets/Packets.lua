@@ -9,6 +9,8 @@ local ffi = require("ffi")
 local reflect = require("libs.reflect")
 
 ffi.cdef[[
+    void free(void* ptr);
+    void* malloc(size_t size);
     struct pktHeader
     {
         uint16_t id : 9;
@@ -113,7 +115,7 @@ ffi.cdef[[
     {
         uint32_t Header;
         uint32_t ActorId;
-        uint32_t Param1;                //get copied to gMenu34Params, interpetation is based on message id                        
+        uint32_t Param1;                //get copied to gMenu34Params, interpretation is based on message id                        
         uint32_t Param2;
         uint32_t Param3;
         uint16_t ServerEventIndex;      //_ServerEventIndex = uVar2; uVar2 set from pkt->0x18 depending on the results of some id/index checks based on 0x1d and 0x1e fields
@@ -252,6 +254,24 @@ function Packets:ReflectFormatPacketStr(dir, id, cDataPacket)
         end
     end
     return str
+end
+
+function Packets:RequestBuffer(dir, id)
+    if(dir and id and self.strDefs[dir] and self.strDefs[dir][id])then
+        local new = ffi.new(self.strDefs[dir][id].type)
+        local pNew = ffi.cast(self.defs[dir][id], new)
+        return pNew
+    end
+end
+
+function Packets:QueueOutgoing(id, data)
+    if(id and data and self.strDefs['outgoing'][id])then
+        local size = ffi.sizeof(self.strDefs['outgoing'][id].type)
+        local packetManager = GameManager:GetPacketManager()
+        if(packetManager)then
+            packetManager:QueueOutgoing(id, size, data)
+        end
+    end
 end
 
 function Packets:Unpack(dir, id, data)
