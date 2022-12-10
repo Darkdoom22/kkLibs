@@ -9,6 +9,13 @@ local ffi = require("ffi")
 local reflect = require("libs.reflect")
 
 ffi.cdef[[
+    struct pktHeader
+    {
+        uint16_t id : 9;
+        uint16_t len : 7;
+        uint16_t seq : 16;
+    };
+
     /*Outgoing*/
     struct ActionPacket         //outgoing 0x01A
     {
@@ -21,6 +28,32 @@ ffi.cdef[[
         float XOffset; //for geo bubble positioning system
         float ZOffset;
         float YOffset;
+    };
+
+    struct SendPendingTag               //outgoing 0x05b, two handlers: SendPendingTag, SendEventEnd
+    {
+        uint32_t Header;
+        uint32_t ActorId;               //puVar1->NpcId = _CliEventUniqueNo_NpcId;
+        uint16_t OptionIndex;           //*(undefined4 *)&puVar1->OptionIndex = _CliEventIndex;
+        uint16_t CancelEvent;           //*(undefined4 *)&pkt->OptionIndex = 0x40000000; this implies that OptionIndex is actually just treated as 4 bytes, this set only happens when gMenuCancelEvent is set in SendEventEnd.
+        uint16_t ActorIndex;            //pkt->NpcIndex = _CliEventIndex_NpcIndex;
+        uint16_t ContinueInteraction;   //*(undefined2 *)&puVar1->AutomatedMessage = 1; true if from SendPendingTag, false if from SendEventEnd
+        uint16_t ZoneId;                //puVar1->ZoneId = _CliEventNum_ZoneId;
+        uint16_t MenuId;                //puVar1->MenuId = _CliEventParam_MenuId;
+    };
+
+    struct SendPendingXzyTag            //outgoing 0x05c, used to warp in menus (going through staging point doors, zeruhn mines door, homepoints, etc)
+    {
+        uint32_t Header;
+        float X;
+        float Z;
+        float Y;
+        uint32_t ActorId;
+        uint32_t OptionIndex;          //menuWarpRqst->MenuOptionIndex = _CliEventIndex
+        uint16_t ZoneId;               //menuWarpRqst->Zone = _CliEventNum_ZoneId;
+        uint16_t ActorIndex;
+        uint8_t ContinueInteraction;   //menuWarpRqst->ContinueInteraction = '\x01'; always true
+        uint8_t EncodedRotation;       //lVar2 = enDirCliToNet(param4); menuWarpRqst->Rotation = (char)lVar2;  
     };
 
     struct SendCharPos          //outgoing 0x015
@@ -63,7 +96,7 @@ ffi.cdef[[
         char Name[18];
     };
 
-    struct RecvBattleMessage    //incoming 0x029
+    struct RecvBattleMessage        //incoming 0x029
     {
         uint32_t Header;
         uint32_t ActorId;
@@ -74,6 +107,20 @@ ffi.cdef[[
         uint16_t TargetIndex;       //_MESTARNAMEINDEX = localActionmsg->TargetIndex;
         uint16_t Message;
         uint16_t Unk1;
+    };
+
+    struct RecvMessageTalkNumWork       //incoming 0x2A -- more commonly known as "Resting Message"
+    {
+        uint32_t Header;
+        uint32_t ActorId;
+        uint32_t Param1;                //get copied to gMenu34Params, interpetation is based on message id                        
+        uint32_t Param2;
+        uint32_t Param3;
+        uint16_t ServerEventIndex;      //_ServerEventIndex = uVar2; uVar2 set from pkt->0x18 depending on the results of some id/index checks based on 0x1d and 0x1e fields
+        uint16_t MessageId;
+        uint8_t  MesNumTypeTableIndex;  //local_154 = (&MesNumTypeTbl)[param_3->field11_0x1c];
+        uint8_t Unk1;
+        uint8_t Unk2;                   //these are used, but I'm not sure what they effect
     };
 
     struct RecvEventCalc        //incoming 0x032
@@ -105,7 +152,16 @@ ffi.cdef[[
         uint16_t CliEventMode;  //__CliEventMode = param_3->field37_0x2e & 0xff | (ushort)(byte)((uint)param_3->field37_0x2e >> 8) << 8 | 0x2000;
         uint16_t SubZoneId;     //same as 32, these get passed to InitEvent() along with the current SubZoneId in memory and the other zone Id in the packet and the menu id
         uint16_t unk;           //same as 32
-    };                    
+    };                  
+    
+    struct RecvMessageTalkNum           //incoming 0x036
+    {
+        uint32_t Header;
+        uint32_t ActorId;               //if (pEVar1->Id != *(uint *)(param_3 + 4)) 
+        uint16_t ServerEventIndex;      //serverEventIndex = *(ushort *)(param_3 + 8);
+        uint16_t Message;           
+        uint8_t  MesNumTypeTableIndex;  //  if (param_3->field7_0xc < 8) { local_4c = (&MesNumTypeTbl)[param_3->field7_0xc]; } else { local_4c = 0; }
+    };
 ]]
 
 local Packets = {
@@ -117,12 +173,16 @@ Packets.strDefs = {
     incoming = {
         [0x0E] = {type=ffi.typeof("struct RecvCharNpc"), name="RecvCharNpc"},
         [0x29] = {type=ffi.typeof("struct RecvBattleMessage"), name="RecvBattleMessage"},
+        [0X2A] = {type=ffi.typeof("struct RecvMessageTalkNumWork"), name="RecvMessageTalkNumWork"},
         [0x32] = {type=ffi.typeof("struct RecvEventCalc"), name="RecvEventCalc"},
         [0x34] = {type=ffi.typeof("struct RecvEventCalcNum"), name="RecvEventCalcNum"},
+        [0x36] = {type=ffi.typeof("struct RecvMessageTalkNum"), name="RecvMessageTalkNum"},
     },
     outgoing = {
         [0x15] = {type=ffi.typeof("struct SendCharPos"), name="SendCharPos"},
-        [0x1A] = {type=ffi.typeof("struct ActionPacket"), name="ActionPacket"}
+        [0x1A] = {type=ffi.typeof("struct ActionPacket"), name="ActionPacket"},
+        [0x5B] = {type=ffi.typeof("struct SendPendingTag"), name="SendPendingTag"},
+        [0x5C] = {type=ffi.typeof("struct SendPendingXzyTag"), name="SendPendingXzyTag"},
     },
 }
 
@@ -130,12 +190,16 @@ Packets.defs = {
     incoming = { 
         [0x0E] = ffi.typeof("struct RecvCharNpc*"),
         [0x29] = ffi.typeof("struct RecvBattleMessage*"),
+        [0X2A] = ffi.typeof("struct RecvMessageTalkNumWork*"),
         [0x32] = ffi.typeof("struct RecvEventCalc*"),
-        [0x34] = ffi.typeof("struct RecvEventCalcNum*")
+        [0x34] = ffi.typeof("struct RecvEventCalcNum*"),
+        [0x36] = ffi.typeof("struct RecvMessageTalkNum*"),
     },
     outgoing = {
         [0x15] = ffi.typeof("struct SendCharPos*"),
-        [0x1A] = ffi.typeof("struct ActionPacket*")
+        [0x1A] = ffi.typeof("struct ActionPacket*"),
+        [0x5B] = ffi.typeof("struct SendPendingTag*"),
+        [0x5C] = ffi.typeof("struct SendPendingXzyTag*"),
     },
 }
 
@@ -191,11 +255,10 @@ function Packets:ReflectFormatPacketStr(dir, id, cDataPacket)
 end
 
 function Packets:Unpack(dir, id, data)
-    if(dir and id and data and self.defs[dir][id])then
+    if(dir and id and data and self.defs[dir] and self.defs[dir][id])then
         local cBuff = ffi.new("uint8_t[?]", #data, data)
-        local pCBuff = ffi.cast("uint8_t*", cBuff)
-        local packet = ffi.cast(self.defs[dir][id], pCBuff)
-        return packet
+        local pCBuff = cBuff and ffi.cast("uint8_t*", cBuff)
+        return pCBuff and ffi.cast(self.defs[dir][id], pCBuff)
     end
 end
 
