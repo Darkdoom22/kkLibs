@@ -9,9 +9,7 @@ local ffi = require("ffi")
 local reflect = require("libs.reflect")
 
 ffi.cdef[[
-    void free(void* ptr);
-    void* malloc(size_t size);
-    struct pktHeader
+    struct pktHeader    //filling in the header for outgoing after calling ZoneSendQueueSearch rn, but populating id/size here could save a memcpy - and need to do for incoming anyway so implement this
     {
         uint16_t id : 9;
         uint16_t len : 7;
@@ -260,6 +258,7 @@ function Packets:RequestBuffer(dir, id)
     if(dir and id and self.strDefs[dir] and self.strDefs[dir][id])then
         local new = ffi.new(self.strDefs[dir][id].type)
         local pNew = ffi.cast(self.defs[dir][id], new)
+       -- pNew["Header"] = id //todo: add header here
         return pNew
     end
 end

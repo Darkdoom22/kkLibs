@@ -1,8 +1,8 @@
 --Dumped from FFXI by Dupes
 --Written By: Uwu/Darkdoom
---2022-11-10 00:46:30
---gMissionQuestResDataTableInstancesStart = FFXiMain.dll+0x62C3B0
---gMissionData = FFXiMain.dll+0x477080
+--2022-12-12 08:46:24
+--gMissionQuestResDataTableInstancesStart = FFXiMain.dll+0x62C430
+--gMissionData = FFXiMain.dll+0x477100
 return {
 { missionType="Sandoria", resource="Smash the Orcish Scouts", index=0 },
 { missionType="Sandoria", resource="Bat Hunt", index=1 },
@@ -1290,7 +1290,9 @@ return {
 { missionType="TheVoraciousResurgence", resource="__To Movalpolos!", index=37 },
 { missionType="TheVoraciousResurgence", resource="__Magh Bihu on the Prowl", index=38 },
 { missionType="TheVoraciousResurgence", resource="__101 Dazbogs", index=39 },
-{ missionType="TheVoraciousResurgence", resource="__", index=40 },
+{ missionType="TheVoraciousResurgence", resource="__Kipdrix the Faithful", index=40 },
+{ missionType="TheVoraciousResurgence", resource="__Duke Alloces's Decision", index=41 },
+{ missionType="TheVoraciousResurgence", resource="__", index=42 },
 { missionType="ACrystallineProphecy", resource="A Crystalline Prophecy", index=0 },
 { missionType="ACrystallineProphecy", resource="The Echo Awakens", index=1 },
 { missionType="ACrystallineProphecy", resource="Gatherer of Light (I)", index=2 },
