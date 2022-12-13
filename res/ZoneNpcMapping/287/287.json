@@ -792,7 +792,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Blazenought",
+    "Name": "Bozzetto Breadwinner",
     "Idx": 99,
     "Id": 17952867,
     "ZoneId": 287,
@@ -808,7 +808,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Frostnought",
+    "Name": "Bozzetto Urchin",
     "Idx": 101,
     "Id": 17952869,
     "ZoneId": 287,
@@ -816,7 +816,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Blazenought's Head",
+    "Name": "Bozzetto Urchin",
     "Idx": 102,
     "Id": 17952870,
     "ZoneId": 287,
@@ -824,7 +824,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Frostnought's Head",
+    "Name": "Bozzetto Urchin",
     "Idx": 103,
     "Id": 17952871,
     "ZoneId": 287,
@@ -832,7 +832,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": ".",
+    "Name": "Bozzetto Urchin",
     "Idx": 104,
     "Id": 17952872,
     "ZoneId": 287,
@@ -840,7 +840,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": ".",
+    "Name": "Bozzetto Urchin",
     "Idx": 105,
     "Id": 17952873,
     "ZoneId": 287,
@@ -848,7 +848,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Thillloab",
+    "Name": "Bozzetto Urchin",
     "Idx": 106,
     "Id": 17952874,
     "ZoneId": 287,
@@ -856,7 +856,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": ".",
+    "Name": "Bozzetto Urchin",
     "Idx": 107,
     "Id": 17952875,
     "ZoneId": 287,
@@ -864,7 +864,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": ".",
+    "Name": "Bozzetto Urchin",
     "Idx": 108,
     "Id": 17952876,
     "ZoneId": 287,
@@ -872,7 +872,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": ".",
+    "Name": "Bozzetto Urchin",
     "Idx": 109,
     "Id": 17952877,
     "ZoneId": 287,
@@ -880,7 +880,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": ".",
+    "Name": "Bozzetto Housemaker",
     "Idx": 110,
     "Id": 17952878,
     "ZoneId": 287,
@@ -888,7 +888,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": ".",
+    "Name": "Ibong Adarna",
     "Idx": 111,
     "Id": 17952879,
     "ZoneId": 287,
@@ -904,7 +904,23 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Achieve Master",
+    "Name": "Bozzetto Golden Bomb",
+    "Idx": 113,
+    "Id": 17952881,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bozzetto Golden Bomb",
+    "Idx": 114,
+    "Id": 17952882,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Bozzetto Golden Bomb",
     "Idx": 115,
     "Id": 17952883,
     "ZoneId": 287,
@@ -912,7 +928,23 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "",
+    "Name": ".",
+    "Idx": 116,
+    "Id": 17952884,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": ".",
+    "Idx": 117,
+    "Id": 17952885,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Achieve Master",
     "Idx": 120,
     "Id": 17952888,
     "ZoneId": 287,
@@ -920,39 +952,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Legion Portal",
-    "Idx": 121,
-    "Id": 17952889,
-    "ZoneId": 287,
-    "ConvertedZoneNames": [],
-    "ConvertedZoneType": ""
-  },
-  {
-    "Name": "Legion Portal",
-    "Idx": 122,
-    "Id": 17952890,
-    "ZoneId": 287,
-    "ConvertedZoneNames": [],
-    "ConvertedZoneType": ""
-  },
-  {
-    "Name": "Legion Tome",
-    "Idx": 123,
-    "Id": 17952891,
-    "ZoneId": 287,
-    "ConvertedZoneNames": [],
-    "ConvertedZoneType": ""
-  },
-  {
-    "Name": "Legion Libretto",
-    "Idx": 124,
-    "Id": 17952892,
-    "ZoneId": 287,
-    "ConvertedZoneNames": [],
-    "ConvertedZoneType": ""
-  },
-  {
-    "Name": "monthly_master",
+    "Name": "",
     "Idx": 125,
     "Id": 17952893,
     "ZoneId": 287,
@@ -960,7 +960,15 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Moogle",
+    "Name": "Legion Portal",
+    "Idx": 126,
+    "Id": 17952894,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Legion Portal",
     "Idx": 127,
     "Id": 17952895,
     "ZoneId": 287,
@@ -968,7 +976,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Moogle",
+    "Name": "Legion Tome",
     "Idx": 128,
     "Id": 17952896,
     "ZoneId": 287,
@@ -976,7 +984,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Moogle",
+    "Name": "Legion Libretto",
     "Idx": 129,
     "Id": 17952897,
     "ZoneId": 287,
@@ -984,17 +992,9 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Moogle",
+    "Name": "monthly_master",
     "Idx": 130,
     "Id": 17952898,
-    "ZoneId": 287,
-    "ConvertedZoneNames": [],
-    "ConvertedZoneType": ""
-  },
-  {
-    "Name": "Moogle",
-    "Idx": 131,
-    "Id": 17952899,
     "ZoneId": 287,
     "ConvertedZoneNames": [],
     "ConvertedZoneType": ""
@@ -1019,6 +1019,46 @@
     "Name": "Moogle",
     "Idx": 134,
     "Id": 17952902,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 135,
+    "Id": 17952903,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 136,
+    "Id": 17952904,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 137,
+    "Id": 17952905,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 138,
+    "Id": 17952906,
+    "ZoneId": 287,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Moogle",
+    "Idx": 139,
+    "Id": 17952907,
     "ZoneId": 287,
     "ConvertedZoneNames": [],
     "ConvertedZoneType": ""

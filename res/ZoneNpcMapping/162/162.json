@@ -2528,15 +2528,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Ramblix",
-    "Idx": 321,
-    "Id": 17441089,
-    "ZoneId": 162,
-    "ConvertedZoneNames": [],
-    "ConvertedZoneType": ""
-  },
-  {
-    "Name": "Goblin Footprint",
+    "Name": "Layer Reserve",
     "Idx": 322,
     "Id": 17441090,
     "ZoneId": 162,
@@ -2544,7 +2536,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Ominous Pillar",
+    "Name": "Ramblix",
     "Idx": 323,
     "Id": 17441091,
     "ZoneId": 162,
@@ -2552,7 +2544,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Craggy Pillar",
+    "Name": "Goblin Footprint",
     "Idx": 324,
     "Id": 17441092,
     "ZoneId": 162,
@@ -2560,7 +2552,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Craggy Pillar",
+    "Name": "Ominous Pillar",
     "Idx": 325,
     "Id": 17441093,
     "ZoneId": 162,
@@ -2584,7 +2576,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Stooge Moogle",
+    "Name": "Craggy Pillar",
     "Idx": 328,
     "Id": 17441096,
     "ZoneId": 162,
@@ -2592,7 +2584,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Kupatete",
+    "Name": "Craggy Pillar",
     "Idx": 329,
     "Id": 17441097,
     "ZoneId": 162,
@@ -2600,7 +2592,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Kupignol",
+    "Name": "Stooge Moogle",
     "Idx": 330,
     "Id": 17441098,
     "ZoneId": 162,
@@ -2608,7 +2600,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Kupuckl",
+    "Name": "Kupatete",
     "Idx": 331,
     "Id": 17441099,
     "ZoneId": 162,
@@ -2616,7 +2608,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Kupert",
+    "Name": "Kupignol",
     "Idx": 332,
     "Id": 17441100,
     "ZoneId": 162,
@@ -2624,7 +2616,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Geomagnetic Fount",
+    "Name": "Kupuckl",
     "Idx": 333,
     "Id": 17441101,
     "ZoneId": 162,
@@ -2632,7 +2624,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Home Point #1",
+    "Name": "Kupert",
     "Idx": 334,
     "Id": 17441102,
     "ZoneId": 162,
@@ -2640,7 +2632,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Home Point #2",
+    "Name": "Geomagnetic Fount",
     "Idx": 335,
     "Id": 17441103,
     "ZoneId": 162,
@@ -2648,7 +2640,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Home Point #3",
+    "Name": "Home Point #1",
     "Idx": 336,
     "Id": 17441104,
     "ZoneId": 162,
@@ -2656,7 +2648,7 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Home Point #4",
+    "Name": "Home Point #2",
     "Idx": 337,
     "Id": 17441105,
     "ZoneId": 162,
@@ -2664,9 +2656,33 @@
     "ConvertedZoneType": ""
   },
   {
-    "Name": "Home Point #5",
+    "Name": "Home Point #3",
     "Idx": 338,
     "Id": 17441106,
+    "ZoneId": 162,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #4",
+    "Idx": 339,
+    "Id": 17441107,
+    "ZoneId": 162,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "Home Point #5",
+    "Idx": 340,
+    "Id": 17441108,
+    "ZoneId": 162,
+    "ConvertedZoneNames": [],
+    "ConvertedZoneType": ""
+  },
+  {
+    "Name": "",
+    "Idx": 341,
+    "Id": 17441109,
     "ZoneId": 162,
     "ConvertedZoneNames": [],
     "ConvertedZoneType": ""
