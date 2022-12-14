@@ -8,6 +8,7 @@
 
 require("libs.Tables")
 require("libs.Vector3")
+local ImGui = require("libs.imgui")
 local ZoneNames = require("res.ZoneNames")
 --TODO: add lib / addon path functions to api
 local function script_path()
@@ -102,8 +103,18 @@ end
 --NOTE: only call this method from addon["Present"]
 function Navigation:DrawWaypointsWS()
     local count = 1
+    --for wp in self.CurrentPath:It() do
+     --   count = count + 1
+    --end
+    --draw line between waypoints
+    local prevWp = nil
     for wp in self.CurrentPath:It() do
+        local wp = Vec3(wp.x, wp.z, wp.y)
+        if(prevWp)then
+            ImGui:AddLine(prevWp, wp, {0.2, 1, 0.2}, true)
+        end
         DrawOutlinedTextWS(string.format("Waypoint: %s", count), 50, 200, 50, wp.x, wp.y, wp.z)
         count = count + 1
+        prevWp = wp
     end 
 end

@@ -205,6 +205,8 @@ Packets.defs = {
 
 local MetaTable = {
     __index = Packets,
+    __class = "Packets",
+    __metatable = "Locked metatable: Packets",
 }
 
 local function ToBits(num) --todo: this has a bug with floats, need to fix
@@ -233,6 +235,7 @@ function Packets:ReflectFormatPacketStr(dir, id, cDataPacket)
             local value = cDataPacket[name]
             if(type(value) == 'cdata')then
                 value = ffi.string(value)
+                ffi.gc(value, ffi.free)
             end
             if(type(value) == 'number')then
                 local bits = ToBits(value)
@@ -258,6 +261,7 @@ function Packets:RequestBuffer(dir, id)
     if(dir and id and self.strDefs[dir] and self.strDefs[dir][id])then
         local new = ffi.new(self.strDefs[dir][id].type)
         local pNew = ffi.cast(self.defs[dir][id], new)
+        ffi.gc(pNew, ffi.free)
        -- pNew["Header"] = id //todo: add header here
         return pNew
     end
@@ -276,9 +280,13 @@ end
 function Packets:Unpack(dir, id, data)
     if(dir and id and data and self.defs[dir] and self.defs[dir][id])then
         local cBuff = ffi.new("uint8_t[?]", #data, data)
+        ffi.gc(cBuff, ffi.free)
         local pCBuff = cBuff and ffi.cast("uint8_t*", cBuff)
-        return pCBuff and ffi.cast(self.defs[dir][id], pCBuff)
+        ffi.gc(pCBuff, ffi.free)
+        local asPacket = ffi.cast(self.defs[dir][id], pCBuff)
+        ffi.gc(asPacket, ffi.free)
     end
 end
 
+setmetatable(Packets, MetaTable)
 return Packets
