@@ -2,6 +2,7 @@
     Written By: Uwu/Darkdoom 12/5/2022
     Description: This class adds additional (linq-like) functionality to lua tables
     Notes: This is a work in progress
+    --TODO: remove all the overloads and handle in single functions, totally forgot lua doesn't like that
 ]]
 
 local table = require('table')
@@ -264,14 +265,6 @@ function Tables.Last(t)
     return t[Tables.Length(t)]
 end
 
-function Tables.Last(t, fn)
-    for i = Tables.Length(t), 1, -1 do
-        if(fn(t[i]))then
-            return t[i]
-        end
-    end
-end
-
 function Tables.LastOrDefault(t)
     if(Tables.Length(t) > 0)then
         return Tables.Last(t)
@@ -416,14 +409,6 @@ function Tables.Sum(t)
     local sum = 0
     for v in t:It() do
         sum = sum + v
-    end
-    return sum
-end
-
-function Tables.Sum(t, fn)
-    local sum = 0
-    for v in t:It() do
-        sum = sum + fn(v)
     end
     return sum
 end

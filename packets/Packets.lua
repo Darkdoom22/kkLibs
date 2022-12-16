@@ -123,6 +123,19 @@ ffi.cdef[[
         uint8_t Unk2;                   //these are used, but I'm not sure what they effect
     };
 
+    struct RecvBattleMessage2            //incoming 0x2D
+    {
+        uint32_t Header;
+        uint32_t ActorId;
+        uint32_t TargetId;
+        uint16_t ActorIndex;
+        uint16_t TargetIndex;
+        uint32_t Param1;
+        uint32_t Param2;
+        uint16_t Message;
+        uint8_t Unk;                    //used instead of the message for EventMessDecodePut in some cases, unsure purpose
+    };
+
     struct RecvEventCalc        //incoming 0x032
     {
         uint32_t Header;
@@ -162,6 +175,74 @@ ffi.cdef[[
         uint16_t Message;           
         uint8_t  MesNumTypeTableIndex;  //  if (param_3->field7_0xc < 8) { local_4c = (&MesNumTypeTbl)[param_3->field7_0xc]; } else { local_4c = 0; }
     };
+
+    struct RecvCliStatus                //incoming 0x061
+    {
+        uint32_t Header;
+        uint32_t MaxHealth;
+        uint32_t MaxMp;
+        uint8_t MainJob;
+        uint8_t MainJobLevel;
+        uint8_t SubJob;
+        uint8_t SubJobLevel;
+        uint16_t CurrentExp;
+        uint16_t NextLevelExp;
+        uint16_t BaseStr;
+        uint16_t BaseDex;
+        uint16_t BaseVit;
+        uint16_t BaseAgi;
+        uint16_t BaseInt;
+        uint16_t BaseMnd;
+        uint16_t BaseChr;
+        int16_t AddStr;
+        int16_t AddDex;
+        int16_t AddVit;
+        int16_t AddAgi;
+        int16_t AddInt;
+        int16_t AddMnd;
+        int16_t AddChr;
+        uint16_t Attack;
+        uint16_t Defense;
+        int16_t FireResistance;
+        int16_t WindResistance;
+        int16_t LightningResistance;
+        int16_t LightResistance;
+        int16_t IceResistance;
+        int16_t EarthResistance;
+        int16_t WaterResistance;
+        int16_t DarkResistance;
+        uint16_t Title;
+        uint16_t NationRank;
+        uint16_t RankPoints;
+        uint16_t CurrentHomePoint;
+        uint32_t Unks;
+        uint8_t Nation;
+        uint8_t Unk2;
+        uint8_t SuLevel;
+        uint8_t Unk3;
+        uint8_t MaxItemLevel;
+        uint8_t ItemLevelOver99;
+        uint8_t MainHandItemLevel;
+        uint8_t Unk5;
+        uint32_t UnityId:5;
+        uint32_t UnityRank:5;
+        uint32_t UnityPoints:17;
+        uint32_t Unk6:5;
+        uint32_t pad;
+        uint32_t pad2;
+        uint8_t unk7;                   //see if we can clear up some of these unknowns
+        uint8_t MasterLevel;
+        uint8_t MasterBreaker;
+        uint32_t CurrentExemplarPoints;
+        uint32_t NextLevelExemplarPoints;
+    };
+
+    struct RecvSetUpdate                //Incoming 0x063, leaving dealing with variation up to addons for now
+    {
+        uint32_t Header;
+        uint16_t Type;
+        uint8_t Data[150];
+    };
 ]]
 
 local Packets = {
@@ -174,9 +255,12 @@ Packets.strDefs = {
         [0x0E] = {type=ffi.typeof("struct RecvCharNpc"), name="RecvCharNpc"},
         [0x29] = {type=ffi.typeof("struct RecvBattleMessage"), name="RecvBattleMessage"},
         [0X2A] = {type=ffi.typeof("struct RecvMessageTalkNumWork"), name="RecvMessageTalkNumWork"},
+        [0x2D] = {type=ffi.typeof("struct RecvBattleMessage2"), name="RecvBattleMessage2"},
         [0x32] = {type=ffi.typeof("struct RecvEventCalc"), name="RecvEventCalc"},
         [0x34] = {type=ffi.typeof("struct RecvEventCalcNum"), name="RecvEventCalcNum"},
         [0x36] = {type=ffi.typeof("struct RecvMessageTalkNum"), name="RecvMessageTalkNum"},
+        [0x61] = {type=ffi.typeof("struct RecvCliStatus"), name="RecvCliStatus"},
+        [0x63] = {type=ffi.typeof("struct RecvSetUpdate"), name="RecvSetUpdate"},
     },
     outgoing = {
         [0x15] = {type=ffi.typeof("struct SendCharPos"), name="SendCharPos"},
@@ -191,9 +275,12 @@ Packets.defs = {
         [0x0E] = ffi.typeof("struct RecvCharNpc*"),
         [0x29] = ffi.typeof("struct RecvBattleMessage*"),
         [0X2A] = ffi.typeof("struct RecvMessageTalkNumWork*"),
+        [0x2D] = ffi.typeof("struct RecvBattleMessage2*"),
         [0x32] = ffi.typeof("struct RecvEventCalc*"),
         [0x34] = ffi.typeof("struct RecvEventCalcNum*"),
         [0x36] = ffi.typeof("struct RecvMessageTalkNum*"),
+        [0x61] = ffi.typeof("struct RecvCliStatus*"),
+        [0x63] = ffi.typeof("struct RecvSetUpdate*"),
     },
     outgoing = {
         [0x15] = ffi.typeof("struct SendCharPos*"),
@@ -227,6 +314,8 @@ local function ToBits(num) --todo: this has a bug with floats, need to fix
 end
 
 function Packets:ReflectFormatPacketStr(dir, id, cDataPacket)
+    --print('here2')
+    --print(dir, id, cDataPacket)
     local str = string.format("Packet: %s\n", self.strDefs[dir][id] and self.strDefs[dir][id].name or tostring(id))
     if(dir and id and cDataPacket)then
         for reflection in reflect.typeof(self.strDefs[dir][id].type):members() do
@@ -235,7 +324,6 @@ function Packets:ReflectFormatPacketStr(dir, id, cDataPacket)
             local value = cDataPacket[name]
             if(type(value) == 'cdata')then
                 value = ffi.string(value)
-                ffi.gc(value, ffi.free)
             end
             if(type(value) == 'number')then
                 local bits = ToBits(value)
@@ -285,6 +373,7 @@ function Packets:Unpack(dir, id, data)
         ffi.gc(pCBuff, ffi.free)
         local asPacket = ffi.cast(self.defs[dir][id], pCBuff)
         ffi.gc(asPacket, ffi.free)
+        return asPacket
     end
 end
 

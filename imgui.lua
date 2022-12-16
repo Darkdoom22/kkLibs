@@ -47,18 +47,19 @@ ImGui.Enums = {
         ["Right"] = 1,
         ["Up"] = 2,
         ["Down"] = 3,
+    },
+    ["Condition"] = {
+        ["None"] = 0,
+        ["Always"] = 1,
+        ["Once"] = 2,
+        ["FirstUseEver"] = 4,
+        ["Appearing"] = 8,
     }
 }
 
-function ImGui:Begin(name)
-    return name and ImGui_Begin(name)
-end
-
-function ImGui:Begin(name, open)
-    return name and open and ImGui_Begin(name, open)
-end
-
 function ImGui:Begin(name, open, flags)
+    local open = open or true
+    local flags = flags or self.Enums.WindowFlags.None
     return name and open and flags and ImGui_Begin(name, open, flags)
 end
 
@@ -66,13 +67,14 @@ function ImGui:End()
     return ImGui_End()
 end
 
-function ImGui:SetNextWindowPos(x, y, worldSpace, z)
+function ImGui:SetNextWindowPos(x, y, cond, worldSpace, z)
+    local cond = cond or 0
     local worldSpace = worldSpace or false
-    if(x and y and worldSpace)then
+    if(x and y)then
         if(not worldSpace)then
-            ImGui_SetNextWindowPosSS(x, y)
+            ImGui_SetNextWindowPosSS(x, y, cond)
         elseif(z)then
-            ImGui_SetNextWindowPosWS(x, z, y)
+            ImGui_SetNextWindowPosWS(x, z, y, cond)
         end
     end
 end
@@ -219,7 +221,23 @@ function ImGui:Bullet()
     ImGui_Bullet()
 end
 
-function DragFloat(label, val, val2, val3)
+function ImGui:BeginCombo(label, previewValue)
+    if(label and previewValue)then
+        return ImGui_BeginCombo(label, previewValue)
+    end
+end
+
+function ImGui:EndCombo()
+    ImGui_EndCombo()
+end
+
+function ImGui:Selectable(label, selected)
+    if(label)then
+        return ImGui_Selectable(label, selected)
+    end
+end
+
+function ImGui:DragFloat(label, val, val2, val3)
     if(label and val and not val2 and not val3)then
         return ImGui_DragFloat(label, val)
     elseif(label and val and val2)then
@@ -245,7 +263,7 @@ end
 
 function ImGui:ColorButton(label, color)
     if(label and color and #color == 3)then
-        ImGui_ColorButton(label, color[1], color[2], color[3])
+        return ImGui_ColorButton(label, color[1], color[2], color[3])
     end
 end
 
@@ -266,7 +284,6 @@ function ImGui:AddRect(vec1, vec2, color, worldSpace, thickness)
         if(not worldSpace)then
             ImGui_AddRectSS(vec1.x, vec1.y, vec2.x, vec2.y, color[1], color[2], color[3], thickness)
         else
-            print('here')
             ImGui_AddRectWS(vec1.x, vec1.z, vec1.y, vec2.x, vec2.z, vec2.y, color[1], color[2], color[3], thickness)
         end
     end

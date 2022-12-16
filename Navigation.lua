@@ -88,7 +88,7 @@ function Navigation:MoveToBestWaypoint()
         local nextWp = self.CurrentPath:First()
         if(nextWp)then
             local dist = ourPos:Distance(Vec3(nextWp.x, nextWp.z, nextWp.y))
-            if(dist > 2.9)then
+            if(dist > 2.5)then
                 GameManager:GetMovementManager():MoveTo(nextWp.x, nextWp.y, nextWp.z)--todo standardize capitalization
             else
                 self.CurrentPath:Remove(nextWp)
@@ -103,17 +103,15 @@ end
 --NOTE: only call this method from addon["Present"]
 function Navigation:DrawWaypointsWS()
     local count = 1
-    --for wp in self.CurrentPath:It() do
-     --   count = count + 1
-    --end
-    --draw line between waypoints
-    local prevWp = nil
+    local localActor = GetLocalActor()
+    local prevWp = Vec3{localActor.X, localActor.Z, localActor.Y}
     for wp in self.CurrentPath:It() do
-        local wp = Vec3(wp.x, wp.z, wp.y)
+        local wp = Vec3(wp.x, wp.y, wp.z)
         if(prevWp)then
             ImGui:AddLine(prevWp, wp, {0.2, 1, 0.2}, true)
         end
-        DrawOutlinedTextWS(string.format("Waypoint: %s", count), 50, 200, 50, wp.x, wp.y, wp.z)
+        DrawOutlinedTextWS(string.format("Waypoint: %s", count), 50, 200, 50, wp.x, wp.z, wp.y)
+        ImGui:AddCircle(wp, 3, {0.2, 1, 0.2}, true)
         count = count + 1
         prevWp = wp
     end 
