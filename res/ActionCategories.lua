@@ -1,0 +1,18 @@
+return {
+    [0] = "Npc Interaction",
+    [2] = "Engage",
+    [3] = "Magic",
+    [4] = "Disengage",
+    [5] = "Call For Help",
+    [7] = "Weaponskill",
+    [9] = "Job Ability",
+    [12] = "Assist",
+    [13] = "Reraise Option",
+    [14] = "Cast Rod",
+    [15] = "Switch Target",
+    [16] = "Ranged Attack",
+    [17] = "Chocobo Dig",
+    [18] = "Tractor Option",
+    [25] = "Monster Skill",
+    [26] = "Mount",
+} --there's def packet handlers that send categories outside this list, but I don't know what they are

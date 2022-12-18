@@ -123,7 +123,7 @@ end
 
 function ImGui:UnIndent(by)
     local by = by or 0
-    ImGui_UnIndent(by)
+    ImGui_Unindent(by)
 end
 
 function ImGui:BeginGroup()
@@ -181,7 +181,7 @@ function ImGui:Button(text, width, height, size)
     local height = height or 0
     local size = size or 0
     if(text)then
-        return ImGui_Button(text, width, height, size)
+        return ImGui_Button(text, width, height)
     end
 end
 

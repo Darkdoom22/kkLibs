@@ -16,6 +16,21 @@ ffi.cdef[[
         uint16_t seq : 16;
     };
 
+    struct SendCharPos          //outgoing 0x015
+    {
+        uint32_t Header;
+        float X;
+        float Z;
+        float Y;
+        uint16_t pad;
+        uint16_t RunCount;
+        uint8_t EncodedRotation;
+        uint8_t Flags;
+        uint16_t TargetIndex;
+        uint32_t Timestamp;
+        uint32_t junk; //this and pad are never set in XiAtelBuff::SendCharPos
+    };
+
     /*Outgoing*/
     struct ActionPacket         //outgoing 0x01A
     {
@@ -28,6 +43,26 @@ ffi.cdef[[
         float XOffset; //for geo bubble positioning system
         float ZOffset;
         float YOffset;
+    };
+
+    typedef struct EquipSetEntry EquipSetEntry;
+
+    struct EquipSetEntry        //not a packet, but used in EquipSet
+    {
+        uint8_t InventoryIndex;
+        uint8_t EquipmentSlot;
+        uint8_t Bag;
+        uint8_t Pad;
+    };
+
+    struct EquipSet             //outgoing 0x051
+    {
+        uint32_t Header;
+        uint8_t EquipCount;
+        uint8_t pad;
+        uint8_t pad2;
+        uint8_t pad3;
+        EquipSetEntry Entries[16];
     };
 
     struct SendPendingTag               //outgoing 0x05b, two handlers: SendPendingTag, SendEventEnd
@@ -56,21 +91,6 @@ ffi.cdef[[
         uint8_t EncodedRotation;       //lVar2 = enDirCliToNet(param4); menuWarpRqst->Rotation = (char)lVar2;  
     };
 
-    struct SendCharPos          //outgoing 0x015
-    {
-        uint32_t Header;
-        float X;
-        float Z;
-        float Y;
-        uint16_t pad;
-        uint16_t RunCount;
-        uint8_t EncodedRotation;
-        uint8_t Flags;
-        uint16_t TargetIndex;
-        uint32_t Timestamp;
-        uint32_t junk; //this and pad are never set in XiAtelBuff::SendCharPos
-    };
-
     /*Incoming*/       
 
     struct RecvCharNpc          //incoming 0x00E
@@ -95,6 +115,14 @@ ffi.cdef[[
         uint16_t Model;
         char Name[18];
     };
+
+    struct RecvBattleCalc2          //incoming 0x028
+    {
+        uint32_t Header;
+        uint8_t Length;
+        uint32_t ActorId;
+        uint8_t PackedData[?];      //param1 is either action id or the second half of a 4cc combined with the next 2 bytes
+    } __attribute__((packed));      //variable length packet, if not using __attribute__((packed)) then the compiler will pad the struct to 4 byte alignment
 
     struct RecvBattleMessage        //incoming 0x029
     {
@@ -253,6 +281,7 @@ local Packets = {
 Packets.strDefs = {
     incoming = {
         [0x0E] = {type=ffi.typeof("struct RecvCharNpc"), name="RecvCharNpc"},
+        [0x28] = {type=ffi.typeof("struct RecvBattleCalc2"), name="RecvBattleCalc2"},
         [0x29] = {type=ffi.typeof("struct RecvBattleMessage"), name="RecvBattleMessage"},
         [0X2A] = {type=ffi.typeof("struct RecvMessageTalkNumWork"), name="RecvMessageTalkNumWork"},
         [0x2D] = {type=ffi.typeof("struct RecvBattleMessage2"), name="RecvBattleMessage2"},
@@ -265,6 +294,7 @@ Packets.strDefs = {
     outgoing = {
         [0x15] = {type=ffi.typeof("struct SendCharPos"), name="SendCharPos"},
         [0x1A] = {type=ffi.typeof("struct ActionPacket"), name="ActionPacket"},
+        [0x51] = {type=ffi.typeof("struct EquipSet"), name="EquipSet"},
         [0x5B] = {type=ffi.typeof("struct SendPendingTag"), name="SendPendingTag"},
         [0x5C] = {type=ffi.typeof("struct SendPendingXzyTag"), name="SendPendingXzyTag"},
     },
@@ -273,6 +303,7 @@ Packets.strDefs = {
 Packets.defs = {
     incoming = { 
         [0x0E] = ffi.typeof("struct RecvCharNpc*"),
+        [0x28] = ffi.typeof("struct RecvBattleCalc2*"),
         [0x29] = ffi.typeof("struct RecvBattleMessage*"),
         [0X2A] = ffi.typeof("struct RecvMessageTalkNumWork*"),
         [0x2D] = ffi.typeof("struct RecvBattleMessage2*"),
@@ -285,6 +316,7 @@ Packets.defs = {
     outgoing = {
         [0x15] = ffi.typeof("struct SendCharPos*"),
         [0x1A] = ffi.typeof("struct ActionPacket*"),
+        [0x51] = ffi.typeof("struct EquipSet*"),
         [0x5B] = ffi.typeof("struct SendPendingTag*"),
         [0x5C] = ffi.typeof("struct SendPendingXzyTag*"),
     },
@@ -314,8 +346,6 @@ local function ToBits(num) --todo: this has a bug with floats, need to fix
 end
 
 function Packets:ReflectFormatPacketStr(dir, id, cDataPacket)
-    --print('here2')
-    --print(dir, id, cDataPacket)
     local str = string.format("Packet: %s\n", self.strDefs[dir][id] and self.strDefs[dir][id].name or tostring(id))
     if(dir and id and cDataPacket)then
         for reflection in reflect.typeof(self.strDefs[dir][id].type):members() do
@@ -350,7 +380,7 @@ function Packets:RequestBuffer(dir, id)
         local new = ffi.new(self.strDefs[dir][id].type)
         local pNew = ffi.cast(self.defs[dir][id], new)
         ffi.gc(pNew, ffi.free)
-       -- pNew["Header"] = id //todo: add header here
+        --pNew["Header"] = id todo: add header here
         return pNew
     end
 end
@@ -360,7 +390,7 @@ function Packets:QueueOutgoing(id, data)
         local size = ffi.sizeof(self.strDefs['outgoing'][id].type)
         local packetManager = GameManager:GetPacketManager()
         if(packetManager)then
-            packetManager:QueueOutgoing(id, size, data)
+            return packetManager:QueueOutgoing(id, size, data)
         end
     end
 end
@@ -375,6 +405,79 @@ function Packets:Unpack(dir, id, data)
         ffi.gc(asPacket, ffi.free)
         return asPacket
     end
+end
+
+
+--0x028 stuff
+--copilot wrote the bit functions for me <3 might be a little jank 
+local function unpackBits(data, offset, length)
+    local byteOffset = math.floor(offset / 8)
+    local bitOffset = offset % 8
+    local byteLength = math.ceil((offset + length) / 8) - byteOffset
+    local bitLength = length + bitOffset
+    local value = 0
+    for i = 0, byteLength - 1 do
+        value = bit.lshift(value, 8)
+        value = bit.bor(value, data[byteOffset + i])
+    end
+    value = bit.rshift(value, bitOffset)
+    value = bit.band(value, bit.lshift(1, bitLength) - 1)
+    return value
+end
+
+local function unpackBitsBE(data, offset, length)
+    local byteOffset = math.floor(offset / 8)
+    local bitOffset = offset % 8
+    local byteLength = math.ceil((offset + length) / 8) - byteOffset
+    local bitLength = length + bitOffset
+    local value = 0
+    for i = 0, byteLength - 1 do
+        value = bit.lshift(value, 8)
+        value = bit.bor(value, data[byteOffset + byteLength - i - 1])
+    end
+    value = bit.rshift(value, bitOffset)
+    value = bit.band(value, bit.lshift(1, bitLength) - 1)
+    return value
+end
+
+local function unpackBitsBetweenBE(data, firstBit, lastBit)
+    local offset = firstBit
+    local length = lastBit - firstBit + 1
+    return unpackBitsBE(data, offset, length)
+end
+
+local function unpackBitsBetween(data, firstBit, lastBit)
+    local offset = firstBit
+    local length = lastBit - firstBit + 1
+    return unpackBits(data, offset, length)
+end
+
+--incomplete but this packet is a pita, might be worth seeing if we can just call CXiSchStatus::Unpack() and pass that back to lua
+function Packets:UnpackActionPacket(cPacket)
+    if(not cPacket)then return nil end
+
+    local packet = {}
+    packet["Header"] = cPacket["Header"]
+    packet["Length"] = cPacket["Length"]
+    packet["ActorId"] = cPacket["ActorId"]
+
+    --start packed data
+    packet["TargetCount"] = unpackBits(cPacket["PackedData"], 0, 8)
+    packet["Category"] = unpackBits(cPacket["PackedData"], 10, 2)
+    packet["Param"] = unpackBitsBE(cPacket["PackedData"], 14, 16)
+    packet["Param2"] = unpackBitsBE(cPacket["PackedData"], 30, 16)
+    packet["Recast"] = unpackBitsBE(cPacket["PackedData"], 46, 32)
+
+    --only handling part of first action for now, debating how to move forward with this packet before i work out all of it
+    packet["Actions"] = {}
+    packet["Actions"][1] = {
+        ["TargetId"] = unpackBitsBetweenBE(cPacket["PackedData"], 78, 102),
+        ["TargetCount"] = unpackBitsBetweenBE(cPacket["PackedData"], 110, 111),
+        ["Animation"] = unpackBitsBetweenBE(cPacket["PackedData"], 118, 129) / 2,
+        ["Param"] = unpackBitsBetweenBE(cPacket["PackedData"], 140 , 153) / 2,
+    }
+
+    return packet
 end
 
 setmetatable(Packets, MetaTable)

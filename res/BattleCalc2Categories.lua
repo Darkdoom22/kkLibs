@@ -1,0 +1,36 @@
+return {
+    [0] = "None",
+    [1] = "Attack",
+    [2] = "RangedFinish",
+    [3] = "WeaponSkillFinish",
+    [4] = "MagicFinish",
+    [5] = "ItemFinish",
+    [6] = "JobAbilityFinish",
+    [7] = "WeaponSkillStart",
+    [8] = "MagicStart",
+    [9] = "ItemStart",
+    [10] = "JobAbilityStart",
+    [11] = "MonsterAbilityFinish",
+    [12] = "RangedStart",
+    [13] = "PetAbilityFinish",
+    [14] = "DancerAbility",
+    [15] = "RuneFencerAbility",
+
+    ["FinishCategories"] = {
+        2,
+        3,
+        4,
+        5,
+        6,
+        11,
+        13,
+    },
+
+    ["StartCategories"] = {
+        7,
+        8,
+        9,
+        10,
+        12,
+    },
+}
