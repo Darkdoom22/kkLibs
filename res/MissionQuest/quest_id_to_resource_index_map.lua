@@ -1,8 +1,8 @@
 --Dumped from FFXI by Dupes
 --Written By: Uwu/Darkdoom
---2022-12-12 08:46:24
---gMissionQuestResDataTableInstancesStart = FFXiMain.dll+0x62C430
---gMissionData = FFXiMain.dll+0x477100
+--2023-03-10 11:57:44
+--gMissionQuestResDataTableInstancesStart = FFXiMain.dll+0x62F678
+--gMissionData = FFXiMain.dll+0x47A340
 return {
 { questType="SandoriaQuests", questIndex=0, resourceIndex=0,},
 { questType="SandoriaQuests", questIndex=1, resourceIndex=1,},

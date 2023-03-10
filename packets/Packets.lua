@@ -9,7 +9,7 @@ local ffi = require("ffi")
 local reflect = require("libs.reflect")
 
 ffi.cdef[[
-    struct pktHeader    //filling in the header for outgoing after calling ZoneSendQueueSearch rn, but populating id/size here could save a memcpy - and need to do for incoming anyway so implement this
+    struct pktHeader    //handling headers entirely on the c side, this version of luajit doesn't have bitfield support - leaving as reference
     {
         uint16_t id : 9;
         uint16_t len : 7;

@@ -1,8 +1,8 @@
 --Dumped from FFXI by Dupes
 --Written By: Uwu/Darkdoom
---2022-12-12 08:46:24
---gMissionQuestResDataTableInstancesStart = FFXiMain.dll+0x62C430
---gMissionData = FFXiMain.dll+0x477100
+--2023-03-10 11:57:44
+--gMissionQuestResDataTableInstancesStart = FFXiMain.dll+0x62F678
+--gMissionData = FFXiMain.dll+0x47A340
 return {
 { missionType="Sandoria", missionIndex=0, resourceIndex=0,},
 { missionType="Sandoria", missionIndex=1, resourceIndex=1,},
@@ -1293,6 +1293,8 @@ return {
 { missionType="TheVoraciousResurgence", missionIndex=580, resourceIndex=40,},
 { missionType="TheVoraciousResurgence", missionIndex=592, resourceIndex=41,},
 { missionType="TheVoraciousResurgence", missionIndex=602, resourceIndex=42,},
+{ missionType="TheVoraciousResurgence", missionIndex=612, resourceIndex=43,},
+{ missionType="TheVoraciousResurgence", missionIndex=624, resourceIndex=44,},
 { missionType="ACrystallineProphecy", missionIndex=0, resourceIndex=0,},
 { missionType="ACrystallineProphecy", missionIndex=1, resourceIndex=1,},
 { missionType="ACrystallineProphecy", missionIndex=2, resourceIndex=2,},

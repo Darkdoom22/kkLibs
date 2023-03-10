@@ -4473,10 +4473,10 @@ Reward: Dark Matter]]},
 {["DatId"] = 61099, ["RealId"] = 3755, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
 {["DatId"] = 61100, ["RealId"] = 3756, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
 {["DatId"] = 61101, ["RealId"] = 3757, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
-{["DatId"] = 61102, ["RealId"] = 3758, ["ObjectiveCount"] = 1,["SparksReward"] = 100, ["ExpReward"] = 100, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 1 (Daily)", ["Name2"] = "Ambuscade Primer Vol. 1 (Daily)",["Description"] = [[(Daily) Assist Abdhaljs in his research by vanquishing the requisite number of worms in non-Legion areas.
+{["DatId"] = 61102, ["RealId"] = 3758, ["ObjectiveCount"] = 1,["SparksReward"] = 100, ["ExpReward"] = 100, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 1 (Daily)", ["Name2"] = "Ambuscade Primer Vol. 1 (Daily)",["Description"] = [[(Daily) Assist Abdhaljs in his research by vanquishing the requisite number of Sahagin in non-Legion areas.
 Special reward: Ambuscade Primer Volume 1.
 *You may only have one of these items at any given time.]]},
-{["DatId"] = 61103, ["RealId"] = 3759, ["ObjectiveCount"] = 1,["SparksReward"] = 100, ["ExpReward"] = 100, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 2 (Daily)", ["Name2"] = "Ambuscade Primer Vol. 2 (Daily)",["Description"] = [[(Daily) Assist Abdhaljs in his research by vanquishing the requisite number of birds in non-Legion areas.
+{["DatId"] = 61103, ["RealId"] = 3759, ["ObjectiveCount"] = 1,["SparksReward"] = 100, ["ExpReward"] = 100, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 2 (Daily)", ["Name2"] = "Ambuscade Primer Vol. 2 (Daily)",["Description"] = [[(Daily) Assist Abdhaljs in his research by vanquishing the requisite number of elementals in non-Legion areas.
 Special reward: Ambuscade Primer Volume 2.
 *You may only have one of these items at any given time.]]},
 {["DatId"] = 61104, ["RealId"] = 3760, ["ObjectiveCount"] = 1,["SparksReward"] = 100, ["ExpReward"] = 200, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade (W)", ["Name2"] = "Ambuscade (W)",["Description"] = [[(Weekly) Successfully complete any Ambuscade the requisite number of times.
@@ -4532,7 +4532,7 @@ Special reward: 10 deeds of heroism.]]},
 {["DatId"] = 61131, ["RealId"] = 3787, ["ObjectiveCount"] = 2000,["SparksReward"] = 200, ["ExpReward"] = 2000, ["CapacityPointsReward"] = 2000,["AccoladesReward"] = 0, ["Name1"] = "Delve (M)", ["Name2"] = "Delve (M)",["Description"] = [[(Monthly) Acquire the requisite amount of mweya plasm from sources other than A.M.A.N. vouchers.
 Special reward: 10 deeds of heroism.]]},
 {["DatId"] = 61132, ["RealId"] = 3788, ["ObjectiveCount"] = 1,["SparksReward"] = 1000, ["ExpReward"] = 5000, ["CapacityPointsReward"] = 5000,["AccoladesReward"] = 0, ["Name1"] = "High-Tier Mission Battlefields (M)", ["Name2"] = "High-Tier Mission Battlefields (M)",["Description"] = [[(Monthly) Emerge victorious from
-��Ark Angels V on any difficulty level the requisite number of times.
+��The Celestial Nexus on any difficulty level the requisite number of times.
 Special reward: 10 deeds of heroism.]]},
 {["DatId"] = 61133, ["RealId"] = 3789, ["ObjectiveCount"] = 1,["SparksReward"] = 500, ["ExpReward"] = 10000, ["CapacityPointsReward"] = 30000,["AccoladesReward"] = 0, ["Name1"] = "Peculiar Foes I (M)", ["Name2"] = "Peculiar Foes I (M)",["Description"] = [[(Monthly) Vanquish the fiend that appears at the peculiar footprints in Wajaom Woodlands (H-13).
 Special reward: Silver A.M.A.N. Voucher]]},
@@ -4560,8 +4560,10 @@ Special reward: Silver A.M.A.N. Voucher]]},
 Special reward: Silver A.M.A.N. Voucher]]},
 {["DatId"] = 61145, ["RealId"] = 3801, ["ObjectiveCount"] = 1,["SparksReward"] = 500, ["ExpReward"] = 10000, ["CapacityPointsReward"] = 30000,["AccoladesReward"] = 0, ["Name1"] = "Peculiar Foes XIII (M)", ["Name2"] = "Peculiar Foes XIII (M)",["Description"] = [[(Monthly) Vanquish the fiend that appears at the peculiar footprints in Rala Waterways (N-5).
 Special reward: Silver A.M.A.N. Voucher]]},
-{["DatId"] = 61146, ["RealId"] = 3802, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
-{["DatId"] = 61147, ["RealId"] = 3803, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
+{["DatId"] = 61146, ["RealId"] = 3802, ["ObjectiveCount"] = 1,["SparksReward"] = 500, ["ExpReward"] = 10000, ["CapacityPointsReward"] = 30000,["AccoladesReward"] = 0, ["Name1"] = "Peculiar Foes XIV (M)", ["Name2"] = "Peculiar Foes XIV (M)",["Description"] = [[(Monthly) Vanquish the fiend that appears at the peculiar footprints in Newton Movalpolos (L-9).
+Special reward: Silver A.M.A.N. Voucher]]},
+{["DatId"] = 61147, ["RealId"] = 3803, ["ObjectiveCount"] = 1,["SparksReward"] = 500, ["ExpReward"] = 10000, ["CapacityPointsReward"] = 30000,["AccoladesReward"] = 0, ["Name1"] = "Peculiar Foes XV (M)", ["Name2"] = "Peculiar Foes XV (M)",["Description"] = [[(Monthly) Vanquish the fiend that appears at the peculiar footprints in Xarcabard (D-8).
+Special reward: Silver A.M.A.N. Voucher]]},
 {["DatId"] = 61148, ["RealId"] = 3804, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
 {["DatId"] = 61149, ["RealId"] = 3805, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
 {["DatId"] = 61150, ["RealId"] = 3806, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = ".", ["Name2"] = ".",["Description"] = [[.]]},
@@ -4757,10 +4759,10 @@ Special reward: Silver A.M.A.N. Voucher]]},
 Reward: Abdhaljs Seal]]},
 {["DatId"] = 61340, ["RealId"] = 3996, ["ObjectiveCount"] = 0,["SparksReward"] = 1, ["ExpReward"] = 1, ["CapacityPointsReward"] = 1,["AccoladesReward"] = 1, ["Name1"] = "Scenarios 18", ["Name2"] = "Scenarios 18",["Description"] = [[.]]},
 {["DatId"] = 61341, ["RealId"] = 3997, ["ObjectiveCount"] = 0,["SparksReward"] = 1, ["ExpReward"] = 1, ["CapacityPointsReward"] = 1,["AccoladesReward"] = 1, ["Name1"] = "Scenarios 19", ["Name2"] = "Scenarios 19",["Description"] = [[.]]},
-{["DatId"] = 61342, ["RealId"] = 3998, ["ObjectiveCount"] = 3,["SparksReward"] = 100, ["ExpReward"] = 300, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 1", ["Name2"] = "Ambuscade Primer Vol. 1",["Description"] = [[Assist Abdhaljs in his research by vanquishing the requisite number of experience-yielding worms in non-Legion or non-Abyssea areas.
+{["DatId"] = 61342, ["RealId"] = 3998, ["ObjectiveCount"] = 3,["SparksReward"] = 100, ["ExpReward"] = 300, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 1", ["Name2"] = "Ambuscade Primer Vol. 1",["Description"] = [[Assist Abdhaljs in his research by vanquishing the requisite number of experience-yielding Sahagin in non-Legion or non-Abyssea areas.
 Special reward: Ambuscade Primer Volume 1.
 *You may only have one of these items at any given time.]]},
-{["DatId"] = 61343, ["RealId"] = 3999, ["ObjectiveCount"] = 3,["SparksReward"] = 100, ["ExpReward"] = 300, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 2", ["Name2"] = "Ambuscade Primer Vol. 2",["Description"] = [[Assist Abdhaljs in his research by vanquishing the requisite number of experience-yielding birds in non-Legion or non-Abyssea areas.
+{["DatId"] = 61343, ["RealId"] = 3999, ["ObjectiveCount"] = 3,["SparksReward"] = 100, ["ExpReward"] = 300, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Ambuscade Primer Vol. 2", ["Name2"] = "Ambuscade Primer Vol. 2",["Description"] = [[Assist Abdhaljs in his research by vanquishing the requisite number of experience-yielding elementals in non-Legion or non-Abyssea areas.
 Special reward: Ambuscade Primer Volume 2.
 *You may only have one of these items at any given time.]]},
 {["DatId"] = 61344, ["RealId"] = 4000, ["ObjectiveCount"] = 0,["SparksReward"] = 0, ["ExpReward"] = 0, ["CapacityPointsReward"] = 0,["AccoladesReward"] = 0, ["Name1"] = "Unlock Scenarios I", ["Name2"] = "Unlock Scenarios I",["Description"] = [[.]]},
