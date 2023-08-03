@@ -390,7 +390,7 @@ function Packets:QueueOutgoing(id, data)
         local size = ffi.sizeof(self.strDefs['outgoing'][id].type)
         local packetManager = GameManager:GetPacketManager()
         if(packetManager)then
-            return packetManager:QueueOutgoing(id, size, tonumber(data))
+            return packetManager:QueueOutgoing(id, size, tonumber(ffi.cast("uintptr_t", data))) --TODO: super hacky way to integrate this existing ffi stuff into sol, works but there's probably a better way
         end
     end
 end
