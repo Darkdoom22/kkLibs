@@ -89,7 +89,7 @@ function Navigation:MoveToBestWaypoint()
         if(nextWp)then
             local dist = ourPos:Distance(Vec3(nextWp.x, nextWp.z, nextWp.y))
             if(dist > 2.5)then
-                GameManager:GetMovementManager():MoveTo(nextWp.x, nextWp.y, nextWp.z)--todo standardize capitalization
+                GameManager:GetMovementManager():MoveTo(seVector3:new(nextWp.x, nextWp.y, nextWp.z))--todo standardize capitalization
             else
                 self.CurrentPath:Remove(nextWp)
             end

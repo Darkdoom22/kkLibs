@@ -390,7 +390,7 @@ function Packets:QueueOutgoing(id, data)
         local size = ffi.sizeof(self.strDefs['outgoing'][id].type)
         local packetManager = GameManager:GetPacketManager()
         if(packetManager)then
-            return packetManager:QueueOutgoing(id, size, data)
+            return packetManager:QueueOutgoing(id, size, tonumber(data))
         end
     end
 end
