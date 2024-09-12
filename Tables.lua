@@ -2,9 +2,10 @@
     Written By: Uwu/Darkdoom 12/5/2022
     Description: This class adds additional (linq-like) functionality to lua tables
     Notes: This is a work in progress
-    --TODO: remove all the overloads and handle in single functions, totally forgot lua doesn't like that
 ]]
 
+--TODO: remove all the overloads and handle in single functions, totally forgot lua doesn't like that
+--TODO: remove unecessary methods, test every method for correctness
 local table = require('table')
 
 local Tables = {
@@ -453,6 +454,36 @@ function Tables.Where(t, fn)
         end
     end
     return new
+end
+
+function Tables.Serialize(t, isRecursive)
+    local isRecursed = isRecursive or false
+    local tableStr = "{\n"
+    for k,v in pairs(t) do
+
+        if(type(k) == 'string')then
+            tableStr = string.format("%s\t['%s'] = ", tableStr, k)
+        else
+            tableStr = string.format("%s\t['%s'] = ", tableStr, tostring(k))
+        end
+
+        if(type(v) == 'table')then
+                tableStr = string.format("%s%s", tableStr, Tables.Serialize(v, true))
+        elseif(type(v) == 'string')then
+            tableStr = string.format("%s'%s'", tableStr, v)
+        else
+            tableStr = string.format("%s%s", tableStr, tostring(v))
+        end
+
+        tableStr = string.format("%s,\n", tableStr)
+    end
+
+    if(isRecursed)then
+       tableStr = string.format("%s},", tableStr)
+    else
+        tableStr = string.format("return %s}", tableStr)
+    end
+    return tableStr
 end
 
 return Tables

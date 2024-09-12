@@ -6,9 +6,9 @@
 
 --TODO: Nav functions need to go inside a class and regiser that, globally registering them is just temporary
 
-require("libs.Tables")
-require("libs.Vector3")
-local ImGui = require("libs.imgui")
+require("Tables")
+require("Vector3")
+local ImGui = require("imgui")
 local ZoneNames = require("res.ZoneNames")
 --TODO: add lib / addon path functions to api
 local function script_path()
@@ -47,7 +47,7 @@ function Navigation:TryLoadMesh()
         print("FFXINAV.dll not loaded\n")
         return false
     end
-    local curZoneId = GetZoneId()
+    local curZoneId = GameManager:GetZoneId()
     local zoneName = ZoneNames[curZoneId]
     if(curZoneId and zoneName and curZoneId ~= 0 and curZoneId ~= self.CurrentZoneId)then
         self.LastZoneId = self.CurrentZoneId
@@ -69,10 +69,10 @@ end
 
 --nav dll expects y and z flipped
 function Navigation:FindPath(dest)
-    local localActor = GetLocalActor()
+    local localActor = GameManager:GetLocalPlayer()
     if(localActor and self.CurrentPath and os.clock() - self.LastPathUpdate > 1)then
         local flipDest = {x = dest.x, y = dest.z, z = dest.y}
-        local ourPos = {x = localActor.X, y = localActor.Z, z = localActor.Y}
+        local ourPos = {x = localActor.Position.x, y = localActor.Position.z, z = localActor.Position.y}
         local waypoints = T(FindPath(ourPos, flipDest))
         self.CurrentPath = waypoints
         self.CurrentGoal = dest
@@ -82,9 +82,9 @@ function Navigation:FindPath(dest)
 end
 
 function Navigation:MoveToBestWaypoint()
-    local localActor = GetLocalActor()
+    local localActor = GameManager:GetLocalPlayer()
     if(localActor and self.CurrentPath and self.CurrentPath:Length() > 0)then
-        local ourPos = Vec3{localActor.X, localActor.Y, localActor.Z}
+        local ourPos = Vec3{localActor.Position.x, localActor.Position.y, localActor.Position.z}
         local nextWp = self.CurrentPath:First()
         if(nextWp)then
             local dist = ourPos:Distance(Vec3(nextWp.x, nextWp.z, nextWp.y))
@@ -103,8 +103,8 @@ end
 --NOTE: only call this method from addon["Present"]
 function Navigation:DrawWaypointsWS()
     local count = 1
-    local localActor = GetLocalActor()
-    local prevWp = Vec3{localActor.X, localActor.Z, localActor.Y}
+    local localActor = GameManager:GetLocalPlayer()
+    local prevWp = Vec3{localActor.Position.x, localActor.Position.z, localActor.Position.y}
     for wp in self.CurrentPath:It() do
         local wp = Vec3(wp.x, wp.y, wp.z)
         if(prevWp)then
@@ -114,5 +114,5 @@ function Navigation:DrawWaypointsWS()
         ImGui:AddCircle(wp, 3, {0.2, 1, 0.2}, true)
         count = count + 1
         prevWp = wp
-    end 
+    end
 end

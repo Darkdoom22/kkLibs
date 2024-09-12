@@ -198,8 +198,8 @@ function ImGui:ArrowButton(text, direction)
 end
 
 function ImGui:Checkbox(label, value)
-    if(label and value)then
-        return ImGui_Checkbox(label, value)
+    if(label)then
+        return ImGui_Checkbox(label, value or false)
     end
 end
 
@@ -306,6 +306,34 @@ function ImGui:DrawSkeletons(indexesOnly)
     else
         ImGui_DrawSkeletons()
     end
+end
+
+function ImGui:CollapsingHeader(label, flags, open)
+    if(label and flags and open)then
+        return ImGui_CollapsingHeader(label, flags, open)
+    end
+    
+    if(label and flags)then
+        return ImGui_CollapsingHeader(label, flags)
+    end
+
+    if(label)then
+        return ImGui_CollapsingHeader(label)
+    end
+end
+
+function ImGui:InputText(label, flags)
+    if(label and flags)then
+        return ImGui_InputText(label, flags)
+    end
+
+    if(label)then
+        return ImGui_InputText(label)
+    end
+end
+
+function ImGui:GetWindowPos()
+    return ImGui_GetWindowPos()
 end
 
 setmetatable(ImGui, MetaTable)

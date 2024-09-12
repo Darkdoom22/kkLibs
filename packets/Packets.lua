@@ -6,7 +6,7 @@
 
 package.loaded["ffi"] = nil
 local ffi = require("ffi")
-local reflect = require("libs.reflect")
+local reflect = require("reflect")
 
 ffi.cdef[[
     struct pktHeader    //handling headers entirely on the c side, this version of luajit doesn't have bitfield support - leaving as reference
@@ -271,6 +271,47 @@ ffi.cdef[[
         uint16_t Type;
         uint8_t Data[150];
     };
+
+    struct RecvPartyMemberUpdate
+    {
+        uint32_t Header;
+        uint32_t Id;
+        uint32_t Hp;
+        uint32_t Mp;
+        uint32_t Tp;
+        uint16_t Flags;
+        uint16_t unk1;
+        uint16_t Index;
+        uint16_t unk2;
+        uint8_t unk3;
+        uint8_t Hpp;
+        uint8_t Mpp;
+        uint8_t unk4;
+        uint16_t ZoneId;
+        uint8_t MainJob;
+        uint8_t MainJobLevel;
+        uint8_t SubJob;
+        uint8_t SubJobLevel;
+        uint8_t MasterLevel;
+        uint8_t PackedMasterBreakerInfo;
+        char Name[18];
+    };
+
+    //TODO: finish this packet
+    struct ItemDropPacket
+    {
+        uint32_t Header;
+        uint32_t dword4;
+        uint32_t DropperId;
+        uint32_t Count;
+        uint16_t Item;
+        uint16_t DropperIndex;
+        uint8_t Index;
+        uint8_t Old;
+        uint8_t byte16;
+        uint8_t gap17;
+        uint32_t Timestamp;
+    };
 ]]
 
 local Packets = {
@@ -290,6 +331,8 @@ Packets.strDefs = {
         [0x36] = {type=ffi.typeof("struct RecvMessageTalkNum"), name="RecvMessageTalkNum"},
         [0x61] = {type=ffi.typeof("struct RecvCliStatus"), name="RecvCliStatus"},
         [0x63] = {type=ffi.typeof("struct RecvSetUpdate"), name="RecvSetUpdate"},
+        [0xDD] = {type=ffi.typeof("struct RecvPartyMemberUpdate"), name="RecvPartyMemberUpdate"},
+        [0xD2] = {type=ffi.typeof("struct ItemDropPacket"), name="ItemDropPacket"}
     },
     outgoing = {
         [0x15] = {type=ffi.typeof("struct SendCharPos"), name="SendCharPos"},
@@ -312,6 +355,8 @@ Packets.defs = {
         [0x36] = ffi.typeof("struct RecvMessageTalkNum*"),
         [0x61] = ffi.typeof("struct RecvCliStatus*"),
         [0x63] = ffi.typeof("struct RecvSetUpdate*"),
+        [0xDD] = ffi.typeof("struct RecvPartyMemberUpdate*"),
+        [0xD2] = ffi.typeof("struct ItemDropPacket*")
     },
     outgoing = {
         [0x15] = ffi.typeof("struct SendCharPos*"),
