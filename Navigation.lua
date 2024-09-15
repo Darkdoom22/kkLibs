@@ -48,7 +48,7 @@ function Navigation:TryLoadMesh()
         return false
     end
     local curZoneId = GameManager:GetZoneId()
-    local zoneName = ZoneNames[curZoneId]
+    local zoneName = GameManager.XiStrGet(0x14, curZoneId)
     if(curZoneId and zoneName and curZoneId ~= 0 and curZoneId ~= self.CurrentZoneId)then
         self.LastZoneId = self.CurrentZoneId
         self.CurrentZoneId = curZoneId

@@ -6,6 +6,7 @@
 
 --TODO: remove all the overloads and handle in single functions, totally forgot lua doesn't like that
 --TODO: remove unecessary methods, test every method for correctness
+--TODO: better differentiate methods that act on the table or return a new table
 local table = require('table')
 
 local Tables = {
@@ -374,12 +375,12 @@ function Tables.Select(t, fn)
     return new
 end
 
+--TODO: handle nested tables
 function Tables.SequenceEqual(t1, t2)
-    if(Tables.Length(t1) ~= Tables.Length(t2))then
-        return false
-    end
-    for i = 1, Tables.Length(t1) do
-        if(t1[i] ~= t2[i])then
+    for k,v in pairs(t1) do
+        local v2 = t2[k]
+      --  print(k, v, v2)
+        if(v2 == nil or v ~= v2)then
             return false
         end
     end
@@ -462,15 +463,17 @@ function Tables.Serialize(t, isRecursive)
     for k,v in pairs(t) do
 
         if(type(k) == 'string')then
-            tableStr = string.format("%s\t['%s'] = ", tableStr, k)
+            tableStr = string.format("%s\t[\"%s\"] = ", tableStr, k)
+        elseif(type(k) == 'number')then
+            tableStr = string.format("%s\t[%d] = ", tableStr, k)
         else
-            tableStr = string.format("%s\t['%s'] = ", tableStr, tostring(k))
+            tableStr = string.format("%s\t[\"%s\"] = ", tableStr, tostring(k))
         end
 
         if(type(v) == 'table')then
                 tableStr = string.format("%s%s", tableStr, Tables.Serialize(v, true))
         elseif(type(v) == 'string')then
-            tableStr = string.format("%s'%s'", tableStr, v)
+            tableStr = string.format("%s[[%s]]", tableStr, v)
         else
             tableStr = string.format("%s%s", tableStr, tostring(v))
         end
@@ -485,5 +488,6 @@ function Tables.Serialize(t, isRecursive)
     end
     return tableStr
 end
+
 
 return Tables
